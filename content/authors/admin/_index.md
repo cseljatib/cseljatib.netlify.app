@@ -1,29 +1,28 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests include biometrics, applied statistics, and forest ecology.
 education:
   courses:
   - course: PhD in Biometrics
     institution: Yale University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+    year: 2011
+  - course: MSc in Statistics
+    institution: University of Idaho
+    year: 2006
+  - course: BSc in Forest Engineering
+    institution: Universidad de La Frontera
     year: 2008
-email: ""
+email: "cseljatib@gmail.com"
 first_name: Christian
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-last_name: Salas
+- Biometrics
+- Forest ecology
+- Applied statistics
+last_name: Salas-Eljatib
 organizations:
 - name: Universidad Mayor
   url: https://www.cem.umayor.cl/
-role: Professor of Artificial Intelligence
+role: Full Professor of Biometrics
 social:
 - icon: envelope
   icon_pack: fas
@@ -36,19 +35,17 @@ social:
   link: https://twitter.com/cseljatib
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.fr/citations?user=xtfNt9IAAAAJ
 #- icon: github
 #  icon_pack: fab
-#  link: https://github.com/cseljatib
+#  link: https://github.com/gcushen
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://linkedin.com/in/christian-salas-eljatib-b43a4a140
 superuser: true
-title: Christian Salas
+title: Christian Salas-Eljatib
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Christian is a professor of biometrics at the Centre of Ecosystem Modelling and Monitoring at the Universidad Mayor, in Santiago, Chile. His research interests include biometrics, applied statistics and ecological modelling. He leads the Biometrics group, which develops mathematical and statistical models for forecasting forest ecosystem features, allometry, and sampling.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
