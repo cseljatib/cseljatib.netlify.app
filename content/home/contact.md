@@ -25,15 +25,15 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: cseljatib@gmail.com
+  #phone: 888 888 88 88
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
+   # street: 450 Serra Mall
+    city: Santiago, Chile
+  #  region: CA
+  #  postcode: '94305'
+    country: Chile
+    country_code: CL
   coordinates:
     latitude: '37.4275'
     longitude: '-122.1697'
@@ -46,7 +46,7 @@ content:
     - icon: twitter
       icon_pack: fab
       name: DM Me
-      link: 'https://twitter.com/Twitter'
+      link: 'https://twitter.com/cseljatib'
     - icon: video
       icon_pack: fas
       name: Zoom Me

@@ -36,14 +36,14 @@ experience:
         * Modelling
         * Deploying
 
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
+  - title: Associate Professor
+    company: Universidad de La Frontera
+    company_url: 'https://www.ufro.cl'
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Temuco, Chile
+    date_start: '2004-08-01'
+    date_end: '2018-07-31'
+    description: Taught forest engineering and researched growth modelling.
 
 design:
   columns: '2'
