@@ -24,7 +24,7 @@ date_format: Oct 2022
 experience:
   - title: Full Professor
     company: Centre for Ecosystem Modelling and Monitoring
-    company_url: 'https://www.cem.umayor.cl'
+    company_url: 'https://cem.umayor.cl'
     company_logo: org-gc
     location: Santiago, Chile
     date_start: '2018-08-01'
