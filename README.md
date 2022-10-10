@@ -17,3 +17,7 @@ respecto a como lograr que este sitio use mi dominio especifico, eljatib.com, lo
 
 https://mattmilici.medium.com/connect-a-custom-godaddy-domain-to-your-netlify-site-a48aa18191d7#:~:text=Start%20by%20signing%20into%20Netlify,the%20domain%20purchased%20on%20GoDaddy.
 
+pero ojo que no me funciono, por lo tanto, lo que preferi, fue solo redireccionar de forma enmascarada desde godaddy hasta netlify
+
+una alternativa diferente es no solo usando dominios, como en el link anterior, sino que tratar con 
+https://levelup.gitconnected.com/netlify-custom-domains-8b4cc5fddb5d
