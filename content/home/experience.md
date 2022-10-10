@@ -25,25 +25,34 @@ experience:
   - title: Full Professor
     company: Centre for Ecosystem Modelling and Monitoring
     company_url: 'https://cem.umayor.cl'
-    company_logo: org-gc
+    company_logo: org-umayor
     location: Santiago, Chile
     date_start: '2018-08-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+    description: #|2-
+        # Responsibilities include:
+        # 
+        # * Analysing
+        # * Modelling
+        # * Deploying
 
   - title: Associate Professor
     company: Universidad de La Frontera
     company_url: 'https://www.ufro.cl'
     company_logo: org-ufro
     location: Temuco, Chile
-    date_start: '2004-08-01'
+    date_start: '2012-01-01'
     date_end: '2018-07-31'
-    description: Taught forest engineering and researched growth modelling.
+#   description: Taught forest engineering and researched growth modelling.
+
+  - title: Assistant Professor
+    company: Universidad de La Frontera
+    company_url: 'https://www.ufro.cl'
+    company_logo: org-ufro
+    location: Temuco, Chile
+    date_start: '2004-08-01'
+    date_end: '2011-12-31'
+#    description: Taught forest engineering and researched growth modelling.
 
 design:
   columns: '2'
