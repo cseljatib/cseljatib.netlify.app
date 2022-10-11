@@ -11,7 +11,7 @@ abstract: El 19 de Julio de 2022, como parte de la serie
 #  street: 450 Serra Mall
 #all_day: false
 #authors: []
-#date: "2030-06-01T13:00:00Z"
+date: "2022-07-20T09:00:00Z"
 #date_end: "2030-06-01T15:00:00Z"
 #event: IUFRO biometrics chats
 #event_url: https://example.org
