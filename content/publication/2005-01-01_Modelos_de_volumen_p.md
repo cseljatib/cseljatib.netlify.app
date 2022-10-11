@@ -1,5 +1,5 @@
 +++
-title = "Modelos de volumen para Pinus pinaster Ait. en la comarca del Baixo Mino, Galicia, Espana"
+title = "Modelos de volumen para Pinus pinaster Ait. en la comarca del Baixo Miño, Galicia, España"
 date = "2005-01-01"
 authors = ["C. Salas", "L. Nieto", "A. Irisarri"]
 publication_types = ["2"]

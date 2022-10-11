@@ -7,6 +7,7 @@ publication = "Bosque, 29(1) 3--10. https://doi.org/10.4067/S0717-92002008000100
 publication_short = "Bosque, 29(1) 3--10. https://doi.org/10.4067/S0717-92002008000100001"
 abstract = "(Abstract not available)"
 abstract_short = ""
+url_source = "https://www.researchgate.net/publication/250372031_Sugerencias_para_mejorar_la_calidad_de_las_revistas_cientificas_chilenas_una_aplicacion_en_las_ciencias_forestales_con_Bosque"
 url_code = ""
 image_preview = ""
 selected = false
