@@ -4,7 +4,7 @@ external_link: http://simuladorpellin.com
 image:
   caption: Photo by Toa Heftiba on Unsplash
   focal_point: Smart
-summary: FONDEF project for forest growth forecasting (see details here `external_link`).
+summary: FONDEF project for forest growth forecasting.
 tags:
 - Past
 - Modelling
@@ -12,3 +12,7 @@ tags:
 - Silviculture
 title: A growth simulator for natural forest
 ---
+
+<!--- 
+(see details here `http://simuladorpellin.com`)
+-->

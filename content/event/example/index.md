@@ -1,46 +1,58 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac
-  convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac
-  faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien
-  eu, pulvinar tempor diam.
-address:
-  city: Stanford
-  country: United States
-  postcode: "94305"
-  region: CA
-  street: 450 Serra Mall
-all_day: false
-authors: []
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
-event: Wowchemy Conference
-event_url: https://example.org
+abstract: El 19 de Julio de 2022, como parte de la serie
+ de charlas enmarcadas dentro de los webinar sobre
+ "*Forest Mensuration and Modelling Chats*", organizados
+ por la sección 4.0.1 de la International Union of Forest Research Organizations **IUFRO**, fui invitado  a dictar una charla.
+#address:
+#  city: Stanford
+#  country: Canada
+#  postcode: "94305"
+#  region: CA
+#  street: 450 Serra Mall
+#all_day: false
+#authors: []
+#date: "2030-06-01T13:00:00Z"
+#date_end: "2030-06-01T15:00:00Z"
+#event: IUFRO biometrics chats
+#event_url: https://example.org
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit: [**cseljatib**](https://eljatib.com)'
   focal_point: Right
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-location: Wowchemy HQ
+#links:
+#- icon: twitter
+#  icon_pack: fab
+#  name: Follow
+#  url: https://twitter.com/cseljatib
+#location: Wowchemy HQ
 projects:
 - example
-publishDate: "2017-01-01T00:00:00Z"
-slides: example
-summary: An example talk using Wowchemy's Markdown slides feature.
+#publishDate: "2022-10-01T00:00:00Z"
+#slides: example
+summary: IUFRO talk.
 tags: []
-title: Example Talk
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
+title: Talk at IUFRO webinar
+#url_code: ""
+#url_pdf: ""
+url_video: "https://youtu.be/quXAoFMNpz4"
 ---
 
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
+> *La [IUFRO](www.iufro.org) es la Unión Internacional de Organizaciones de Investigación Forestal, y se organiza en divisiones y secciones
+disciplinarias. Por
+ejemplo la Division 4 es sobre Evaluación, Modelación y Manejo.*
+
+ La seccion 4.0.1 es sobre Mensura forestal y modelación, y es coordinada por la Dra Bianca Eskelson de la [University of British Columbia](www.ubc.ca). 
+ El titulo de la charla fue "Modelling growth of natural forests with scarce data: challenges and a proposal".
+En la charla participaron 71 personas, de los siguientes paises:
+ USA, Canada, India, Chile, Nigeria, Nepal, Etiopia, Colombia, Italia,
+Bangladesh, Filipina, Grecia, Suecia, Nigeria, Ecuador, Papua Nueva Guinea, Pakistan,
+Brasil, Argentina, Turquia, Inglaterra, Iran, Mexico, y Kyrgyzstan.
+
+
+El video de la charla esta disponible en YouTube en el [link](https://youtu.be/quXAoFMNpz4)
+
+<!--- 
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
 
 Slides can be added in a few ways:
 
@@ -48,4 +60,11 @@ Slides can be added in a few ways:
 - **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
 
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
+{{% callout note %}}
+Click on the **Slides** button above to view the built-in slides feature.
+{{% /callout %}}
+
+> *La [IUFRO](www.iufro.org) es la Unión Internacional de Organizaciones de Investigación Forestal, y se organiza en divisiones y secciones
+disciplinarias. Por
+ejemplo la Division 4 es sobre Evaluación, Modelación y Manejo.*
+-->

@@ -46,7 +46,7 @@ superuser: true
 title: Christian Salas-Eljatib
 ---
 
-**Web page under construction!!**
+`**Web page under construction!!**`
 
 Christian is a professor of biometrics at the [Centre of Ecosystem Modelling and Monitoring](https://www.cem.umayor.cl/) at the [Universidad Mayor](https://www.umayor.cl/), in Santiago, Chile. His research interests include biometrics, applied statistics and ecological modelling. He leads the Biometrics group, which develops mathematical and statistical models for forecasting forest ecosystem features, allometry, and sampling.
 
