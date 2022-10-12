@@ -7,6 +7,7 @@ publication = "Ecological Modelling, 431 109198. https://doi.org/10.1016/j.ecolm
 publication_short = "Ecological Modelling, 431 109198. https://doi.org/10.1016/j.ecolmodel.2020.109198"
 abstract = "(Abstract not available)"
 abstract_short = ""
+url_source = "https://cseljatib.netlify.app/myPubs/2020hgrate_ecoModelling.pdf"
 url_code = ""
 image_preview = ""
 selected = false
