@@ -1,28 +1,16 @@
 ---
-date: "2022-10-27T09:09:07Z"
-external_link: ""
+date: "2022-05-06T06:18:00Z"
+external_link: "" 
 image:
-#  caption: Photo by [**Christian Salas-Eljatib**](https://eljatib.com)
+# caption: Photo by [**Christian Salas-Eljatib**](https://eljatib.com)
   focal_point: Smart
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/cseljatib
-#slides: example
 summary: People that have been influential in my development as a researcher.
 tags:
 - Mentor
-- Abroad
 title: Mentors
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
 ---
 
 > *I feel somehow like a mentee of these people*
-
 
 I have been fortunate enough to work with professors and researchers that profoundly impacted the way I carry out my research activities and academic duties.
 
@@ -43,7 +31,6 @@ I have been fortunate enough to work with professors and researchers that profou
 --------
 ![](yoGradyale.jpg)
 
-<!-- ### Footer 
-With Hailemariam's group in Corvallis (2016)
-![](osu_biometrics.JPG)
-Last updated: August 2020 -->
+<!--- 
+(see details here `http://simuladorpellin.com`)
+-->
