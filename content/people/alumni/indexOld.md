@@ -1,13 +1,24 @@
 ---
-date: "2022-08-15T15:37:00Z"
-external_link: "" 
+date: "2022-10-27T09:09:07Z"
+external_link: ""
 image:
-# caption: Photo by [**Christian Salas-Eljatib**](https://eljatib.com)
+#  caption: Photo by [**Christian Salas-Eljatib**](https://eljatib.com)
   focal_point: Smart
+links:
+- icon: twitter
+  icon_pack: fab
+  name: Follow
+  url: https://twitter.com/cseljatib
+#slides: example
 summary: Former students, post-docs, and visiting students.
 tags:
 - Alumni
+- Abroad
 title: Alumni
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
 ---
 
 > *I have listed former students, post-docs, and visiting students.*
@@ -191,6 +202,16 @@ supported by the PAI program of CONICYT-Chile.
 `2012`
 *Daniel Soto*, M.S. program in Forest Sciences, Universidad Austral de Chile. 
 
-<!--- 
-(see details here `http://simuladorpellin.com`)
--->
+
+<!-- ### Footer
+`2020`
+*Juan Pino*, Master in Natural Resources Management, Universidad de La Frontera. Currently at Ministry of the Environment (Temuco, Chile).
+
+#`2021`
+#*Heraldo Carvacho*, Master in Natural Resources Management, Universidad de La Frontera. Currently at #Town council of Pudahuel (Santiago, Chile).
+
+
+`2019`
+*Joaquín Riquelme*, Master in Natural Resources Management, Universidad de La Frontera. Currently a Research Assistant, Universidad Mayor (Santiago, Chile).
+
+Last updated: August 2020 -->
