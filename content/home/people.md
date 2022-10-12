@@ -15,9 +15,9 @@ subtitle: ''
 
 content:
   # Filter on criteria
-  filters:
-    folders:
-      - people
+#  filters:
+#    folders:
+#      - people
   # Page type to display. E.g. project.
   page_type: people
 
@@ -40,9 +40,6 @@ content:
       tag: Alumni
     - name: Mentor
       tag: Mentor     
-    # - name: Other
-    #   tag: Demo
-
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'
@@ -52,7 +49,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: showcase
+  view: compact #showcase
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
