@@ -1,6 +1,6 @@
 ---
-date: "2022-04-27T08:36:00Z"
-external_link: "" #"http://simuladorpellin.com"
+date: "2019-03-01T13:17:00Z"
+external_link: "" 
 image:
   caption: Photo by [**Christian Salas-Eljatib**](https://eljatib.com)
   focal_point: Smart
@@ -14,16 +14,11 @@ tags:
 title: Studying forest growth
 ---
 
-> *A quantitative tool for decision-support in forest management of native forest.*
+> *Studying forest growth of natural forests.*
 
-By using advanced mathematical and statistical approaches we develop a  growth simulator for native forests  in south-central Chile.
+We aim at modelling forest growth of mixed-species natural forests in south-central Chile.
 
-See details at [http://simuladorpellin.com](http://simuladorpellin.com)
-
-Director for the project *Developing a growth simulator of natural forests to support decision making in a climate change framework*. 
-  Research grant FONDEF (Scientific and Technological Development
-  Support Fund, Chilean Government) IDeA I+D No. ID19|10421, 
- carried out at Universidad Mayor, Santiago, Chile.
+Principal investigator for the project *Modelling mixed-species forests: accounting for ecological and climatic drivers in forest growth*. Research grant FONDECYT (Chilean National Science Foundation) No. 1191816, carried out at Universidad Mayor, Santiago, Chile.
 
 
 
