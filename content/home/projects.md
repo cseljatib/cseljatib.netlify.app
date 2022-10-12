@@ -10,7 +10,7 @@ headless: true
 weight: 65
 
 title: Projects
-subtitle: 'Currents'
+subtitle: ''
 
 content:
   # Page type to display. E.g. project.
@@ -31,8 +31,6 @@ content:
       tag: Current      
     - name: Past
       tag: Past
-    # - name: Other
-    #   tag: Demo
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
@@ -43,7 +41,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: showcase
+  view: compact #showcase
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
