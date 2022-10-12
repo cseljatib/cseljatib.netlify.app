@@ -1,28 +1,16 @@
 ---
-date: "2022-10-27T09:09:07Z"
-external_link: ""
+date: "2022-08-15T15:37:00Z"
+external_link: "" 
 image:
-#  caption: Photo by [**Christian Salas-Eljatib**](https://eljatib.com)
+# caption: Photo by [**Christian Salas-Eljatib**](https://eljatib.com)
   focal_point: Smart
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/cseljatib
-#slides: example
 summary: Colleagues with whom I collaborate in ongoing studies.
 tags:
 - Colleague
-- Abroad
 title: Research collaborators
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
 ---
 
 > *Colleagues with whom I collaborate in ongoing studies*
-
 
 ## In Chile
 
@@ -57,7 +45,11 @@ With Daniel in the National Reserve Coyhaique (2018)
 ![](withDaniel.jpg)
 
 With Aaron in southern Chile  (2017)
-![](withAaron.JPG)
+![](withAaron.jpg)
 
 With Hailemariam's group in Corvallis (2016)
-![](osu_biometrics.JPG)
+![](osu_biometrics.jpg)
+
+<!--- 
+(see details here `http://simuladorpellin.com`)
+-->
