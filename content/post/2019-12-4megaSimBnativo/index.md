@@ -17,12 +17,25 @@ url_video: "https://www.youtube.com/embed/ajZvZ6mbipw"
 
 > *Entrevista sobre Simulación de Bosques Nativos. Emisión en el canal de televisión Mega, dentro de la sección MundoPlus* 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ajZvZ6mbipw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
 Entrevista de la periodista [Andrea Arístegui](https://twitter.com/AndreAaristegui), basada en [proyecto científico](http://eljatib.com/resproj/) que estamos desarrollando para poder proyectar el crecimiento de bosques nativos en contexto del cambio climático.
 
+<html>
+   <body>
+      Pinhca sobre la imagen para ver el video en YouTube:<br>
+    <a href="https://www.youtube.com/watch/ajZvZ6mbipw">
+         <img alt="Link a video" src="videoYoutube.png"
+         width="500" height="85">
+      </a>
+   </body>
+</html>
+
+
+
+
+
 <!--- 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ajZvZ6mbipw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 #### Te parecio interesante o util? Considera compartirlo 🙌
 
 <img src="portadaLibro.jpg" width="1000" height="350">
