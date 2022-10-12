@@ -12,7 +12,12 @@ weight: 65
 title: People
 subtitle: ''
 
+
 content:
+  # Filter on criteria
+  filters:
+    folders:
+      - people
   # Page type to display. E.g. project.
   page_type: people
 
