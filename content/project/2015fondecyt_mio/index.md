@@ -1,17 +1,17 @@
 ---
-date: "2022-04-27T08:36:00Z"
-external_link: "" #"http://simuladorpellin.com"
+date: "2016-04-27T08:36:00Z"
+external_link: "" 
 image:
   caption: Photo by [**Christian Salas-Eljatib**](https://eljatib.com)
   focal_point: Smart
-summary: FONDECYT project for forest growth forecasting.
+summary: FONDECYT for dynamic system
 tags:
-- Current
+- Past
 - Modelling
 - Forest management
 - Silviculture
 - Principal investigator
-title: Studying forest growth
+title: Dynamic system for forest growth
 ---
 
 > *A quantitative tool for decision-support in forest management of native forest.*
