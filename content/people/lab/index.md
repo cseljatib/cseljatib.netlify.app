@@ -1,5 +1,5 @@
 ---
-date: "2022-10-28T19:55:00Z"
+date: "2022-08-15T15:37:00Z"
 external_link: "" 
 image:
 # caption: Photo by [**Christian Salas-Eljatib**](https://eljatib.com)
@@ -11,6 +11,7 @@ title: My lab
 ---
 
 > *Current researchers and students directly working with me*
+
 
 ## Researchers
 |   |   |   | 
@@ -26,10 +27,8 @@ title: My lab
 |*Danniela Espinoza*  | B.S. in Forest Engineering, Universidad de Chile (Santiago, Chile)   |   |
 |*Antonia Astorga*  | B.S. in Biology, Universidad de Chile (Santiago, Chile)   |   |
 
---------
-
+<!--- 
 ![](grupoEnRuca.jpg)
 
-<!--- 
 (see details here `http://simuladorpellin.com`)
 -->
