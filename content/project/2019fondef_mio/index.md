@@ -20,7 +20,7 @@ By using advanced mathematical and statistical approaches we develop a  growth s
 
 See details at [http://simuladorpellin.com](http://simuladorpellin.com)
 
-Director for the project Developing a growth simulator of natural forests to support decision making in a climate change framework. 
+Director for the project *Developing a growth simulator of natural forests to support decision making in a climate change framework*. 
   Research grant FONDEF (Scientific and Technological Development
   Support Fund, Chilean Government) IDeA I+D No. ID19|10421, 
  carried out at Universidad Mayor, Santiago, Chile.
