@@ -26,8 +26,6 @@ title: My lab
 |*Danniela Espinoza*  | B.S. in Forest Engineering, Universidad de Chile (Santiago, Chile)   |   |
 |*Antonia Astorga*  | B.S. in Biology, Universidad de Chile (Santiago, Chile)   |   |
 
-
-
 --------
 
 ![](grupoEnRuca.jpg)
