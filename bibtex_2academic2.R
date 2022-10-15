@@ -80,7 +80,7 @@ mypubs
     dplyr::mutate(
       pubtype = dplyr::case_when(bibtype == "Article" ~ "2",
                                  bibtype == "Article in Press" ~ "2",
-                                 bibtype == "InProceedings" ~ "1",
+                                 bibtype == "InProceedings" ~ "6",
                                  bibtype == "Proceedings" ~ "1",
                                  bibtype == "Conference" ~ "1",
                                  bibtype == "Conference Paper" ~ "1",

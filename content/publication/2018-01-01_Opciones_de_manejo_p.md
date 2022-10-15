@@ -1,0 +1,26 @@
++++
+title = "Opciones de manejo para bosques secundarios de acuerdo a objetivos de largo plazo y su aplicacion en bosques templados del centro-sur de Chile"
+date = "2018-01-01"
+authors = ["P. J. Donoso", "Diego B. Ponce", "C. Salas-Eljatib"]
+publication_types = ["6"]
+publication = " In P. Donoso, A. Promis & D. Soto: Silvicultura en bosques nativos.	Experiencias en silvicultura y restauracion en Chile, Argentina y el oeste de Estados Unidos.  93--114. Valdivia, Chile: Oregon State University"
+publication_short = " In P. Donoso, A. Promis & D. Soto: Silvicultura en bosques nativos.	Experiencias en silvicultura y restauracion en Chile, Argentina y el oeste de Estados Unidos.  93--114. Valdivia, Chile: Oregon State University"
+abstract = "(Abstract not available)"
+abstract_short = ""
+url_code = ""
+image_preview = ""
+selected = false
+projects = []
+url_pdf = ""
+url_preprint = ""
+url_dataset = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+url_poster = ""
+math = true
+highlight = true
+[header]
+image = ""
+caption = ""
++++

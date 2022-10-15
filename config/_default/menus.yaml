@@ -10,10 +10,10 @@ main:
   #   url : "#about"
   #   parent : Home
   #   weight : 1      
-  - name : Experience
-    url : "#experience"
-    parent : Home
-    weight : 1    
+  # - name : Experience
+  #   url : "#experience"
+  #   parent : Home
+  #   weight : 1    
   - name: Publications
     url: '#featured'
     weight: 2   
