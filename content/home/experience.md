@@ -36,23 +36,23 @@ experience:
         # * Modelling
         # * Deploying
 
-  - title: Associate Professor
-    company: Universidad de La Frontera
-    company_url: 'https://www.ufro.cl'
-    company_logo: org-ufro
-    location: Temuco, Chile
-    date_start: '2018-08-01'
-    date_end: ''
-    description: (part-time) Vicerrectoria de Investigacion y Postgrado
-    
-  - title: Full Professor
-    company: Universidad de Chile
-    company_url: 'http://forestal.uchile.cl'
-    company_logo: org-uchile
-    location: Santiago, Chile
-    date_start: '2020-07-01'
-    date_end: ''
-    description: (part-time) Departamento de Silvicultura y Conservacion de La Naturaleza
+  # - title: Associate Professor
+  #   company: Universidad de La Frontera
+  #   company_url: 'https://www.ufro.cl'
+  #   company_logo: org-ufro
+  #   location: Temuco, Chile
+  #   date_start: '2018-08-01'
+  #   date_end: ''
+  #   description: (part-time) Vicerrectoria de Investigacion y Postgrado
+  #   
+  # - title: Full Professor
+  #   company: Universidad de Chile
+  #   company_url: 'http://forestal.uchile.cl'
+  #   company_logo: org-uchile
+  #   location: Santiago, Chile
+  #   date_start: '2020-07-01'
+  #   date_end: ''
+  #   description: (part-time) Departamento de Silvicultura y Conservacion de La Naturaleza
 
   - title: Adjunct Faculty
     company: University of Maine

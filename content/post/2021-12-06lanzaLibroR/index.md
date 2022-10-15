@@ -4,13 +4,23 @@ image:
   caption: 'Image credit: [**Christian Salas**](https://eljatib.com)'
   placement: 2
 math: true
-title: Lanzamiento de libro
+title: Lanzamiento de libro sobre R
 excerpt: "Análisis de datos con el programa estadístico R: una introducción aplicada"
 tags:
 - R  
 - Statistics
 #authors:
 #- admin
+#url_video: "https://www.diariomayor.cl/ciencia-um/¿conoces-el-software-estadístico-r-profesor-lanza-libro-que-introduce-en-el-análisis-de-datos.html"
+links:
+- #icon: twitterr
+  #icon_pack: fab
+  name: Link a noticia
+  url: https://www.diariomayor.cl/ciencia-um/¿conoces-el-software-estadístico-r-profesor-lanza-libro-que-introduce-en-el-análisis-de-datos.html
+- icon: twitter
+  icon_pack: fab
+  name: Mencion en Twitter
+  url: https://twitter.com/cseljatib/status/1460667855675043843?s=20&t=20NyeERbyV3xlHUuzT74-w  
 ---
 
 > *A mediados de noviembre se ha publicado el libro "Análisis de datos con el programa estadístico R: una introducción aplicada", de Christian Salas-Eljatib. El libro pretende ser un texto de consulta para aquellos usuarios interesados desde el nivel más básico en análisis de datos, hasta aquellos que deben explorar datos, y ajustar modelos estadísticos lineales*
@@ -24,6 +34,7 @@ El índice de contenidos y aspectos relacionados al uso del paquete de R disponi
 
 <!--- 
 #### Te parecio interesante o util? Considera compartirlo 🙌
+url: "https://www.diariomayor.cl/ciencia-um/¿conoces-el-software-estadístico-r-profesor-lanza-libro-que-introduce-en-el-análisis-de-datos.html"
 
 <img src="portadaLibro.jpg" width="1000" height="350">
 **Some of my older websites**
