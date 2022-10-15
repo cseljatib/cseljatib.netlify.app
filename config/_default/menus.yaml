@@ -17,9 +17,12 @@ main:
   - name: Publications
     url: '#featured'
     weight: 2   
-  - name : R book
-    url : "#rlibro"
-    weight : 3      
+#  - name : R book
+#    url : "#rlibro"
+#    weight : 3     
+  - name: R book2
+    url: uploads/rbook.md
+    weight: 3    
   - name: Projects
     url: '#projects'
     weight: 4  

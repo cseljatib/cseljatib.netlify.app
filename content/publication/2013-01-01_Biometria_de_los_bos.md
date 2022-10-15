@@ -7,6 +7,7 @@ publication = " In P. Donoso & A. Promis: Silvicultura en los bosques nativos: a
 publication_short = " In P. Donoso & A. Promis: Silvicultura en los bosques nativos: avances en  la investigacion en Chile, Argentina y Nueva Zelanda.  109--151. Valdivia, Chile: Marisa Cuneo Ediciones"
 abstract = "(Abstract not available)"
 abstract_short = ""
+url_source = "https://www.researchgate.net/publication/329337884_Biometria_de_los_bosques_naturales_de_Chile_estado_del_arte"
 url_code = ""
 image_preview = ""
 selected = false
