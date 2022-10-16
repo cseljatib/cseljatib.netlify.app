@@ -15,6 +15,8 @@ tags:
 url_video: "https://www.youtube.com/embed/ajZvZ6mbipw"
 ---
 
+<sub> Posteado: 2 de diciembre, 2019</sub>
+
 > *Entrevista sobre Simulación de Bosques Nativos. Emisión en el canal de televisión Mega, dentro de la sección MundoPlus* 
 
 Entrevista de la periodista [Andrea Arístegui](https://twitter.com/AndreAaristegui), basada en [proyecto científico](http://eljatib.com/resproj/) que estamos desarrollando para poder proyectar el crecimiento de bosques nativos en contexto del cambio climático.

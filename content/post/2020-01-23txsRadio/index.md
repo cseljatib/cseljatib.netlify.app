@@ -14,6 +14,8 @@ tags:
 #- admin
 ---
 
+<sub> Posteado: 23 de enero, 2020</sub>
+
 > *[Entrevista sobre Predicción del desarrollo de los bosques naturales](https://soundcloud.com/txsradio/ciencia-del-futuro-con-vicente-soto-y-christian-salas-23-de-enero#t=29:25). Emisión en la radio TXS, dentro de la sección Ciencia del Futuro* 
 
 

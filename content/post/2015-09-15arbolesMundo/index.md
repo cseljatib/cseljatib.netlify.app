@@ -1,5 +1,5 @@
 ---
-date: "2015-09-09"
+date: "2015-09-15"
 image:
 #  caption: 'Image credit: [**Christian Salas**](https://eljatib.com)'
   placement: 2
@@ -13,6 +13,8 @@ tags:
 #- admin
 url_video: "https://www.youtube.com/embed/RN68ROe_5JM"
 ---
+
+<sub> Posteado: 15 de septiembre, 2015</sub>
 
 > *Reportaje ¿Cuántos árboles hay en el mundo?, realizado por el canal de televisión UfroVision* 
 
