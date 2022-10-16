@@ -45,8 +45,7 @@ El documento [**distroUsolibroR.pdf**](/rlibro/distroUsolibroR.pdf) resume lo pr
 ## Instalando R {#instar}
 R es un software gratuito que posee una serie de ventajas relacionadas no tan
 sólo con su uso libre, sino que también respecto a reproducibilidad, docencia,
-entendimiento y alta calidad [(Salas 2008)](/publication/2008-01-01_por_que_comprar_un_). Un resumen de ciertas características que hacen
-a R recomendable se encuentran en la siguiente presentación
+entendimiento y alta calidad [(Salas 2008)](#biblioaca).  Un resumen de ciertas características que hacen  a R recomendable se encuentran en la siguiente presentación
 
 + [**¿Por qué R?**](/rlibro/01porQueR.pdf)
 
@@ -58,10 +57,11 @@ Para instalar R, en las siguientes diapositivas se detalla como proceder
 De todas maneras, Ud. puede visitar [https://cran.r-project.org](https://cran.r-project.org) y seguir las instrucciones dependiendo del sistema operativo de su computador. Para [Linux](https://cran.r-project.org/bin/linux/), [MS. Windows](https://cran.r-project.org/bin/windows/), y [Mac OSX](https://cran.r-project.org/bin/macosx/).
 
 ## Paquete datana {#paque}
-En el paquete **datana** se encuentran todos los datos y funciones ocupadas en el libro. Usted puede por lo tanto descargarlo e instalarlo en su versión de R.
+En el paquete **datana** se encuentran todos los datos y funciones ocupadas en el libro
+ de [Salas-Eljatib (2021)](#biblioaca). Usted puede por lo tanto descargarlo e instalarlo en su versión de R.
 
 
-+ [**datana_1.0.1.tar.gz**](/rlibro/datana_1.0.1.tar.gz) Atencion, nueva version (4 de octubre 2022)!!!
++ [**datana_1.0.1.tar.gz**](/rlibro/datana_1.0.1.tar.gz)  `(nueva versión, 4 de octubre 2022)`
 + [**datana.pdf**](/rlibro/datana.pdf)
 
 
@@ -93,9 +93,12 @@ En los siguientes enlances estan disponibles los scripts para reproducir las fig
 ## Comentarios/sugerencias?
 Cualquier error, comentario o sugerencia, no dude en contactarme [vía e-mail](mailto:cseljatib@gmail.com), mi correo es cseljatib@gmail.com. Muchas gracias desde ya.
 
-## Bibliografía
+## Literatura citada {#biblioaca}
+- Salas C. 2008. [*¿Por qué comprar un programa estadístico si existe R?*](/publication/2008-01-01_por_que_comprar_un_). Ecología Austral 18(2): 223--231. 
 
-Salas C. 2008. [*¿Por qué comprar un programa estadístico si existe R?*](/publication/2008-01-01_por_que_comprar_un_). Ecología Austral 18(2): 223--231.
+- Salas-Eljatib C. 2021. [*Análisis de datos con el programa estadístico R: una introducción aplicada*](/publication/2021-01-01_Análisis_de_datos_co). Ediciones Universidad Mayor,
+ Santiago, Chile. 170 p.
+
 
 --------
 
