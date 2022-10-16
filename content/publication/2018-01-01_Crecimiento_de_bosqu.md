@@ -7,6 +7,7 @@ publication = " In P. Donoso, A. Promis & D. Soto: Silvicultura en bosques nativ
 publication_short = " In P. Donoso, A. Promis & D. Soto: Silvicultura en bosques nativos. Experiencias en silvicultura y restauracion en Chile, Argentina y el oeste de Estados Unidos.  73--92. Valdivia, Chile: Oregon State University"
 abstract = "(Abstract not available)"
 abstract_short = ""
+url_source = "https://www.researchgate.net/publication/335222403_Crecimiento_de_bosques_secundarios_y_adultos_de_Nothofagus_en_el_centro-sur_de_Chile"
 url_code = ""
 image_preview = ""
 selected = false

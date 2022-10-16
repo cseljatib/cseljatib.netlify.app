@@ -15,7 +15,7 @@ main:
   #   parent : Home
   #   weight : 1    
   - name: Publications
-    url: '#featured'
+    url: '#publications'
     weight: 2   
 #  - name : R book
 #    url : "#rlibro"
