@@ -48,9 +48,9 @@ supported by the PAI program of CONICYT-Chile.
 
 |   |   |   |
 |---|---|---|
-|*Heraldo Carvacho*  |  Master in Natural Resources Management, Universidad de La Frontera. **2021**.   | ![](heraldo_2.jpg)    |
+|*Heraldo Carvacho*  |  Master in Natural Resources Management, Universidad de La Frontera. **2021**.   | ![](/images/heraldo_2.jpg)    |
 |*Juan Pino*  |  Master in Natural Resources Management, Universidad de La Frontera. **2020**.   |  
-|*Joaquin Riquelme*  |  Master in Natural Resources Management, Universidad de La Frontera. **2019**.   | ![](joaquin_2.jpg)    |
+|*Joaquin Riquelme*  |  Master in Natural Resources Management, Universidad de La Frontera. **2019**.   | ![](/images/joaquin_2.jpg)    |
 
 
 
@@ -71,7 +71,7 @@ supported by the PAI program of CONICYT-Chile.
 
 |   |   |   |
 |---|---|---|
-|*Renato Cifuentes*  |  Ph.D. in Bioscience Engineering, Katholieke Universiteit Leuven Belgium. **2017**.   | ![](renato_2.jpg)    |
+|*Renato Cifuentes*  |  Ph.D. in Bioscience Engineering, Katholieke Universiteit Leuven Belgium. **2017**.   | ![](/images/renato_2.jpg)    |
 
 `2014`
 *Diego Ponce*, M.S. in Forest Sciences, Universidad Austral de Chile. Currently at National Forest Service of Chile in Valdivia. [Committee Professor]
@@ -87,17 +87,17 @@ supported by the PAI program of CONICYT-Chile.
 
 |   |   |   |
 |---|---|---|
-|*Valeska Yaitul*  |  Master in Natural Resources Management, Universidad de La Frontera. **2013**.   | ![](valeska.jpg)    |
+|*Valeska Yaitul*  |  Master in Natural Resources Management, Universidad de La Frontera. **2013**.   | ![](/images/valeska.jpg)    |
 
 ## Undergraduate students
 
 |   |   |   |
 |---|---|---|
-|*Rodolfo Mendez*  | B.S. in Forest Engineering, Universidad de Chile (Santiago, Chile). **2022**.  |  ![](rodolfo.png) |
-|*Sergio Henriquez*  | B.S. in Biology, Pontifica Universidad Catolica (Santiago, Chile). **2021**.  | ![](sergio.png)  |
-|*Camilo Flores*  |  B.S. in Forest Engineering, Universidad Mayor (Santiago, Chile). **2021**.   | ![](camilo_2.jpg)    |
-|*Denisse Van Sint*  |  B.S. in Biology, Universidad Católica de Chile (Santiago, Chile). **2020**.   | ![](denisse2.jpg) |    
-|*Thomas Koplow*  | B.S. in Biology, Universidad Católica de Chile (Santiago, Chile). **2020**.   |  ![](thomas_2.jpg) |
+|*Rodolfo Mendez*  | B.S. in Forest Engineering, Universidad de Chile (Santiago, Chile). **2022**.  |  ![](/images/rodolfo.png) |
+|*Sergio Henriquez*  | B.S. in Biology, Pontifica Universidad Catolica (Santiago, Chile). **2021**.  | ![](/images/sergio.png)  |
+|*Camilo Flores*  |  B.S. in Forest Engineering, Universidad Mayor (Santiago, Chile). **2021**.   | ![](/images/camilo_2.jpg)    |
+|*Denisse Van Sint*  |  B.S. in Biology, Universidad Católica de Chile (Santiago, Chile). **2020**.   | ![](/images/denisse2.jpg) |    
+|*Thomas Koplow*  | B.S. in Biology, Universidad Católica de Chile (Santiago, Chile). **2020**.   |  ![](/images/thomas_2.jpg) |
 
 `2020`
 *Jose Miguel Bravo*, B.S. in Biology, Universidad Católica de Chile (Santiago, Chile).
@@ -107,7 +107,7 @@ supported by the PAI program of CONICYT-Chile.
 
 |   |   |   |
 |---|---|---|
-|*Joaquin Riquelme*  |  B.S. in Natural Resources Engineering, Universidad de La Frontera. **2017**.   | ![](joaquin_2.jpg)    |
+|*Joaquin Riquelme*  |  B.S. in Natural Resources Engineering, Universidad de La Frontera. **2017**.   | ![](/images/joaquin_2.jpg)    |
 
 `2017`
 *Rodrigo Ríos*, B.S. in Forest Engineering, Universidad Austral de Chile. [Committee Professor].
@@ -180,8 +180,8 @@ supported by the PAI program of CONICYT-Chile.
 
 |   |   |   |
 |---|---|---|
-|*Nicolas Rodriguez*  |  B.S. in Geology, Universidad Mayor (Santiago, Chile). **2019**.   | ![](nicoR_2.jpg)    |
-|*Nicolas Pino*  |  B.S. in Mathematical Engineering, Universidad de La Frontera (Temuco, Chile). **2017**.   | ![](nicoP_2.jpg)    |
+|*Nicolas Rodriguez*  |  B.S. in Geology, Universidad Mayor (Santiago, Chile). **2019**.   | ![](/images/nicoR_2.jpg)    |
+|*Nicolas Pino*  |  B.S. in Mathematical Engineering, Universidad de La Frontera (Temuco, Chile). **2017**.   | ![](/images/nicoP_2.jpg)    |
 
 ## Visiting graduate students
 
