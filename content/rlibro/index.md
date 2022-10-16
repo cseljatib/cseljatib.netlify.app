@@ -96,9 +96,8 @@ Cualquier error, comentario o sugerencia, no dude en contactarme [vía e-mail](m
 ## Literatura citada {#biblioaca}
 - Salas C. 2008. [*¿Por qué comprar un programa estadístico si existe R?*](/publication/2008-01-01_por_que_comprar_un_). Ecología Austral 18(2): 223--231. 
 
-- Salas-Eljatib C. 2021. [*Análisis de datos con el programa estadístico R: una introducción aplicada*](/publication/2021-01-01_Análisis_de_datos_co). Ediciones Universidad Mayor,
+- Salas-Eljatib C. 2021. [*Análisis de datos con el programa estadístico R: una introducción aplicada*](/publication/2021-01-01_analisis_de_datos_co/). Ediciones Universidad Mayor,
  Santiago, Chile. 170 p.
-
 
 --------
 
