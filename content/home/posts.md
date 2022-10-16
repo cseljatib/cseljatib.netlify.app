@@ -10,7 +10,7 @@ headless: true
 weight: 60
 
 title: Posts
-subtitle:
+subtitle: News, opinions
 
 content:
   # Filter on criteria
