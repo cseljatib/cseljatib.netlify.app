@@ -14,9 +14,11 @@ tags:
 url_video: "https://www.youtube.com/embed/RN68ROe_5JM"
 ---
 
+> *Reportaje ¿Cuántos árboles hay en el mundo?, realizado por el canal de televisión UfroVision* 
+
 <sub> Posteado: 15 de septiembre, 2015</sub>
 
-> *Reportaje ¿Cuántos árboles hay en el mundo?, realizado por el canal de televisión UfroVision* 
+---
 
 Este reportaje realizado por el canal de television de la Universidad de La Frontera, fue motivado por nuestra [investigación publicada](https://www.nature.com/articles/nature14967) en la revista *Nature* por un grupo de investigadores alrededor del mundo, para estimar la densidad de árboles en nuestro planeta. 
 
