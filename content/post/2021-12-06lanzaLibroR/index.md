@@ -1,10 +1,12 @@
 ---
-date: "2021-12-08"
+#date: "2021-12-08"
+date: 2021-12-08T21:13:14-05:00
+lastmod: ""
 image:
   caption: 'Image credit: [**Christian Salas**](https://eljatib.com)'
   placement: 2
 math: true
-title: Lanzamiento de libro sobre R
+title: Publicación de libro introductorio sobre R
 excerpt: "Análisis de datos con el programa estadístico R: una introducción aplicada"
 tags:
 - R  
