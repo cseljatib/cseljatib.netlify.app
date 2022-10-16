@@ -52,6 +52,7 @@ I am a Full Professor of Biometrics at the [Centre of Ecosystem Modelling and Mo
 **`Web page under construction!`**, regardless, in the meantime you still can check my former [website here.](https://cseljatib.github.io)
 
 
++ [**Rbook**](/rlibro)
 
 <!--- 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
