@@ -1,7 +1,9 @@
 ---
 #layout: page
 ##ojo que al escribirlo en extension .Rmd, me permite incluir citas via BibTeX,
-##pero se desconfigura un poco la imagen..
+##pero se desconfigura un poco la imagen. Por otro lado cuando el archivo es .rm, todo
+##es OK con el texto, pero no se agrega la cita. Opte por lo segundo para que se 
+##viera mejor, pero agregue a mano la cita.
 title: Libro introductorio sobre el programa estadístico R
 bibliography: mybibWeb.bib
 link-citations: yes
@@ -43,7 +45,7 @@ El documento [**distroUsolibroR.pdf**](/rlibro/distroUsolibroR.pdf) resume lo pr
 ## Instalando R {#instar}
 R es un software gratuito que posee una serie de ventajas relacionadas no tan
 sólo con su uso libre, sino que también respecto a reproducibilidad, docencia,
-entendimiento y alta calidad @salas08b. Un resumen de ciertas características que hacen
+entendimiento y alta calidad [(Salas 2008)](/publication/2008-01-01_por_que_comprar_un_). Un resumen de ciertas características que hacen
 a R recomendable se encuentran en la siguiente presentación
 
 + [**¿Por qué R?**](/rlibro/01porQueR.pdf)
@@ -93,7 +95,8 @@ Cualquier error, comentario o sugerencia, no dude en contactarme [vía e-mail](m
 
 ## Bibliografía
 
-[](2008-01-01_¿Por_qué_comprar_un_.md)
+Salas C. 2008. [*¿Por qué comprar un programa estadístico si existe R?*](/publication/2008-01-01_por_que_comprar_un_). Ecología Austral 18(2): 223--231.
+
 --------
 
 <!-- ### Footer
