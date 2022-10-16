@@ -7,6 +7,7 @@ publication = "Revista Chilena de Historia Natural, 83(3) 335--347. https://doi.
 publication_short = "Revista Chilena de Historia Natural, 83(3) 335--347. https://doi.org/10.4067/S0716-078X2010000300002"
 abstract = "(Abstract not available)"
 abstract_short = ""
+url_source = "https://www.researchgate.net/publication/262586946_Heterogeneidad_estructural_y_espacial_de_un_bosque_mixto_dominado_por_Nothofagus_dombeyi_despues_de_un_disturbio_parcial"
 url_code = ""
 image_preview = ""
 selected = false

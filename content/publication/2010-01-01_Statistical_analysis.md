@@ -7,6 +7,7 @@ publication = "European Journal of Forest Research, 129(5)  847--861. https://do
 publication_short = "European Journal of Forest Research, 129(5)  847--861. https://doi.org/10.1007/s10342-009-0277-3"
 abstract = "(Abstract not available)"
 abstract_short = ""
+url_source = "https://www.researchgate.net/publication/226343173_Statistical_analysis_of_ratio_estimators_and_their_estimators_of_variances_when_the_auxiliary_variate_is_measured_with_error"
 url_code = ""
 image_preview = ""
 selected = false

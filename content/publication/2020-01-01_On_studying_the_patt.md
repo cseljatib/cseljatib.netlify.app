@@ -7,6 +7,7 @@ publication = "Forest Ecology and Management, 475 118369. https://doi.org/10.101
 publication_short = "Forest Ecology and Management, 475 118369. https://doi.org/10.1016/j.foreco.2020.118369"
 abstract = "(Abstract not available)"
 abstract_short = ""
+url_source = "https://eljatib.com/myPubs/2020mortaStrate_foreco.pdf"
 url_code = ""
 image_preview = ""
 selected = false
