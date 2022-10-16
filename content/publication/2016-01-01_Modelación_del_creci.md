@@ -7,6 +7,7 @@ publication = "Bosque, 37(1)  3--12. https://doi.org/10.4067/S0717-9200201600010
 publication_short = "Bosque, 37(1)  3--12. https://doi.org/10.4067/S0717-92002016000100001"
 abstract = "(Abstract not available)"
 abstract_short = ""
+url_source = "https://www.researchgate.net/publication/301893620_Modelacion_del_crecimiento_de_bosques_estado_del_arte"
 url_code = ""
 image_preview = ""
 selected = false

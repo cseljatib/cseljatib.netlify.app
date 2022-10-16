@@ -7,6 +7,7 @@ publication = "Ecological Indicators, 85 502--508. https://doi.org/10.1016/j.eco
 publication_short = "Ecological Indicators, 85 502--508. https://doi.org/10.1016/j.ecolind.2017.10.030"
 abstract = "(Abstract not available)"
 abstract_short = ""
+url_source = "https://www.researchgate.net/publication/320947656_A_study_on_the_effects_of_unbalanced_data_when_fitting_logistic_regression_models_in_ecology"
 url_code = ""
 image_preview = ""
 selected = false

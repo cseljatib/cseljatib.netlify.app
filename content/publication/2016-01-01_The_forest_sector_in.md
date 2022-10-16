@@ -7,6 +7,7 @@ publication = "Journal of Forestry, 114(5) 562--571. https://doi.org/10.5849/jof
 publication_short = "Journal of Forestry, 114(5) 562--571. https://doi.org/10.5849/jof.14-062"
 abstract = "(Abstract not available)"
 abstract_short = ""
+url_source = "https://www.researchgate.net/publication/290437222_The_Forest_Sector_in_Chile_An_Overview_and_Current_Challenges"
 url_code = ""
 image_preview = ""
 selected = false

@@ -7,6 +7,7 @@ publication = "Ecology and Evolution, 8(22) 10768--10779. https://doi.org/10.100
 publication_short = "Ecology and Evolution, 8(22) 10768--10779. https://doi.org/10.1002/ece3.4525"
 abstract = "(Abstract not available)"
 abstract_short = ""
+url_source = "https://www.researchgate.net/publication/328881395_Evaluation_of_modeling_strategies_for_assessing_self-thinning_behavior_and_carrying_capacity"
 url_code = ""
 image_preview = ""
 selected = false

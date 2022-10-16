@@ -7,6 +7,7 @@ publication = "Science, 354(6309) 196--207. https://doi.org/10.1126/science.aaf8
 publication_short = "Science, 354(6309) 196--207. https://doi.org/10.1126/science.aaf8957"
 abstract = "(Abstract not available)"
 abstract_short = ""
+url_source = "https://www.researchgate.net/publication/309127324_Positive_biodiversity-productivity_relationship_predominant_in_global_forests"
 url_code = ""
 image_preview = ""
 selected = false
