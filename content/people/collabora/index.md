@@ -14,11 +14,10 @@ title: Research collaborators
 
 ## In Chile
 
+* *[Daniel Soto](https://sites.google.com/view/silviculture/danielsotowebpage)*, Assistant Professor of Silviculture, Universidad de Aysen, Coyhaique.
 * *[Pablo Donoso](https://www.researchgate.net/profile/Pablo_Donoso)*, Professor of Silviculture, Universidad Austral de Chile, Valdivia, Valdivia.
 * *[Rodrigo Vargas-Gaete](https://rodrigovargasgaete.cl)*, Associate Professor of Restoration, Universidad de La Frontera, Temuco.
-* *[Daniel Soto](https://sites.google.com/view/silviculture/danielsotowebpage)*, Assistant Professor of Silviculture, Universidad de Aysen, Coyhaique.
 * *[Andrés Fuentes-Ramirez](https://andresfuen.weebly.com)*, Assistant Professor of Fire Ecology, Universidad de La Frontera, Temuco.
-* *[Dylan Craven](https://dylancraven.com)*, Associate Professor of Macroecology, Universidad Mayor, Santiago.
 * *[Cesar Arriagada](http://biorremediacion.ufro.cl)*, Professor of Biorremediation, Universidad de La Frontera, Temuco.
 * *[Juan Pablo Fuentes](http://sel.forestaluchile.cl/)*, Associate Professor of Soil Ecology, Universidad de Chile, Santiago.
 
@@ -51,5 +50,7 @@ With Hailemariam's group in Corvallis (2016)
 ![](/images/osu_biometrics.jpg)
 
 <!--- 
+* *[Dylan Craven](https://dylancraven.com)*, Associate Professor of Macroecology, Universidad Mayor, Santiago.
+
 (see details here `http://simuladorpellin.com`)
 -->
