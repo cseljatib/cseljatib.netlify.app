@@ -1,5 +1,5 @@
 +++
-title = "Por qué comprar un programa estadístico si existe R?"
+title = "¿Por qué comprar un programa estadístico si existe R?"
 date = "2008-01-01"
 authors = ["C. Salas"]
 publication_types = ["2"]

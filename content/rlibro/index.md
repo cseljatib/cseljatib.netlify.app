@@ -1,6 +1,11 @@
 ---
-layout: page
+#layout: page
+##ojo que al escribirlo en extension .Rmd, me permite incluir citas via BibTeX,
+##pero se desconfigura un poco la imagen..
 title: Libro introductorio sobre el programa estadístico R
+bibliography: mybibWeb.bib
+link-citations: yes
+output: html_document
 excerpt: "Libro de R"
 tags:
 - R  
@@ -23,7 +28,7 @@ tags:
 
 |              |   |
 :---|:-------------------------:
-<font size="5"> Este sitio web incluye recursos que ayudan a aprender y practicar los tópicos expuestos en el libro **Análisis de datos con el programa estadístico R: una introducción aplicada** del Profesor [Christian Salas-Eljatib](http://eljatib.com) (ISBN 97895660860109). Se entregan además detalles para [adquirir el libro](#comprar), [instalar el sofware R](#instar) y el [paquete del libro](#paque), y acceder a archivos de datos referidos en el libro, y scripts para reproducir algunos  gráficos avanzados del libro.</font>|  <img src="/images/portadaLibro.jpg" width="4300" height="1500">
+<font size="5"> Este sitio web incluye recursos que ayudan a aprender y practicar los tópicos expuestos en el libro **Análisis de datos con el programa estadístico R: una introducción aplicada** del Profesor [Christian Salas-Eljatib](http://eljatib.com) (ISBN 97895660860109). Se entregan  detalles para [adquirir el libro](#comprar), [instalar el sofware R](#instar) y el [paquete del libro](#paque), y acceder a [archivos de datos](#archi) mencionados, y [scripts](#scri) para reproducir algunos  gráficos avanzados del libro.</font>|  <img src="/images/portadaLibro.jpg" width="2100" height="750">
 
 
 --------
@@ -31,12 +36,24 @@ tags:
 El documento [**distroUsolibroR.pdf**](/rlibro/distroUsolibroR.pdf) resume lo presentado en este sitio web, y puede servir de complemento a lo que acá se explica.
 
 
-## Adquirir copias {#comprar}
+## Adquirir {#comprar}
 + Versión impresa: En el siguiente [**link**](https://tienda.zigzag.cl/9789566086109-analisis-de-datos-con-el-programa-estadistico-r.html) se puede realizar la compra del libro a través de la librería  Zig-Zag.
 + Versión epub: Disponible en  [**Amazon**](https://www.amazon.com/An%C3%A1lisis-datos-programa-estad%C3%ADstico-introducci%C3%B3n-ebook/dp/B09LRHNGPL/ref=sr_1_1?keywords=Christian+Salas+Eljatib&qid=1637176913&qsid=134-6265285-4112915&s=books&sr=1-1&sres=B09LRHNGPL&srpt=ABIS_BOOK),  [**GooglePlay**](https://play.google.com/store/books/details/Christian_Salas_Eljatib_An%C3%A1lisis_de_datos_con_el_p?id=15dOEAAAQBAJ&hl=es_CL&gl=US) y en [**Libros Patagonia**](https://www.librospatagonia.com/library/search/Christian%20Salas%20Eljatib).
 
 ## Instalando R {#instar}
-Para instalar R, puede visitar [https://cran.r-project.org](https://cran.r-project.org) y seguir las instrucciones dependiendo del sistema operativo de su computador. Para [Linux](https://cran.r-project.org/bin/linux/), [MS. Windows](https://cran.r-project.org/bin/windows/), y [Mac OSX](https://cran.r-project.org/bin/macosx/).
+R es un software gratuito que posee una serie de ventajas relacionadas no tan
+sólo con su uso libre, sino que también respecto a reproducibilidad, docencia,
+entendimiento y alta calidad @salas08b. Un resumen de ciertas características que hacen
+a R recomendable se encuentran en la siguiente presentación
+
++ [**¿Por qué R?**](/rlibro/01porQueR.pdf)
+
+
+Para instalar R, en las siguientes diapositivas se detalla como proceder
+
++ [**Instalar R y paquetes**](/rlibro/02instalaR.pdf)
+
+De todas maneras, Ud. puede visitar [https://cran.r-project.org](https://cran.r-project.org) y seguir las instrucciones dependiendo del sistema operativo de su computador. Para [Linux](https://cran.r-project.org/bin/linux/), [MS. Windows](https://cran.r-project.org/bin/windows/), y [Mac OSX](https://cran.r-project.org/bin/macosx/).
 
 ## Paquete datana {#paque}
 En el paquete **datana** se encuentran todos los datos y funciones ocupadas en el libro. Usted puede por lo tanto descargarlo e instalarlo en su versión de R.
@@ -46,7 +63,7 @@ En el paquete **datana** se encuentran todos los datos y funciones ocupadas en e
 + [**datana.pdf**](/rlibro/datana.pdf)
 
 
-## Archivos de datos y otros
+## Archivos de datos y otros {#archi}
 El paquete contiene una gran cantidad de dataframe disponibles. Cada una de ella se encuentran detalladas en el documento [**datana.pdf**](/rlibro/datana.pdf). Sin embargo, los siguientes archivos "físicos" son necesarios para algunos pasajes del libro. Por ejemplo en la sección 4.2 "*Cargando datos*".
 
 + [bearsFull.dat](/rlibro/bearsFull.dat)
@@ -57,7 +74,7 @@ El paquete contiene una gran cantidad de dataframe disponibles. Cada una de ella
 + [snaspe09.dbf](/rlibro/snaspe09.dbf)
 + [ufcData.csv](/rlibro/ufcData.csv)
 
-## Gráficos avanzados
+## Gráficos avanzados {#scri}
 En los siguientes enlances estan disponibles los scripts para reproducir las figuras de la sección 6.3 "*Algunos otros gráficos más complejos*" del libro. Por cualquier duda no dude en escribirme.
 
 + [Dispersión e histogramas](/rlibro/xyHist.html)
@@ -74,15 +91,20 @@ En los siguientes enlances estan disponibles los scripts para reproducir las fig
 ## Comentarios/sugerencias?
 Cualquier error, comentario o sugerencia, no dude en contactarme [vía e-mail](mailto:cseljatib@gmail.com), mi correo es cseljatib@gmail.com. Muchas gracias desde ya.
 
+## Bibliografía
 
-### Te pareció interesante o útil? Considera compartirlo 🙌
 
 --------
 
 <!-- ### Footer
+
+### Te pareció interesante o útil? Considera compartirlo 🙌
+
+
  <font size="6"> This is my text number 6</font>
  A continuación se ofrecen enlaces para [instalar R](#instar), así como  
 
+<font size="5"> Este sitio web incluye recursos que ayudan a aprender y practicar los tópicos expuestos en el libro **Análisis de datos con el programa estadístico R: una introducción aplicada** del Profesor [Christian Salas-Eljatib](http://eljatib.com) (ISBN 97895660860109). Se entregan  detalles para [adquirir el libro](#comprar), [instalar el sofware R](#instar) y el [paquete del libro](#paque), y acceder a [archivos de datos](#archi) mencionados, y [scripts](#scri) para reproducir algunos  gráficos avanzados del libro.</font>|  <img src="/images/portadaLibro.jpg" width="4300" height="1500">
 
 Este sitio web incluye recursos que ayudan a aprender y practicar los tópicos que son expuestos en el libro **Análisis de datos con el programa estadístico R: una introducción aplicada** del Profesor [Christian Salas-Eljatib](http://eljatib.com) (ISBN 97895660860109). El libro editado por Ediciones Universidad Mayor es distribuído por la [Libreria Zig-Zag](https://tienda.zigzag.cl/9789566086109-analisis-de-datos-con-el-programa-estadistico-r.html).
 
