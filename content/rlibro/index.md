@@ -2,7 +2,18 @@
 layout: page
 title: Libro introductorio sobre el programa estadístico R
 excerpt: "Libro de R"
-
+tags:
+- R  
+- Statistics
+# links:
+# - #icon: twitterr
+#   #icon_pack: fab
+#   name: Link a noticia
+#   url: https://www.diariomayor.cl/ciencia-um/¿conoces-el-software-estadístico-r-profesor-lanza-libro-que-introduce-en-el-análisis-de-datos.html
+# - icon: twitter
+#   icon_pack: fab
+#   name: Mencion en Twitter
+#   url: https://twitter.com/cseljatib/status/1460667855675043843?s=20&t=20NyeERbyV3xlHUuzT74-w  
 ---
 
 <style>H1{color:DarkRed;}</style>
@@ -58,6 +69,11 @@ En los siguientes enlances estan disponibles los scripts para reproducir las fig
 
 ## Comentarios/sugerencias?
 Cualquier error, comentario o sugerencia, no dude en contactarme [vía e-mail](mailto:cseljatib@gmail.com), mi correo es cseljatib@gmail.com. Muchas gracias desde ya.
+
+
+### Te pareció interesante o útil? Considera compartirlo 🙌
+
+--------
 
 <!-- ### Footer
  <font size="6"> This is my text number 6</font>
