@@ -23,18 +23,22 @@ tags:
 
 |              |   |
 :---|:-------------------------:
-Este sitio web incluye información relacionada al libro **Análisis de datos con el programa estadístico R: una introducción aplicada** de Christian Salas-Eljatib. El libro ha sido editado por la editorial Ediciones Universidad Mayor (ISBN 97895660860109) y es distribuído por la Libreria Zig-Zag. En el siguiente [**link**](https://tienda.zigzag.cl/9789566086109-analisis-de-datos-con-el-programa-estadistico-r.html) se puede realizar la compra del libro a través de la librería. Además el libro se encuentra disponible en formato epub en [**Amazon**](https://www.amazon.com/An%C3%A1lisis-datos-programa-estad%C3%ADstico-introducci%C3%B3n-ebook/dp/B09LRHNGPL/ref=sr_1_1?keywords=Christian+Salas+Eljatib&qid=1637176913&qsid=134-6265285-4112915&s=books&sr=1-1&sres=B09LRHNGPL&srpt=ABIS_BOOK),  [**GooglePlay**](https://play.google.com/store/books/details/Christian_Salas_Eljatib_An%C3%A1lisis_de_datos_con_el_p?id=15dOEAAAQBAJ&hl=es_CL&gl=US) y en [**Libros Patagonia**](https://www.librospatagonia.com/library/search/Christian%20Salas%20Eljatib). A continuación se ofrecen enlaces para [instalar R](#instar), así como el paquete (**datana**) del libro, archivos de datos, y scripts para reproducir algunos de los gráficos del libro. |  <img src="/images/portadaLibro.jpg" width="4300" height="1500">
+<font size="5"> Este sitio web incluye recursos que ayudan a aprender y practicar los tópicos expuestos en el libro **Análisis de datos con el programa estadístico R: una introducción aplicada** del Profesor [Christian Salas-Eljatib](http://eljatib.com) (ISBN 97895660860109). Se entregan además detalles para [adquirir el libro](#comprar), [instalar el sofware R](#instar) y el [paquete del libro](#paque), y acceder a archivos de datos referidos en el libro, y scripts para reproducir algunos  gráficos avanzados del libro.</font>|  <img src="/images/portadaLibro.jpg" width="4300" height="1500">
 
-El documento [**distroUsolibroR.pdf**](/rlibro/distroUsolibroR.pdf) resume lo presentado en esta página web, y puede servir de complemento a lo que acá se explica.
 
 --------
 
+El documento [**distroUsolibroR.pdf**](/rlibro/distroUsolibroR.pdf) resume lo presentado en este sitio web, y puede servir de complemento a lo que acá se explica.
 
+
+## Adquirir copias {#comprar}
++ Versión impresa: En el siguiente [**link**](https://tienda.zigzag.cl/9789566086109-analisis-de-datos-con-el-programa-estadistico-r.html) se puede realizar la compra del libro a través de la librería  Zig-Zag.
++ Versión epub: Disponible en  [**Amazon**](https://www.amazon.com/An%C3%A1lisis-datos-programa-estad%C3%ADstico-introducci%C3%B3n-ebook/dp/B09LRHNGPL/ref=sr_1_1?keywords=Christian+Salas+Eljatib&qid=1637176913&qsid=134-6265285-4112915&s=books&sr=1-1&sres=B09LRHNGPL&srpt=ABIS_BOOK),  [**GooglePlay**](https://play.google.com/store/books/details/Christian_Salas_Eljatib_An%C3%A1lisis_de_datos_con_el_p?id=15dOEAAAQBAJ&hl=es_CL&gl=US) y en [**Libros Patagonia**](https://www.librospatagonia.com/library/search/Christian%20Salas%20Eljatib).
 
 ## Instalando R {#instar}
 Para instalar R, puede visitar [https://cran.r-project.org](https://cran.r-project.org) y seguir las instrucciones dependiendo del sistema operativo de su computador. Para [Linux](https://cran.r-project.org/bin/linux/), [MS. Windows](https://cran.r-project.org/bin/windows/), y [Mac OSX](https://cran.r-project.org/bin/macosx/).
 
-## Paquete datana
+## Paquete datana {#paque}
 En el paquete **datana** se encuentran todos los datos y funciones ocupadas en el libro. Usted puede por lo tanto descargarlo e instalarlo en su versión de R.
 
 
@@ -77,6 +81,12 @@ Cualquier error, comentario o sugerencia, no dude en contactarme [vía e-mail](m
 
 <!-- ### Footer
  <font size="6"> This is my text number 6</font>
+ A continuación se ofrecen enlaces para [instalar R](#instar), así como  
+
+
+Este sitio web incluye recursos que ayudan a aprender y practicar los tópicos que son expuestos en el libro **Análisis de datos con el programa estadístico R: una introducción aplicada** del Profesor [Christian Salas-Eljatib](http://eljatib.com) (ISBN 97895660860109). El libro editado por Ediciones Universidad Mayor es distribuído por la [Libreria Zig-Zag](https://tienda.zigzag.cl/9789566086109-analisis-de-datos-con-el-programa-estadistico-r.html).
+
+En el siguiente [**link**](https://tienda.zigzag.cl/9789566086109-analisis-de-datos-con-el-programa-estadistico-r.html) se puede realizar la compra del libro a través de la librería.
 
 + [Usando un modelo de ahusamiento](/biolibro/ahusamientoTrozado.html)
 * **[Miscellaneous](./misce.md)** 
