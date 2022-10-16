@@ -29,7 +29,7 @@ I have been fortunate enough to work with professors and researchers that profou
  methods for silviculture and forest ecology.
 
 --------
-![](yoGradyale.jpg)
+![](/images/yoGradyale.jpg)
 
 <!--- 
 (see details here `http://simuladorpellin.com`)

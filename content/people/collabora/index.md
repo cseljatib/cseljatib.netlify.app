@@ -33,22 +33,22 @@ title: Research collaborators
 
 With Rodrigo and Andres in Tantauco (2016)
 
-![](fellows.jpg)
+![](/images/fellows.jpg)
 
 Daniel, Andres and Rodrigo in the National Reserve China Muerta (2017)
-![](maquinas.jpg)
+![](/images/maquinas.jpg)
 
 With Pablo in Llancahue (2015)
-![](withPdonoso.jpg)
+![](/images/withPdonoso.jpg)
 
 With Daniel in the National Reserve Coyhaique (2018)
-![](withDaniel.jpg)
+![](/images/withDaniel.jpg)
 
 With Aaron in southern Chile  (2017)
-![](withAaron.jpg)
+![](/images/withAaron.jpg)
 
 With Hailemariam's group in Corvallis (2016)
-![](osu_biometrics.jpg)
+![](/images/osu_biometrics.jpg)
 
 <!--- 
 (see details here `http://simuladorpellin.com`)

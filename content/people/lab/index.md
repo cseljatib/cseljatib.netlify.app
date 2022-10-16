@@ -16,7 +16,7 @@ title: My lab
 ## Researchers
 |   |   |   | 
 |---|---|---|
-| *Joaquín Riquelme*  |Natural Resources Engineer, M.S.   |  ![](joaquin_2.jpg) | 
+| *Joaquín Riquelme*  |Natural Resources Engineer, M.S.   |  ![](/images/joaquin_2.jpg) | 
 
 --------
 
@@ -28,7 +28,7 @@ title: My lab
 |*Antonia Astorga*  | B.S. in Biology, Universidad de Chile (Santiago, Chile)   |   |
 
 <!--- 
-![](grupoEnRuca.jpg)
+![](/images/grupoEnRuca.jpg)
 
 (see details here `http://simuladorpellin.com`)
 -->
