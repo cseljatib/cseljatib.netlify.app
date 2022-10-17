@@ -19,7 +19,7 @@ title: Research collaborators
 * *[Rodrigo Vargas-Gaete](https://rodrigovargasgaete.cl)*, Associate Professor of Restoration, Universidad de La Frontera, Temuco.
 * *[Andrés Fuentes-Ramirez](https://andresfuen.weebly.com)*, Associate Professor of Fire Ecology, Universidad de La Frontera, Temuco.
 * *[Cesar Arriagada](http://biorremediacion.ufro.cl)*, Professor of Biorremediation, Universidad de La Frontera, Temuco.
-* *[Juan Pablo Fuentes](http://sel.forestaluchile.cl/)*, Associate Professor of Soil Ecology, Universidad de Chile, Santiago.
+* *[Juan Pablo Fuentes](https://sites.google.com/uchile.cl/sel-forestal-uchile/home)*, Associate Professor of Soil Ecology, Universidad de Chile, Santiago.
 
 
 ## Abroad
