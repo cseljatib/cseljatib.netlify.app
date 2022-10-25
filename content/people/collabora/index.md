@@ -14,7 +14,7 @@ title: Research collaborators
 
 ## In Chile
 
-* *[Daniel Soto](https://sites.google.com/view/silviculture/danielsotowebpage)*, Assistant Professor of Silviculture, Universidad de Aysen, Coyhaique.
+* *[Daniel Soto](https://sites.google.com/view/silviculture/danielsotowebpage)*, Associate Professor of Silviculture, Universidad de Aysen, Coyhaique.
 * *[Pablo Donoso](https://www.researchgate.net/profile/Pablo_Donoso)*, Professor of Silviculture, Universidad Austral de Chile, Valdivia, Valdivia.
 * *[Rodrigo Vargas-Gaete](https://rodrigovargasgaete.cl)*, Associate Professor of Restoration, Universidad de La Frontera, Temuco.
 * *[Andrés Fuentes-Ramirez](https://andresfuen.weebly.com)*, Associate Professor of Fire Ecology, Universidad de La Frontera, Temuco.

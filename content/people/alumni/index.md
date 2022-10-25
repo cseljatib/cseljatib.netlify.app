@@ -55,7 +55,7 @@ de La Frontera.
 |**Diego Ponce** |  M.S. in Forest Sciences, Universidad Austral de Chile  [Committee Professor]. Currently at the National Forest Service (Valdivia, Chile). `2014`.  | ![](/images/diegoPonce.jpg)    |
 |**Pieter Moysons**|  M.S. in de bio-ingenieurswetenschappen: landen bosbeheer, Katholieke Universiteit Leuven Belgium. `2013`.  |  ![](/images/pieter.jpg)   |
 |**Inal Painemal**|  Master in Natural Resources Management, Universidad de La Frontera. Currently at the National Forest Service (Vallenar, Chile). `2013`.  | ![](/images/inal.jpg)    |
-|**Daniel Soto** |  M.S. in Forest Sciences, Universidad Austral de Chile  [Committee Professor]. Currently an Assistant Professor at Universidad de Aysén, Coyhaique, Chile. `2013`.  |   ![](/images/danielBebe.jpg)  |
+|**Daniel Soto** |  M.S. in Forest Sciences, Universidad Austral de Chile  [Committee Professor]. Currently an Associate Professor at Universidad de Aysén, Coyhaique, Chile. `2013`.  |   ![](/images/danielBebe.jpg)  |
 |**Valeska Yaitul**  |  Master in Natural Resources Management, Universidad de La Frontera. `2013`.   | ![](/images/valeska2.jpg)    |
 
 ---
