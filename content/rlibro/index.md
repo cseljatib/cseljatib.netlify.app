@@ -61,7 +61,7 @@ En el paquete **datana** se encuentran todos los datos y funciones ocupadas en e
  de [Salas-Eljatib (2021)](#biblioaca). Usted puede por lo tanto descargarlo e instalarlo en su versión de R.
 
 
-+ [**datana_1.0.1.tar.gz**](/rlibro/datana_1.0.1.tar.gz)  `(nueva versión, 4 de octubre 2022)`
++ [**datana_1.0.1.tar.gz**](/rlibro/datana_1.0.1.tar.gz)  `(nueva versión, 25 de octubre 2022)`
 + [**datana.pdf**](/rlibro/datana.pdf)
 
 
