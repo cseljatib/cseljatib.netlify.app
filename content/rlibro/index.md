@@ -90,7 +90,7 @@ En los siguientes enlances estan disponibles los scripts para reproducir las fig
 + [Curvas y figuras en recuadros](/rlibro/innerPanelPlots.html)
 
 
-## Comentarios/sugerencias?
+### Comentarios/sugerencias?
 Cualquier error, comentario o sugerencia, no dude en contactarme [vía e-mail](mailto:cseljatib@gmail.com), mi correo es cseljatib@gmail.com. Muchas gracias desde ya.
 
 ## Literatura citada {#biblioaca}
