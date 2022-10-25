@@ -91,7 +91,8 @@ En los siguientes enlances estan disponibles los scripts para reproducir las fig
 
 
 ### Comentarios/sugerencias?
-Cualquier error, comentario o sugerencia, no dude en contactarme [vía e-mail](mailto:cseljatib@gmail.com), mi correo es cseljatib@gmail.com. Muchas gracias desde ya.
+Cualquier error tipográfico o de sintaxis, así como 
+comentarios o sugerencias son muy bienvenidos, y agradecería desde ya si te contactas conmigo [vía e-mail](mailto:cseljatib@gmail.com), mi correo es cseljatib@gmail.com.
 
 ## Literatura citada {#biblioaca}
 - Salas C. 2008. [*¿Por qué comprar un programa estadístico si existe R?*](/publication/2008-01-01_por_que_comprar_un_). Ecología Austral 18(2): 223--231. 
