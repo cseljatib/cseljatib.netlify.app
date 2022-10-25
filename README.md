@@ -1,5 +1,19 @@
 # webmio
 
+para compilar esta web, proceder como sigue
+
+1. abrir archivo proyecto
+
+2. en la consola escribir
+
+library(blogdown)
+blogdown::serve_site()
+
+y para detener, y partir de cero, con
+
+blogdown::stop_server()
+
+
 Ojo que este web esta basado en HUGO, y como tal no esta soportado por github webpages. Solo Jelly templates estan soportadas,como por ejemplo el web que ya tengo en el repositorio cseljatib.github.io.
 
 como alternativa uno debe usar algo asi como Netlify
