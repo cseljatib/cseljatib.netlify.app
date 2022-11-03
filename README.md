@@ -7,6 +7,7 @@ para compilar esta web, proceder como sigue
 2. en la consola escribir
 
 library(blogdown)
+
 blogdown::serve_site()
 
 y para detener, y partir de cero, con
@@ -35,3 +36,8 @@ pero ojo que no me funciono, por lo tanto, lo que preferi, fue solo redirecciona
 
 una alternativa diferente es no solo usando dominios, como en el link anterior, sino que tratar con 
 https://levelup.gitconnected.com/netlify-custom-domains-8b4cc5fddb5d
+
+
+## sobre bibliografia
+para generar los .md de cada cita, se debe correr el archivo "bibtex2_academic2.R", el cual
+ se basa en tener en la misma carpeta al archivo BibTeX "academic-publications.bib"
