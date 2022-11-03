@@ -49,10 +49,11 @@ title: Christian Salas-Eljatib
 
 I am a Full Professor of Biometrics at the [Centre of Ecosystem Modelling and Monitoring (CEM)](https://www.cem.umayor.cl/) at the [Universidad Mayor](https://www.umayor.cl/), in Santiago, Chile. His research interests include biometrics, applied statistics and ecological modelling. I lead the Biometrics group, which develops mathematical and statistical models for forecasting forest ecosystem features, allometry, and sampling.
 
-**`Web page under construction!`**, regardless, in the meantime you still can check my former [website here.](https://cseljatib.github.io)
-
+Please let me know of any typos in this website, thanks in advance.
 
 <!--- 
+
+**`Web page under construction!`**, regardless, in the meantime you still can check my former [website here.](https://cseljatib.github.io)
 + [**Rbook**](/rlibro)
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
