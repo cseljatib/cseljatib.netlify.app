@@ -125,7 +125,7 @@ comentarios o sugerencias son muy bienvenidos, y agradecería desde ya si te con
 #### Actualizaciones no-oficiales del paquete **datana** {#noofi}
 Para aquellos usuarios que usan frecuentemente el paquete, y dado que la actualización en el repositorio de CRAN es algo mas lenta, dejo a continuación links a versiones no-oficiales del paquete y del manual de este mismo.
 
-+ [**datana_1.0.1.tar.gz**](/rlibro/datana_1.0.1.tar.gz)  `(nueva versión, 4 de noviembre 2022)`
++ [**datana_1.0.2.tar.gz**](/rlibro/datana_1.0.2.tar.gz)  `(nueva versión, 5 de noviembre 2022)`
 + [**datana.pdf**](/rlibro/datana.pdf)
 
 --------
