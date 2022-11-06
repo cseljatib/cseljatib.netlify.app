@@ -60,8 +60,8 @@ entendimiento y alta calidad [(Salas 2008)](#biblioaca).  Un resumen de ciertas 
 
 | Nombre      |  Descripción |
 | ----------- | ----------- |
-| [**¿Por qué R?**](/rlibro/01porQueR.pdf)| Se resumen las principales bondades de R.  |
-| [**Instalar R y paquetes**](/rlibro/02instalaR.pdf)   | ¿Cómo instalar el software?, y otros relacionados.  |
+| [**¿Por qué R?**](/rlibro/porQueR.pdf)| Se resumen las principales bondades de R.  |
+| [**Instalar R y paquetes**](/rlibro/instalaR.pdf)   | ¿Cómo instalar el software?, y otros relacionados.  |
 | [**Uso**](/rlibro/distroUsolibroR.pdf) | sobre distribución, uso y otros del libro. |
 
 --------
