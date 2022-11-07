@@ -82,7 +82,7 @@ install.packages("datana")
 ```
 
 Una descripción más específica del paquete se encuentra en su [manual](https://cran.r-project.org/web/packages/datana/datana.pdf), y de la misma forma en el [sitio del paquete en CRAN](https://cran.r-project.org/web/packages/datana/index.html).
-Tal como se explica en [el material de ayuda](#ayuda), este paquete también puede ser  instalado desde su archivo fuente [de extensión .tar.gz](https://cran.r-project.org/src/contrib/datana_1.0.1.tar.gz). 
+Tal como se explica en [el material de ayuda](#ayuda), este paquete también puede ser  instalado desde su archivo fuente [de extensión .tar.gz](https://cran.r-project.org/web/packages/datana/index.html). 
 
 
 ## Archivos de datos y otros {#archi}
