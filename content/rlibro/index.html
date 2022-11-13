@@ -45,6 +45,8 @@ tags:
 </tbody>
 </table>
 <hr />
+<p><font size="2">
+Última actualización de esta web: 13 noviembre, 2022 </font></p>
 <div id="comprar" class="section level2">
 <h2>Adquirir</h2>
 <ul>
@@ -96,9 +98,35 @@ entendimiento y alta calidad <a href="#biblioaca">(Salas 2008)</a>. Un resumen d
 en el paquete <strong>datana</strong> se encuentran todos los datos y funciones ocupadas en el libro. Usted puede por lo tanto descargarlo e instalarlo en su versión de R.</p>
 <p>El paquete <strong>datana</strong> esta disponible en el repositorio oficial de paquetes de R, denominado <a href="https://cran.r-project.org/web/packages/available_packages_by_name.html">CRAN</a>. Esto significa
 que Ud puede instalarlo directamente desde su computador, simplemente al escribir lo siguiente en la consola de R</p>
-<pre class="r"><code>install.packages(&quot;datana&quot;)</code></pre>
+<pre class="r"><code>&gt; install.packages(&quot;datana&quot;)</code></pre>
 <p>Una descripción más específica del paquete se encuentra en su <a href="https://cran.r-project.org/web/packages/datana/datana.pdf">manual</a>, y de la misma forma en el <a href="https://cran.r-project.org/web/packages/datana/index.html">sitio del paquete en CRAN</a>.
-Tal como se explica en <a href="#ayuda">el material de ayuda</a>, este paquete también puede ser instalado desde su archivo fuente <a href="https://cran.r-project.org/src/contrib/datana_1.0.1.tar.gz">de extensión .tar.gz</a>.</p>
+Tal como se explica en <a href="#ayuda">el material de ayuda</a>, este paquete también puede ser instalado desde su archivo fuente <a href="https://cran.r-project.org/web/packages/datana/index.html">de extensión .tar.gz</a>.</p>
+<p>Para utilizar el paquete <strong>datana</strong> en una sesion, emplear</p>
+<pre class="r"><code>&gt; library(datana)</code></pre>
+<p>Para revisar todos las dataframe disponibles en el paquete, puede escribir lo siguiente
+en la consola de R</p>
+<pre class="r"><code>&gt; data(package = &quot;datana&quot;)</code></pre>
+<p>Una característica clave del paquete <strong>datana</strong> es que cada dataframe esta disponible
+con encabezados en inglés y en castellano, siendo el nombre de estas últimas dataframes terminadas siempre con el numero “2”. Por ejemplo, carguemos la dataframe <strong>pspLlancahue</strong> a
+esta sesión y revisemos sus primeras seis observaciones</p>
+<pre class="r"><code>&gt; data(&quot;pspLlancahue&quot;)
+&gt; head(pspLlancahue) #primeras seis filas</code></pre>
+<pre><code>  tree.code spp.name dbh x.coord y.coord spp.ori
+1      A737       Ot  10     4.2    65.4      AR
+2       B66       Ot   5    54.0     9.7      AV
+3       B96       Ot   5    41.4     6.6      AV
+4      B103       Ot   5    38.2   109.7      AV
+5      B116       Ot   5    25.9   127.0      AV
+6      B239       Ot   5     5.4     5.6      AV</code></pre>
+<p>y en castellano por lo tanto el nombre de la dataframe es <strong>pspLlancahue2</strong></p>
+<pre class="r"><code>&gt; head(pspLlancahue2) </code></pre>
+<pre><code>  arbol especie dap coord.x coord.y especie.ori
+1  A737      Ot  10     4.2    65.4          AR
+2   B66      Ot   5    54.0     9.7          AV
+3   B96      Ot   5    41.4     6.6          AV
+4  B103      Ot   5    38.2   109.7          AV
+5  B116      Ot   5    25.9   127.0          AV
+6  B239      Ot   5     5.4     5.6          AV</code></pre>
 </div>
 <div id="archi" class="section level2">
 <h2>Archivos de datos y otros</h2>
@@ -197,8 +225,8 @@ Una característica clave del paquete **datana** es que
 
 
 ```r
-library(datana)
-head(pspLlancahue) #primeras seis filas
+> library(datana)
+> head(pspLlancahue) #primeras seis filas
 ```
 
 ```
@@ -212,12 +240,14 @@ head(pspLlancahue) #primeras seis filas
 ```
 
 ```r
-nrow(df) #numero de filas de la dataframe
+> nrow(df) #numero de filas de la dataframe
 ```
 
 ```
 NULL
 ```
+
+
 
 Last updated: August 2020 -->
 </div>

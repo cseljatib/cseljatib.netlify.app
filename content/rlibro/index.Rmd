@@ -23,8 +23,8 @@ tags:
 #   url: https://twitter.com/cseljatib/status/1460667855675043843?s=20&t=20NyeERbyV3xlHUuzT74-w  
 ---
 
-```{r setup, include=TRUE,echo=FALSE,results='hide'}
-knitr::opts_chunk$set(echo = TRUE,comment="")
+```{r setup, include=TRUE, echo=FALSE, results='hide'}
+knitr::opts_chunk$set(echo = TRUE,comment="", highlight=TRUE, prompt=TRUE)
 date()
 ```
 
@@ -41,7 +41,8 @@ date()
 
 --------
 
-
+<font size="2">
+Última actualización de esta web: `r format(Sys.time(), '%d %B, %Y')` </font>
 
 
 ## Adquirir {#comprar}
@@ -84,6 +85,31 @@ install.packages("datana")
 Una descripción más específica del paquete se encuentra en su [manual](https://cran.r-project.org/web/packages/datana/datana.pdf), y de la misma forma en el [sitio del paquete en CRAN](https://cran.r-project.org/web/packages/datana/index.html).
 Tal como se explica en [el material de ayuda](#ayuda), este paquete también puede ser  instalado desde su archivo fuente [de extensión .tar.gz](https://cran.r-project.org/web/packages/datana/index.html). 
 
+Para utilizar el paquete **datana** en una sesion, emplear
+```{r, results='hide', message=FALSE}
+library(datana)
+```
+
+
+Para revisar todos las dataframe disponibles en el paquete, puede escribir lo siguiente
+en la consola de R
+```{r, eval=FALSE}
+data(package = "datana")
+```
+
+Una característica clave del paquete **datana** es que cada dataframe esta disponible
+con encabezados en inglés y en castellano, siendo el nombre de estas últimas dataframes terminadas siempre con el numero "2". Por ejemplo, carguemos la dataframe **pspLlancahue** a
+esta sesión y revisemos sus primeras seis observaciones 
+
+```{r, eval=TRUE}
+data("pspLlancahue")
+head(pspLlancahue) #primeras seis filas
+```
+y en castellano por lo tanto el nombre de la dataframe es **pspLlancahue2**
+
+```{r, eval=TRUE}
+head(pspLlancahue2) 
+```
 
 ## Archivos de datos y otros {#archi}
 El paquete contiene varios set de datos (dataframe) disponibles. Las caracteristicas de variables, fuentes y otros de cada dataframe se encuentran detalladas en el manual [**datana.pdf**](https://cran.r-project.org/web/packages/datana/datana.pdf). Sin embargo, los siguientes archivos "físicos" son necesarios para algunos pasajes del libro. Por ejemplo en la sección 4.2 "*Cargando datos*".
@@ -180,6 +206,12 @@ Una característica clave del paquete **datana** es que
 library(datana)
 head(pspLlancahue) #primeras seis filas
 nrow(df) #numero de filas de la dataframe
+```
+
+```{r, include=FALSE}
+knitr::opts_chunk$set(
+  comment = "#>", echo = FALSE, fig.width = 6
+)
 ```
 
 Last updated: August 2020 -->

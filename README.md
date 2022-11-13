@@ -14,6 +14,10 @@ y para detener, y partir de cero, con
 
 blogdown::stop_server()
 
+library(datana)
+
+data(package = "datana")
+
 
 Ojo que este web esta basado en HUGO, y como tal no esta soportado por github webpages. Solo Jelly templates estan soportadas,como por ejemplo el web que ya tengo en el repositorio cseljatib.github.io.
 
