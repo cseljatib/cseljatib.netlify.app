@@ -1,5 +1,5 @@
 +++
-title = "Modelos de efectos mixtos de altura-diametro para Drimys winteri en el sur de Chile"
+title = "Modelos de efectos mixtos de altura-diámetro para Drimys winteri en el sur de Chile"
 date = "2019-01-01"
 authors = ["C. Salas-Eljatib", "P. Corvalan", "N. Pino", "P. J. Donoso", "D. P. Soto"]
 publication_types = ["2"]

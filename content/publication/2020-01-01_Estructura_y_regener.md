@@ -1,5 +1,5 @@
 +++
-title = "Estructura y regeneracion de bosques de Prumnopitys andina en los Andes del sur de Chile"
+title = "Estructura y regeneración de bosques de Prumnopitys andina en los Andes del sur de Chile"
 date = "2020-01-01"
 authors = ["R. Vargas-Gaete", "C. Salas-Eljatib", "D. Penneckamp", "Z. Neira", "M. C. Diez", "R. Vargas-Picon"]
 publication_types = ["2"]

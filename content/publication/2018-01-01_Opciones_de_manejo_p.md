@@ -1,5 +1,5 @@
 +++
-title = "Opciones de manejo para bosques secundarios de acuerdo a objetivos de largo plazo y su aplicacion en bosques templados del centro-sur de Chile"
+title = "Opciones de manejo para bosques secundarios de acuerdo a objetivos de largo plazo y su aplicación en bosques templados del centro-sur de Chile"
 date = "2018-01-01"
 authors = ["P. J. Donoso", "Diego B. Ponce", "C. Salas-Eljatib"]
 publication_types = ["6"]
