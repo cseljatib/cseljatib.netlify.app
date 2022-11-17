@@ -42,7 +42,7 @@ date()
 --------
 
 <font size="2">
-Última actualización de esta web: `r format(Sys.time(), '%d %B, %Y')` </font>
+Última actualización de este sitio: `r format(Sys.time(), '%d %B, %Y')` </font>
 
 
 ## Adquirir {#comprar}
