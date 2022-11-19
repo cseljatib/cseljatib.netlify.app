@@ -1,5 +1,5 @@
 +++
-title = "Modelling tree diameter from airborne laser scanning derived variables: {A} comparison of spatial statistical models"
+title = "Modelling tree diameter from airborne laser scanning derived variables: A comparison of spatial statistical models"
 date = "2010-01-01"
 authors = ["C. Salas", "L. Ene", "T. G. Gregoire", "E. Nasset", "T. Gobakken"]
 publication_types = ["2"]
