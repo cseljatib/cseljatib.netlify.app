@@ -1,5 +1,5 @@
 +++
-title = "Construcción de ecuaciones de volumen para las especies del bosque adulto mixto y del renoval de roble (Nothofagus obliqua (Mirb.) Oerst.) del predio Rucamanque, IX region de la Araucania"
+title = "Construcción de ecuaciones de volumen para las especies del bosque adulto mixto y del renoval de roble (Nothofagus obliqua (Mirb.) Oerst.) del predio Rucamanque, IX región de la Araucanía"
 date = "2000-01-01"
 authors = ["C. Salas"]
 publication_types = ["7"]

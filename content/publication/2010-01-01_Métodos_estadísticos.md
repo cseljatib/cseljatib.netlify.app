@@ -1,5 +1,5 @@
 +++
-title = "Metodos estadísticos paramétricos y no-paramétricos para predecir  variables de rodal basados en Landsat ETM+:  una comparación en un bosque de Araucaria araucana en Chile"
+title = "Métodos estadísticos paramétricos y no-paramétricos para predecir  variables de rodal basados en Landsat ETM+:  una comparación en un bosque de Araucaria araucana en Chile"
 date = "2010-01-01"
 authors = ["C. Salas", "L. Ene", "N. Ojeda", "H. Soto"]
 publication_types = ["2"]

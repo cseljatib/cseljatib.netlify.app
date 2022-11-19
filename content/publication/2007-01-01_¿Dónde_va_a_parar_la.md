@@ -1,5 +1,5 @@
 +++
-title = "Dónde va a parar la investigación forestal chilena de excelencia?: Pasado, presente y futuro"
+title = "¿Dónde va a parar la investigación forestal chilena de excelencia?: Pasado, presente y futuro"
 date = "2007-01-01"
 authors = ["C. Salas"]
 publication_types = ["2"]
