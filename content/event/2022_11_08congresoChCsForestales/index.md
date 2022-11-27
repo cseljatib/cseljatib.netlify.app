@@ -33,7 +33,7 @@ projects:
 summary: Presentaciones en el Congreso Chileno de Ciencias Forestales.
 tags: []
 title: Congreso Chileno de Ciencias Forestales.
-url_video: "https://sites.google.com/uchile.cl/viiicongresochilenodecienciasf/inicio"
+#url_video: "https://sites.google.com/uchile.cl/viiicongresochilenodecienciasf/inicio"
 #url_pdf: ""
 #url_video: "https://youtu.be/quXAoFMNpz4"
 ---
@@ -63,11 +63,11 @@ ejemplo en el libro de resúmenes.
 
 Algunos enlaces relacionados al congreso en Twitter son los siguientes
 
-+ [Sobre inauguración](https://twitter.com/IForestalUChile/status/1589982313051742208?s=20&t=gYiPg8o7LWaUJ6v71X3UDg)
++ [SOCIFOR sobre el congreso](https://twitter.com/socifor/status/1591811895488569347?s=20&t=vUg0_c2mZvfiCMEsI9GrWw)
+
++ [Inauguración](https://twitter.com/IForestalUChile/status/1589982313051742208?s=20&t=gYiPg8o7LWaUJ6v71X3UDg)
 
 + [Ministra del Medio Ambiente en el congreso](https://twitter.com/MMAChile/status/1589960619037691904?s=20&t=LYC-MUfalzN8TwoF2v1_Ag)
-
-+ [SOCIFOR sobre el congreso](https://twitter.com/socifor/status/1591811895488569347?s=20&t=vUg0_c2mZvfiCMEsI9GrWw)
 
 <!--- 
 https://youtu.be/quXAoFMNpz4?t=55
