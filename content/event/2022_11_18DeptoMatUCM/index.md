@@ -1,10 +1,10 @@
 ---
-date: "2022-11-08T12:30:00Z"
+date: "2022-11-18T11:00:00Z"
 #date_end: "2030-06-01T15:00:00Z"
 featured: false
-image:
-  caption: 'Image credit: [**cseljatib**](https://eljatib.com)'
-  focal_point: Right
+#image:
+#  caption: 'Image credit: [**cseljatib**](https://eljatib.com)'
+#  focal_point: Right
 #links:
 #- icon: twitter
 #  icon_pack: fab
@@ -16,44 +16,28 @@ projects:
 - 2019fondef_mio
 #publishDate: "2022-10-01T00:00:00Z"
 #slides: example
-summary: Presentaciones en el Congreso Chileno de Ciencias Forestales.
+summary: Charla Magistral para el Doctorado en Modelamiento Matemático de la Universidad Católica del Maule.
 tags: []
-title: Congreso Chileno de Ciencias Forestales
+title: Charla Magistral
 #url_video: "https://sites.google.com/uchile.cl/viiicongresochilenodecienciasf/inicio"
 #url_pdf: ""
 #url_video: "https://youtu.be/quXAoFMNpz4"
 ---
 
-> *La [SOCIFOR](www.socifor.cl) es la Sociedad Chilena de Ciencias Forestales, quien esta a cargo del Congreso Chileno de Ciencias Forestales, que en este 2022 fue organizado por la Universidad de Chile y llevado a cabo en su casa central en Santiago.*
+> * El Doctorado en Modelamiento Matemático de la Universidad Católica del Maule me invitó a dictar una charla magistral.*
 
-Entre el 8 al 11 de Noviembre, se llevo a cabo el 
- "*VIII Congreso Chileno de Ciencias Forestales*", organizado 
- por la [Universidad de Chile](www.uchile.cl), y realizado
- en su histórica casa central en Santiago, Chile.
- 
- Luego del proceso de revisión y selección  del comite científico  del congreso,
-  fui seleccionado para presentar dos exposiciones orales
-   de trabajos que estoy realizando. La primera de ellas se denominó 
-   "*Describiendo los patrones de incremento diametral individual en bosques de Nothofagus*",
-   en donde se ofrecieron los resultados principales de un modelo
-   de incremento diametral, y la segunda se tituló
-   "*Un sistema de modelación para proyectar el crecimiento de bosques de Nothofagus en Chile*".
-   
-En ambas charlas participaron un considerable número de colegas
- que estan trabajando en tematicas similares, por lo cual fue
-  muy gratificante recibir comentarios y preguntas sobre ambos
-   temas expuestos.
+El programa de [Doctorado en Modelamiento Matemático Aplicado](https://www.dm2a.org) de la Universidad Católica del Maule, me invito a realizar una charla magistral para el cuerpo académico adscrito y estudiantes de dicho programa, así como también para estudiantes de Ingeniería Matemática.
 
-Mayores detalles pueden encontrarse en el [sitio web del congreso](https://sites.google.com/uchile.cl/viiicongresochilenodecienciasf/inicio), por
-ejemplo en el libro de resúmenes.
+El 18 de Noviembre, en el campus principal de la [Universidad Católica del Maule](www.ucm.cl) en Talca, dicte  la charla 
+   "*Modelando la dinámica de bosques nativos: desafíos matemáticos, estadísticos y ecológicos*".
+Fue interesante conversar con colegas que poseen una solidisima formacion matematica teorica y discutir sobre espacios interesantes de explorar en un contexto de ecologia forestal, asi como ver el tremendo avance desarrollado por estudiantes egresados. 
 
-Algunos enlaces relacionados al congreso en Twitter son los siguientes
+Fue muy grato además estar presente en Talca el día que se conoció que el programa recibió una nueva acreditación 
+ por parte de la [Comisión Nacional de Acreditación de Chile](www.cnachile.cl). Felicitaciones
+ a todo el grupo de colegas que desde regiones realizan docencia e investigacion
+ de primer nivel.
 
-+ [SOCIFOR sobre el congreso](https://twitter.com/socifor/status/1591811895488569347?s=20&t=vUg0_c2mZvfiCMEsI9GrWw)
-
-+ [Inauguración](https://twitter.com/IForestalUChile/status/1589982313051742208?s=20&t=gYiPg8o7LWaUJ6v71X3UDg)
-
-+ [Ministra del Medio Ambiente en el congreso](https://twitter.com/MMAChile/status/1589960619037691904?s=20&t=LYC-MUfalzN8TwoF2v1_Ag)
+<img src="/images/pensandoUCM.jpg" width="300">
 
 <!--- 
 https://youtu.be/quXAoFMNpz4?t=55
