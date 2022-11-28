@@ -1,6 +1,6 @@
 ---
-date: "2022-11-18T11:00:00Z"
-#date_end: "2030-06-01T15:00:00Z"
+date: "2022-11-27T09:00:00Z"
+·date_end: "2020-11-25T15:00:00Z"
 featured: false
 #image:
 #  caption: 'Image credit: [**cseljatib**](https://eljatib.com)'
@@ -16,29 +16,31 @@ projects:
 - 2019fondef_mio
 #publishDate: "2022-10-01T00:00:00Z"
 #slides: example
-summary: Charla Magistral para el Doctorado en Modelamiento Matemático de la Universidad Católica del Maule.
+summary: Charla en el congreso EcoStat (Ecologia y Estadistica).
 tags: []
-title: Charla Magistral
+title: EcoStat
 #url_video: "https://sites.google.com/uchile.cl/viiicongresochilenodecienciasf/inicio"
 #url_pdf: ""
 #url_video: "https://youtu.be/quXAoFMNpz4"
 ---
 
-> *El Doctorado en Modelamiento Matemático de la Universidad Católica del Maule me invitó a dictar una charla*.
+> *Ecostat es un Workshop sobre Avances en Estadística para Ecología, donde participe como un Keynote Speaker*.
 
-El programa de [Doctorado en Modelamiento Matemático Aplicado](https://www.dm2a.org) de la  Universidad Católica del Maule, me invito a realizar una charla magistral para el cuerpo académico adscrito y estudiantes de dicho programa, así como también para estudiantes de Ingeniería Matemática.
+**Ecostat** es un Workshop sobre Avances en Estadística para Ecología, que intenta reunir a investigadores interesados en problemas que estan en el borde entre ecología y estadística.
+ El evento  fue realizado entre el 24 y 25 del 2022 en la Universisdad Tecnica Federico Santa Maria, en Valparaiso, Chile.  Esta edicion del workshop fue organizado por el Profesor
+de dicha Universida, el Dr Ronny Vallejos y el Profesor retirado recientemente de Harvard University (USA), el Dr Aaron Ellison.
+El [programa](https://eco-stat.github.io) muestra una gran variedad de topicos cubiertos por
+investigadores nacionales e internacionales.
 
-El 18 de Noviembre, en el campus principal de la [Universidad Católica del Maule](https://portal.ucm.cl) en Talca, dicte  la charla 
-   "*Modelando la dinámica de bosques nativos: desafíos matemáticos, estadísticos y ecológicos*".
-Fue interesante conversar con colegas que poseen una solida formación matemática teórica y discutir sobre temáticas para explorar en un contexto de ecologia forestal, así como ver el tremendo avance desarrollado por estudiantes egresados. 
+ Fui invitado como un Keynote Speaker, donde presente  la charla 
+   "*Building a dynamic growth model for natural forests in south-central Chile*".
+Durante los dos dias del Workshop discutimos sobre diferentes alternativas para enfrentar el analisis de problemas ecologicos, asi como los permanentes desafios que se presentan. Ademas, como siempre, fue motivante y desafiante la charla de Aaron, esta vez sobre Diversidad y Heterogeneidad. 
 
-Fue muy grato además estar presente en la [Universidad Católica del Maule](https://portal.ucm.cl) el día que se conoció que el [programa recibió una nueva acreditación](https://vrip.ucm.cl/la-ucm-consolida-sus-doctorados-cna-otorga-nueva-acreditacion/) 
- por parte de la Comisión Nacional de Acreditación de Chile. Felicitaciones
- a todo el grupo de colegas que desde regiones realizan docencia e investigación
- de primer nivel, sobretodo al Director del programa, el Dr. Fernando Córdova-Lepe
-  y al coordinador administrativo, el Dr. Rodrigo Gutierrez. 
+Especial agradecimiento al  [Centro Avanzado de Ingeniería Eléctrica y Electrónica (AC3E)](https://ac3e.usm.cl) y al Departamento de Matemática de la UTFSM, y por supuesto
+a Ronny por varias estimulantes conversaciones derivadas de cada charla, y a todoa los colegas
+que asistieron.
 
-<img src="/images/pensandoUCM.jpg" width="500">
+<img src="fotoGrupo1.jpg" width="500">
 
 <!--- 
 
