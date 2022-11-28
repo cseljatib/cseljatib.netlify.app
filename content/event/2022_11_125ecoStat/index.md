@@ -24,7 +24,7 @@ title: EcoStat
 #url_video: "https://youtu.be/quXAoFMNpz4"
 ---
 
-> *Ecostat es un Workshop sobre Avances en Estadística para Ecología, donde participe como un Keynote Speaker*.
+> *Ecostat es un Workshop sobre Avances en Estadística para Ecología, donde participé como un Keynote Speaker*.
 
 **Ecostat** es un pequeño Workshop sobre Avances en Estadística para Ecología, que reune a investigadores interesados en problemas que estan en el borde entre ecología y estadística.
  El evento  fue realizado entre el 24 y 25 del 2022 en la Universisdad Técnica Federico Santa María (UTFSM), en Valparaíso, Chile.  Esta edición del workshop fue organizado por el Profesor
@@ -34,11 +34,9 @@ investigadores nacionales e internacionales.
 
  Fui invitado como un Keynote Speaker, donde presente  la charla 
    "*Building a dynamic growth model for natural forests in south-central Chile*".
-Durante los días del Workshop discutimos sobre diferentes alternativas para enfrentar el análisis de problemas ecológicos, así como los permanentes desafíos que se presentan. Además, como siempre, fue **motivante** y desafiante la charla de Aaron, esta vez sobre Diversidad y Heterogeneidad. 
+Durante los días del Workshop discutimos sobre diferentes alternativas para enfrentar el análisis de problemas ecológicos, así como los permanentes desafíos que se presentan. Además, como siempre, fue **motivante** y desafiante la charla de Aaron, esta vez sobre diversidad y heterogeneidad. 
 
-Quiero agradecer al  [Centro Avanzado de Ingeniería Eléctrica y Electrónica (AC3E)](https://ac3e.usm.cl) y al Departamento de Matemática de la UTFSM, y por supuesto
-a Ronny por varias estimulantes conversaciones derivadas de cada charla, y a tod@s l@s colegas
-que asistieron.
+Quiero agradecer al  [Centro Avanzado de Ingeniería Eléctrica y Electrónica (AC3E)](https://ac3e.usm.cl) y al Departamento de Matemática de la UTFSM, y en especial a Ronny por varias estimulantes conversaciones derivadas de cada charla, y a todos los colegas que asistierón.
 
 <img src="fotoGrupo1.jpg" width="500">
 

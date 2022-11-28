@@ -24,13 +24,12 @@ title: Charla Magistral
 #url_video: "https://youtu.be/quXAoFMNpz4"
 ---
 
-> *El Doctorado en Modelamiento Matemático de la Universidad Católica del Maule me invitó a dictar una charla*.
+> *Charla dictada para el Doctorado en Modelamiento Matemático Aplicado de la Universidad Católica del Maule*.
 
-El programa de [Doctorado en Modelamiento Matemático Aplicado](https://www.dm2a.org) de la  Universidad Católica del Maule, me invito a realizar una charla magistral para el cuerpo académico adscrito y estudiantes de dicho programa, así como también para estudiantes de Ingeniería Matemática.
+El programa de [Doctorado en Modelamiento Matemático Aplicado](https://www.dm2a.org) de la  Universidad Católica del Maule, me invitó a realizar una charla magistral para el cuerpo académico adscrito y estudiantes de dicho programa, así como también para estudiantes de Ingeniería Matemática.
 
-El 18 de Noviembre, en el campus principal de la [Universidad Católica del Maule](https://portal.ucm.cl) en Talca, dicte  la charla 
-   "*Modelando la dinámica de bosques nativos: desafíos matemáticos, estadísticos y ecológicos*".
-Fue interesante conversar con colegas que poseen una solida formación matemática teórica y discutir sobre temáticas para explorar en un contexto de ecologia forestal, así como ver el tremendo avance desarrollado por estudiantes egresados. 
+El 18 de Noviembre, en el campus principal de la [Universidad Católica del Maule](https://portal.ucm.cl) en Talca, dicte  la charla    "*Modelando la dinámica de bosques nativos: desafíos matemáticos, estadísticos y ecológicos*".
+Fue interesante conversar con colegas que poseen una sólida formación matemática teórica y discutir sobre temáticas para explorar en un contexto de ecología forestal, así como ver el tremendo avance desarrollado por estudiantes egresados. 
 
 Fue muy grato además estar presente en la [Universidad Católica del Maule](https://portal.ucm.cl) el día que se conoció que el [programa recibió una nueva acreditación](https://vrip.ucm.cl/la-ucm-consolida-sus-doctorados-cna-otorga-nueva-acreditacion/) 
  por parte de la Comisión Nacional de Acreditación de Chile. Felicitaciones

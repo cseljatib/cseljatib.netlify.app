@@ -24,36 +24,36 @@ title: Congreso Chileno de Ciencias Forestales
 #url_video: "https://youtu.be/quXAoFMNpz4"
 ---
 
-> *La [SOCIFOR](www.socifor.cl) es la Sociedad Chilena de Ciencias Forestales, quien esta a cargo del Congreso Chileno de Ciencias Forestales, que en este 2022 fue organizado por la Universidad de Chile y llevado a cabo en su casa central en Santiago.*
+> *La [SOCIFOR](http://www.socifor.cl) es la Sociedad Chilena de Ciencias Forestales, quién esta a cargo del Congreso Chileno de Ciencias Forestales, que en este 2022 fue organizado por la Universidad de Chile y llevado a cabo en su casa central en Santiago.*
 
 Entre el 8 al 11 de Noviembre, se llevo a cabo el 
- "*VIII Congreso Chileno de Ciencias Forestales*", organizado 
- por la [Universidad de Chile](www.uchile.cl), y realizado
- en su histórica casa central en Santiago, Chile.
+ "*VIII Congreso Chileno de Ciencias Forestales*", el máximo evento de [SOCIFOR](http://www.socifor.cl) es la Sociedad Chilena de Ciencias Forestales. Este congreso fue organizado 
+ por la [Universidad de Chile](http://www.uchile.cl), y realizado
+ en su histórica casa central en Santiago, Chile.  
  
- Luego del proceso de revisión y selección  del comite científico  del congreso,
+ Luego del proceso de revisión y selección  del comité científico  del congreso,
   fui seleccionado para presentar dos exposiciones orales
    de trabajos que estoy realizando. La primera de ellas se denominó 
-   "*Describiendo los patrones de incremento diametral individual en bosques de Nothofagus*",
-   en donde se ofrecieron los resultados principales de un modelo
-   de incremento diametral, y la segunda se tituló
+   "*Describiendo los patrones de incremento diametral individual en bosques de Nothofagus*", y la segunda se tituló
    "*Un sistema de modelación para proyectar el crecimiento de bosques de Nothofagus en Chile*".
    
-En ambas charlas participaron un considerable número de colegas
- que estan trabajando en tematicas similares, por lo cual fue
+En ambas charlas participarón un considerable número de colegas
+ que estan trabajando en temáticas similares, por lo cual fue
   muy gratificante recibir comentarios y preguntas sobre ambos
    temas expuestos.
 
 Mayores detalles pueden encontrarse en el [sitio web del congreso](https://sites.google.com/uchile.cl/viiicongresochilenodecienciasf/inicio), por
 ejemplo en el libro de resúmenes.
 
-Algunos enlaces relacionados al congreso en Twitter son los siguientes
+Algunos enlaces relacionados al congreso  son los siguientes
 
-+ [SOCIFOR sobre el congreso](https://twitter.com/socifor/status/1591811895488569347?s=20&t=vUg0_c2mZvfiCMEsI9GrWw)
++ [SOCIFOR sobre el congreso](https://sites.google.com/view/socifor/eventos?authuser=0#h.sa32u3sxqqck)
 
-+ [Inauguración](https://twitter.com/IForestalUChile/status/1589982313051742208?s=20&t=gYiPg8o7LWaUJ6v71X3UDg)
++ [SOCIFOR sobre el congreso (en Twitter)](https://twitter.com/socifor/status/1591811895488569347?s=20&t=vUg0_c2mZvfiCMEsI9GrWw)
 
-+ [Ministra del Medio Ambiente en el congreso](https://twitter.com/MMAChile/status/1589960619037691904?s=20&t=LYC-MUfalzN8TwoF2v1_Ag)
++ [Ceremonia  de inauguración (en Twitter)](https://twitter.com/IForestalUChile/status/1589982313051742208?s=20&t=gYiPg8o7LWaUJ6v71X3UDg)
+
++ [Ministra del Medio Ambiente en el congreso (en Twitter)](https://twitter.com/MMAChile/status/1589960619037691904?s=20&t=LYC-MUfalzN8TwoF2v1_Ag)
 
 <!--- 
 https://youtu.be/quXAoFMNpz4?t=55
