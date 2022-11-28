@@ -24,17 +24,17 @@ title: Charla Magistral
 #url_video: "https://youtu.be/quXAoFMNpz4"
 ---
 
-> * El Doctorado en Modelamiento Matemático de la Universidad Católica del Maule me invitó a dictar una charla magistral.*
+> *El Doctorado en Modelamiento Matemático de la Universidad Católica del Maule me invitó a dictar una charla*.
 
-El programa de [Doctorado en Modelamiento Matemático Aplicado](https://www.dm2a.org) de la Universidad Católica del Maule, me invito a realizar una charla magistral para el cuerpo académico adscrito y estudiantes de dicho programa, así como también para estudiantes de Ingeniería Matemática.
+El programa de [Doctorado en Modelamiento Matemático Aplicado](https://www.dm2a.org) de la  Universidad Católica del Maule, me invito a realizar una charla magistral para el cuerpo académico adscrito y estudiantes de dicho programa, así como también para estudiantes de Ingeniería Matemática.
 
-El 18 de Noviembre, en el campus principal de la [Universidad Católica del Maule](www.ucm.cl) en Talca, dicte  la charla 
+El 18 de Noviembre, en el campus principal de la [Universidad Católica del Maule](https://portal.ucm.cl) en Talca, dicte  la charla 
    "*Modelando la dinámica de bosques nativos: desafíos matemáticos, estadísticos y ecológicos*".
 Fue interesante conversar con colegas que poseen una solidisima formacion matematica teorica y discutir sobre espacios interesantes de explorar en un contexto de ecologia forestal, asi como ver el tremendo avance desarrollado por estudiantes egresados. 
 
 Fue muy grato además estar presente en Talca el día que se conoció que el [programa recibió una nueva acreditación](https://vrip.ucm.cl/la-ucm-consolida-sus-doctorados-cna-otorga-nueva-acreditacion/) 
- por parte de la [Comisión Nacional de Acreditación de Chile](www.cnachile.cl). Felicitaciones
- a todo el grupo de colegas que desde regiones realizan docencia e investigacion
+ por parte de la Comisión Nacional de Acreditación de Chile. Felicitaciones
+ a todo el grupo de colegas que desde regiones realizan docencia e investigación
  de primer nivel, sobretodo al Director del programa, el Dr. Fernando Córdova-Lepe
   y al coordinador administrativo, el Dr. Rodrigo Gutierrez. 
 
