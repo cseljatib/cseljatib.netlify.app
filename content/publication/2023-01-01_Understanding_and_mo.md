@@ -1,6 +1,6 @@
 +++
 title = "Understanding and modelling the dynamics of data point clouds of relative growth rate and plant size"
-date = "2022-01-01"
+date = "2023-01-01"
 authors = ["A. Pommerening", "G. Trincado", "C. Salas-Eljatib", "H. Burkhart"]
 publication_types = ["2"]
 publication = "Forest Ecology and Management, 529 120652. https://doi.org/10.1016/j.foreco.2022.120652"
