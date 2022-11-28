@@ -36,30 +36,13 @@ investigadores nacionales e internacionales.
    "*Building a dynamic growth model for natural forests in south-central Chile*".
 Durante los días del Workshop discutimos sobre diferentes alternativas para enfrentar el análisis de problemas ecológicos, así como los permanentes desafíos que se presentan. Además, como siempre, fue **motivante** y desafiante la charla de Aaron, esta vez sobre Diversidad y Heterogeneidad. 
 
-Especial agradecimiento al  [Centro Avanzado de Ingeniería Eléctrica y Electrónica (AC3E)](https://ac3e.usm.cl) y al Departamento de Matemática de la UTFSM, y por supuesto
+Quiero agradecer al  [Centro Avanzado de Ingeniería Eléctrica y Electrónica (AC3E)](https://ac3e.usm.cl) y al Departamento de Matemática de la UTFSM, y por supuesto
 a Ronny por varias estimulantes conversaciones derivadas de cada charla, y a tod@s l@s colegas
 que asistieron.
 
 <img src="fotoGrupo1.jpg" width="500">
 
 <!--- 
-
-https://youtu.be/quXAoFMNpz4?t=55
-
-ojo que para agregar videos debe estar como "embed"
-
-El video de la charla esta disponible en YouTube en el [link](https://youtu.be/quXAoFMNpz4)
-
-https://www.youtube.com/watch?v=quXAoFMNpz4
-<div class="video-youtube-container"><iframe width="100%" height="100%" src="https://youtu.be/quXAoFMNpz4" frameborder="0" allowfullscreen></iframe></div>
-
-<iframe width="560" height="315" src="https://youtu.be/quXAoFMNpz4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-https://www.youtube.com/watch?v=quXAoFMNpz4
-
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
-
-Slides can be added in a few ways:
-
 - **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
 - **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
