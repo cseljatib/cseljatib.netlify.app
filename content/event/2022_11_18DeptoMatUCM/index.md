@@ -32,14 +32,16 @@ El 18 de Noviembre, en el campus principal de la [Universidad Católica del Maul
    "*Modelando la dinámica de bosques nativos: desafíos matemáticos, estadísticos y ecológicos*".
 Fue interesante conversar con colegas que poseen una solidisima formacion matematica teorica y discutir sobre espacios interesantes de explorar en un contexto de ecologia forestal, asi como ver el tremendo avance desarrollado por estudiantes egresados. 
 
-Fue muy grato además estar presente en Talca el día que se conoció que el programa recibió una nueva acreditación 
+Fue muy grato además estar presente en Talca el día que se conoció que el [programa recibió una nueva acreditación](https://vrip.ucm.cl/la-ucm-consolida-sus-doctorados-cna-otorga-nueva-acreditacion/) 
  por parte de la [Comisión Nacional de Acreditación de Chile](www.cnachile.cl). Felicitaciones
  a todo el grupo de colegas que desde regiones realizan docencia e investigacion
- de primer nivel.
+ de primer nivel, sobretodo al Director del programa, el Dr. Fernando Córdova-Lepe
+  y al coordinador administrativo, el Dr. Rodrigo Gutierrez. 
 
-<img src="/images/pensandoUCM.jpg" width="300">
+<img src="/images/pensandoUCM.jpg" width="500">
 
 <!--- 
+
 https://youtu.be/quXAoFMNpz4?t=55
 
 ojo que para agregar videos debe estar como "embed"
