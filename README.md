@@ -45,3 +45,13 @@ https://levelup.gitconnected.com/netlify-custom-domains-8b4cc5fddb5d
 ## sobre bibliografia
 para generar los .md de cada cita, se debe correr el archivo "bibtex2_academic2.R", el cual
  se basa en tener en la misma carpeta al archivo BibTeX "academic-publications.bib"
+ 
+ @article{arneyo23,
+title = {Understanding and modelling the dynamics of data point clouds of relative growth rate and plant size},
+journal = {Forest Ecology and Management},
+volume = {529},
+pages = {120652},
+year = "2023",
+author = {A. Pommerening and G. Trincado and C. Salas-Eljatib and H. Burkhart},
+doi={10.1016/j.foreco.2022.120652}
+}

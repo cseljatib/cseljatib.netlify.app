@@ -27,17 +27,17 @@ title: EcoStat
 > *Ecostat es un Workshop sobre Avances en Estadística para Ecología, donde participe como un Keynote Speaker*.
 
 **Ecostat** es un Workshop sobre Avances en Estadística para Ecología, que intenta reunir a investigadores interesados en problemas que estan en el borde entre ecología y estadística.
- El evento  fue realizado entre el 24 y 25 del 2022 en la Universisdad Tecnica Federico Santa Maria, en Valparaiso, Chile.  Esta edicion del workshop fue organizado por el Profesor
-de dicha Universida, el Dr Ronny Vallejos y el Profesor retirado recientemente de Harvard University (USA), el Dr Aaron Ellison.
+ El evento  fue realizado entre el 24 y 25 del 2022 en la Universisdad Técnica Federico Santa María (UTFSM), en Valparaiso, Chile.  Esta edicion del workshop fue organizado por el Profesor
+de la UTFSM, el Dr Ronny Vallejos y el Profesor (retirado recientemente) de Harvard University, el Dr Aaron Ellison.
 El [programa](https://eco-stat.github.io) muestra una gran variedad de topicos cubiertos por
 investigadores nacionales e internacionales.
 
  Fui invitado como un Keynote Speaker, donde presente  la charla 
    "*Building a dynamic growth model for natural forests in south-central Chile*".
-Durante los dos dias del Workshop discutimos sobre diferentes alternativas para enfrentar el analisis de problemas ecologicos, asi como los permanentes desafios que se presentan. Ademas, como siempre, fue motivante y desafiante la charla de Aaron, esta vez sobre Diversidad y Heterogeneidad. 
+Durante los dos dias del Workshop discutimos sobre diferentes alternativas para enfrentar el analisis de problemas ecológicos, asi como los permanentes desafíos que se presentan. Además, como siempre, fue motivante y desafiante la charla de Aaron, esta vez sobre Diversidad y Heterogeneidad. 
 
 Especial agradecimiento al  [Centro Avanzado de Ingeniería Eléctrica y Electrónica (AC3E)](https://ac3e.usm.cl) y al Departamento de Matemática de la UTFSM, y por supuesto
-a Ronny por varias estimulantes conversaciones derivadas de cada charla, y a todoa los colegas
+a Ronny por varias estimulantes conversaciones derivadas de cada charla, y a tod@s l@s colegas
 que asistieron.
 
 <img src="fotoGrupo1.jpg" width="500">
