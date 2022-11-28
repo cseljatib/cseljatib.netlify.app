@@ -7,8 +7,8 @@ widget: collection
 headless: true
 
 # Order that this section appears on the page.
-weight: 90
-#weight: 3
+weight: 80
+#weight: 3 antes la deje en 90
 
 title: Publications
 subtitle: 'Papers, chapters, book, theses'
