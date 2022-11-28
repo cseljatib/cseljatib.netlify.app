@@ -6,8 +6,8 @@ widget: portfolio
 # This file represents a page section.
 headless: true
 
-# Order that this section appears on the page.
-weight: 75
+# Order that this section appears on the page. #75
+weight: 4 
 
 title: People
 subtitle: ''

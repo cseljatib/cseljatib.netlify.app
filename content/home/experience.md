@@ -6,8 +6,8 @@ widget: experience
 # This file represents a page section.
 headless: true
 
-# Order that this section appears on the page.
-weight: 40
+# Order that this section appears on the page. #40
+weight: 8
 
 title: Experience
 subtitle: Academic

@@ -6,8 +6,8 @@ widget: collection
 # This file represents a page section.
 headless: true
 
-# Order that this section appears on the page.
-weight: 60
+# Order that this section appears on the page. #60
+weight: 9
 
 title: Posts
 subtitle: News, opinions
