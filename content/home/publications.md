@@ -7,7 +7,7 @@ widget: collection
 headless: true
 
 # Order that this section appears on the page.
-weight: 4
+weight: 2
 #weight: 3 antes la deje en 90
 
 title: Publications
