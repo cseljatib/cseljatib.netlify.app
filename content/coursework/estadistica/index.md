@@ -12,8 +12,6 @@ tags:
 - R
 #authors:
 #- admin
-summary: Análisis estadísticos no cubiertos en el libro **[Análisis de datos con el programa estadístico R](https://tienda.zigzag.cl/9789566086109-analisis-de-datos-con-el-programa-estadistico-r.html)** de Christian Salas-Eljatib.
-
 ---
 
 > *Acá se muestran ejemplos de análisis estadísticos no cubiertos en el libro [**Análisis de datos con el programa estadístico R: una introducción aplicada**](https://tienda.zigzag.cl/9789566086109-analisis-de-datos-con-el-programa-estadistico-r.html) de Christian Salas-Eljatib ([ver más detalles en este link](./rlibro.md)). Este material ha sido preparado para ser utilizado con fines docentes.* 

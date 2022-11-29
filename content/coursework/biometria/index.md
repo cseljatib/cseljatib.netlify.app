@@ -11,8 +11,11 @@ tags:
 - Statistics
 #authors:
 #- admin
-summary: Se ejemplifican algunos modelos y análisis de importancia en biometría forestal.
+#summary: 
 ---
+
+> *Se ejemplifican algunos modelos y análisis de importancia en biometría forestal.* 
+
 
 # Modelos de altura-diámetro
 
@@ -27,7 +30,9 @@ ${\theta}$ es un vector de coeficientes (i.e., parámetros)  del modelo $f()$;
 $\epsilon_{i}$ es un error aleatorio para la $i$-ésima observación que sigue una función de densidad de probabilidades Gaussiana con valor esperado cero y varianza $\sigma^2_{\epsilon}$. 
 
 
-
+# Cálculo de la altura dominante
+La altura dominante es una variable de estado de rodal de amplio
+uso en ciencias forestales. [En esta página se ejemplifica su cálculo](calcHdom.html)
 
 ### Comentarios/sugerencias?
 Cualquier error, comentario o sugerencia, no dude en contactarme [vía e-mail](mailto:cseljatib@gmail.com), mi correo es cseljatib@gmail.com. 
