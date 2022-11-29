@@ -26,8 +26,8 @@ Los intervalos confidenciales son de amplio uso en inferencia estadística. Sin 
 En caso que alguna vez te preguntaste [¿Cómo funciona el método de los mínimos cuadrados?](ols/minCuadrados.html)
 
 # Representando datos espaciales
-Se muestran diferentes alternativas para [graficar patrones de puntos y 
- covariables en datos espaciales](datosEspa.html)
+Se muestran diferentes alternativas
+para [graficar patrones de puntos y covariables en datos  espaciales](datosEspa.html)
 
 # Graficando una serie de tiempo
 Las series de tiempo son fundamentales para cualquier

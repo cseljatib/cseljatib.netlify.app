@@ -17,17 +17,9 @@ summary: Se ejemplifican algunos modelos y análisis de importancia en biometrí
 > *Se ejemplifican algunos modelos y análisis de importancia en biometría forestal.* 
 
 
-# Modelos de altura-diámetro
-
-Un modelo estadístico de altura-diámetro tiene la siguiente estructura general
-\begin{equation}
-   h_i=f({\theta},d_i) + \epsilon_i,  \label{eq:modh.0}
-\end{equation}       
-donde: $h_i$ es la altura del $i$-ésimo árbol;
-$d_i$ es el diámetro a la altura del pecho del $i$-ésimo árbol;
-$f()$ es una función matemática (lineal o no lineal); 
-${\theta}$ es un vector de coeficientes (i.e., parámetros)  del modelo $f()$;
-$\epsilon_{i}$ es un error aleatorio para la $i$-ésima observación que sigue una función de densidad de probabilidades Gaussiana con valor esperado cero y varianza $\sigma^2_{\epsilon}$. 
+# Ajuste de un modelo de altura-diámetro
+Los modelos de altura-diámetro son claves para el estudio
+de la alometría y caracterización de bosques. [Se muestra como ajustar un modelo lineal simple de altura-diámetro](slrModAltura.html)
 
 
 # Cálculo de la altura dominante
@@ -37,6 +29,7 @@ uso en ciencias forestales. [En esta página se ejemplifica su cálculo](calcHdo
 ### Comentarios/sugerencias?
 Cualquier error, comentario o sugerencia, no dude en contactarme [vía e-mail](mailto:cseljatib@gmail.com), mi correo es cseljatib@gmail.com. 
 
+¿Te parecio interesante o útil? Considera compartirlo 🙌
 
 <!--- 
 + [Ajuste de modelo de altura-diametro](/statstuff/datosEspa.html)
