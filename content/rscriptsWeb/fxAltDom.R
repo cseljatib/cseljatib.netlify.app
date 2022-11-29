@@ -38,20 +38,4 @@ Uestimator <- function(heights, trees.per.are) {
     if (m != trees.per.are) warning("trees.per.are = ", trees.per.are, " has been rounded")
     sum(choose(0:(length(heights) - 1), m - 1) * heights) / choose(length(heights), m)
 }
-
-
-Uestimator.alt <- function(heights, trees.per.are) {
-# Alternative implementation of Uestimator, useful for
-# translation to C, VisualBasic, or other procedural languages.
-    m <- round(trees.per.are)
-    if (m != trees.per.are) warning("trees.per.are = ", trees.per.are, " has been rounded")
-    n <- length(heights)
-    U <- heights[m]
-    for (i in (m+1):n) {
-        U <- heights[i] + (i - m) * U / (i - 1)
-    }
-    return (m * U / n)
-}
-
-
 #############  Examples  ##############
