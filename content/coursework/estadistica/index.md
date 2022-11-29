@@ -10,6 +10,7 @@ tags:
 - Statistics
 - Data analysis
 - R
+summary: Sobre análisis de datos y modelos estadísticos.
 #authors:
 #- admin
 ---

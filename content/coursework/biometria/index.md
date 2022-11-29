@@ -11,7 +11,7 @@ tags:
 - Statistics
 #authors:
 #- admin
-#summary: 
+summary: Se ejemplifican algunos modelos y análisis de importancia en biometría forestal.
 ---
 
 > *Se ejemplifican algunos modelos y análisis de importancia en biometría forestal.* 
