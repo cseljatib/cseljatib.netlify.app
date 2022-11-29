@@ -1,5 +1,5 @@
 ---
-date: "2022-10-12"
+date: "2022-11-29"
 image:
 #  caption: 'Image credit: [**Christian Salas**](https://eljatib.com)'
   placement: 2
@@ -7,7 +7,8 @@ math: true
 title: Estadística aplicada
 #excerpt: "Entrevista en canal de televisión MegaPrime"
 tags:
-- Estadistica
+- Statistics
+- Data analysis
 - R
 #authors:
 #- admin
