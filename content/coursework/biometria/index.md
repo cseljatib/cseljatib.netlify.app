@@ -1,5 +1,5 @@
 ---
-date: "2021-12-08"
+date: "2022-11-29"
 image:
   caption: 'Image credit: [**Christian Salas**](https://eljatib.com)'
   placement: 2
@@ -7,16 +7,16 @@ math: true
 title: Biometría forestal
 #excerpt: "Análisis de datos con el programa estadístico R: una introducción aplicada"
 tags:
-- Biometria  
+- Biometrics
 - Statistics
 #authors:
 #- admin
-summary: Se ejemplifican algunos modelos y analisis de importancia en biometría forestal.
+summary: Se ejemplifican algunos modelos y análisis de importancia en biometría forestal.
 ---
 
-# Modelos de altura-diametro
+# Modelos de altura-diámetro
 
-Un modelo estadistico de altura-diametro tiene la siguiente estructura general
+Un modelo estadístico de altura-diámetro tiene la siguiente estructura general
 \begin{equation}
    h_i=f({\theta},d_i) + \epsilon_i,  \label{eq:modh.0}
 \end{equation}       
