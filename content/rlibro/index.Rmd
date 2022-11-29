@@ -85,7 +85,7 @@ install.packages("datana")
 Una descripción más específica del paquete se encuentra en su [manual](https://cran.r-project.org/web/packages/datana/datana.pdf), y de la misma forma en el [sitio del paquete en CRAN](https://cran.r-project.org/web/packages/datana/index.html).
 Tal como se explica en [el material de ayuda](#ayuda), este paquete también puede ser  instalado desde su archivo fuente [de extensión .tar.gz](https://cran.r-project.org/web/packages/datana/index.html). 
 
-Para utilizar el paquete **datana** en una sesion, emplear
+Para utilizar el paquete **datana** en una sesión, emplear
 ```{r, results='hide', message=FALSE}
 library(datana)
 ```
