@@ -21,10 +21,12 @@ summary: Se ejemplifican algunos modelos y análisis de importancia en biometrí
 Los modelos de altura-diámetro son claves para el estudio
 de la alometría y caracterización de bosques. [Se muestra como ajustar un modelo lineal simple de altura-diámetro](slrModAltura.html)
 
-
 # Cálculo de la altura dominante
 La altura dominante es una variable de estado de rodal de amplio
 uso en ciencias forestales. [En esta página se ejemplifica su cálculo](calcHdom.html)
+
+# Ajuste de un modelo no-lineal de efectos mixtos
+Ejemplo simple pero especificando una [función base en R](ajuNlme.html)
 
 ### Comentarios/sugerencias?
 Cualquier error, comentario o sugerencia, no dude en contactarme [vía e-mail](mailto:cseljatib@gmail.com), mi correo es cseljatib@gmail.com. 
