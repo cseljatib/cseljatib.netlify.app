@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 9
 
-title: Webs
-subtitle: Interesting sites
+title: Websites of interest
+subtitle: Sites that could be helpful 
 
 # Section design
 design:
