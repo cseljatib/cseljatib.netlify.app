@@ -393,7 +393,7 @@ pre code {
 
 <style>H1{color:DarkRed;}</style>
 <style>H2{color:DarkGreen;}</style>
-<p><font size="2"> Última actualización de este sitio: 30 noviembre,
+<p><font size="2"> Última actualización de este sitio: 01 diciembre,
 2022 </font></p>
 <p><span style="color:blue">————————</span></p>
 <div id="contexto" class="section level2">
@@ -402,7 +402,7 @@ pre code {
 para toma de decisiones de manejo <span class="citation">(<a href="#ref-salas21" role="doc-biblioref">Salas-Eljatib,
 2021a</a>)</span>. Se define como la altura media de los 100 árboles de
 mayor diámetro en 1 hectárea, sin embargo en la práctica se calcula en
-base a parcelas de muestreo de diferentes su[erficies <span class="citation">(<a href="#ref-garcia98" role="doc-biblioref">García,
+base a parcelas de muestreo de diferentes superficies <span class="citation">(<a href="#ref-garcia98" role="doc-biblioref">García,
 1998</a>)</span>.</p>
 </div>
 <div id="datos" class="section level2">
@@ -412,8 +412,8 @@ base a parcelas de muestreo de diferentes su[erficies <span class="citation">(<a
 estadístico R: una introducción aplicada</strong> <span class="citation">(<a href="#ref-myrbook" role="doc-biblioref">Salas-Eljatib, 2021b</a>)</span>.</p>
 <p>Esta dataframe contiene mediciones de árboles dentro de una parcela
 de muestreo de 500 m<span class="math inline">\(^{2}\)</span> en una
-plantación de <em>Eucalyptus globulus</em>, en las cercanías de Gorbea,
-en la región de la Araucanía, sur de Chile.</p>
+plantación de <em>Eucalyptus globulus</em>, en las cercanías de <a href="https://home.municipalidadgorbea.cl">Gorbea</a>, en la <a href="https://www.laaraucania.cl">región de la Araucanía</a>, sur de
+Chile.</p>
 <pre class="r"><code>&gt; library(datana)
 &gt; data(eucaplot2)
 &gt; df &lt;- eucaplot2</code></pre>
@@ -445,7 +445,7 @@ str()}\)</span></p>
 <h3>Estimador tradicional</h3>
 <p>Existen diferentes alternativas para calcular la altura dominante, la
 más comun es obtener la media de los árboles que representan (en
-proporción) a los 100 en una hectarea. En este ejemplo, dado la
+proporción) a los 100 en una hectárea (ha). En este ejemplo, dado la
 superficie de la parcela, los 5 árboles de mayor diámetro en la parcela
 representarían a los 100 respectivos en 1 ha.</p>
 <pre class="r"><code>&gt; A&lt;-500/10000 #la superficie de la parcela en ha

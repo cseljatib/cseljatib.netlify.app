@@ -19,7 +19,7 @@ summary: Se ejemplifican algunos modelos y análisis de importancia en biometrí
 
 # Ajuste de un modelo de altura-diámetro
 Los modelos de altura-diámetro son claves para el estudio
-de la alometría y caracterización de bosques. [Se muestra como ajustar un modelo lineal simple de altura-diámetro](slrModAltura.html)
+de la alometría y caracterización de bosques. [En este ejemplo se explica como ajustar un modelo lineal simple de altura-diámetro.](slrModAltura.html)
 
 # Cálculo de la altura dominante
 La altura dominante es una variable de estado de rodal de amplio
