@@ -213,6 +213,8 @@ mypubs
 
 # Running the function
 
+# yo lo corro desde carpeta principal y alojo los markdwon files
+# resultantes donde pude el template de Hugo
 #my_bibfile <- "content/publication/academic-publications.bib"
 my_bibfile <- "academic-publications.bib"
 out_fold   <- #"content/publication"
