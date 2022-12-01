@@ -7,7 +7,7 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page. #75
-weight: 4 
+weight: 5 
 
 title: People
 subtitle: ''

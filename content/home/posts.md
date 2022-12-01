@@ -7,7 +7,7 @@ widget: collection
 headless: true
 
 # Order that this section appears on the page. #60
-weight: 9
+weight: 8
 
 title: Posts
 subtitle: News, opinions
