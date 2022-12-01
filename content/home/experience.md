@@ -10,7 +10,7 @@ headless: true
 weight: 8
 
 title: Experience
-subtitle: Academic
+subtitle: Academic experience
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format

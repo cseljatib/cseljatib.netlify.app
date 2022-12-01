@@ -38,10 +38,34 @@ main:
   - name: Posts
     url: '#posts'
     weight: 8
-  - name: Contact
-    url: '#contact'
-    weight: 9
-
+  #- name: Contact
+  #  url: '#contact'
+  #  weight: 9
+  - name: Stuff
+    identifier: stuff
+    url: '#varios'
+    weight: 9  
+  - name : Experience 
+    url : '#experience'
+    parent : stuff    
+    weight: 1
+  - name : Gallery 
+    url : '#gallery'
+    parent : stuff    
+    weight: 2    
+  - name : Tags 
+    url : '#tags'
+    parent : stuff    
+    weight: 3   
+  - name : Contact 
+    url : "#contact"
+    parent : stuff
+    weight : 4      
+  # - name : Experience
+  #   url : "#experience"
+  #   parent : Home
+  #   weight : 1   
+  
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
 #  - name: CV
