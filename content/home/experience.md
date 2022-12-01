@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page. #40
-weight: 8
+weight: 9
 
 title: Experience
 subtitle: Academic experience
