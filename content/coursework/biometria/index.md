@@ -31,7 +31,7 @@ Ejemplo que muestra como ajustar este tipo de modelos, pero  especificando una [
 ### Comentarios/sugerencias?
 Cualquier error, comentario o sugerencia, no dude en contactarme [vía e-mail](mailto:cseljatib@gmail.com), mi correo es cseljatib@gmail.com. 
 
-¿Te parecio interesante o útil? Considera compartirlo 🙌
+¿Te pareció interesante o útil? Considera compartirlo 🙌
 
 <!--- 
 + [Ajuste de modelo de altura-diametro](/statstuff/datosEspa.html)
