@@ -23,10 +23,10 @@ de la alometría y caracterización de bosques. [En este ejemplo se explica como
 
 # Cálculo de la altura dominante
 La altura dominante es una variable de estado de rodal de amplio
-uso en ciencias forestales. [En esta página se ejemplifica su cálculo](calcHdom.html)
+uso en ciencias forestales. [Acá se ejemplifica su cálculo tradicional y un estimador moderno.](calcHdom.html)
 
 # Ajuste de un modelo no-lineal de efectos mixtos
-Ejemplo simple pero especificando una [función base en R](ajuNlme.html)
+Ejemplo que muestra como ajustar este tipo de modelos, pero  especificando una [función específica como el componente determinístico del modelo estadístico.](ajuNlme.html)
 
 ### Comentarios/sugerencias?
 Cualquier error, comentario o sugerencia, no dude en contactarme [vía e-mail](mailto:cseljatib@gmail.com), mi correo es cseljatib@gmail.com. 
