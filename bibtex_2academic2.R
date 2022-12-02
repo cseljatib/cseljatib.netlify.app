@@ -99,17 +99,17 @@ mypubs
   create_md <- function(x) {
 
     # define a date and create filename by appending date and start of title
-    # if (!is.na(x[["year"]])) {
-    #   x[["date"]] <- paste0(x[["year"]], "-01-01")
-    # } else {
-    #   x[["date"]] <- "2999-01-01"
-    # }
-
     if (!is.na(x[["year"]])) {
-      x[["date"]] <- paste0(x[["year"]])
+      x[["date"]] <- paste0(x[["year"]], "-01-01")
     } else {
       x[["date"]] <- "2999-01-01"
     }
+
+    # if (!is.na(x[["year"]])) {
+    #   x[["date"]] <- paste0(x[["year"]])
+    # } else {
+    #   x[["date"]] <- "2999-01-01"
+    # }
     
     filename <- paste(x[["date"]], x[["title"]] %>%
                         str_replace_all(fixed(" "), "_") %>%
