@@ -12,6 +12,10 @@ weight: 9
 title: Gallery
 subtitle: Some pictures
 
+image:
+  caption: 'Image credit: [**Christian Salas**](https://eljatib.com)'
+  placement: 2
+  
 design:
   columns: '2'
 ---

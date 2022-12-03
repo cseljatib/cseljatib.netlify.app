@@ -1,9 +1,8 @@
 # Mi sitio web
 
+## Como funciona esto?
 para compilar esta web, proceder como sigue
-
 1. abrir archivo proyecto
-
 2. en la consola escribir
 
 library(blogdown)
@@ -14,11 +13,7 @@ y para detener, y partir de cero, con
 
 blogdown::stop_server()
 
-library(datana)
-
-data(package = "datana")
-
-
+## Hugo
 Ojo que este web esta basado en HUGO, y como tal no esta soportado por github webpages. Solo Jelly templates estan soportadas,como por ejemplo el web que ya tengo en el repositorio cseljatib.github.io.
 
 como alternativa uno debe usar algo asi como Netlify
@@ -42,7 +37,7 @@ una alternativa diferente es no solo usando dominios, como en el link anterior, 
 https://levelup.gitconnected.com/netlify-custom-domains-8b4cc5fddb5d
 
 
-## sobre bibliografia
+## Sobre bibliografia
 para generar los .md de cada cita, se debe correr el archivo "bibtex2_academic2.R", el cual
  se basa en tener en la misma carpeta al archivo BibTeX "academic-publications.bib"
  
