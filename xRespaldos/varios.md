@@ -10,7 +10,7 @@ headless: true
 weight: 9
 
 title: Stuff
-subtitle: Links, contanct
+subtitle: Links, contacts
 
 content:
   # Filter on criteria

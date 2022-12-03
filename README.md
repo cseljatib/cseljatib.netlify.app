@@ -41,3 +41,6 @@ https://levelup.gitconnected.com/netlify-custom-domains-8b4cc5fddb5d
 para generar los .md de cada cita, se debe correr el archivo "bibtex2_academic2.R", el cual
  se basa en tener en la misma carpeta al archivo BibTeX "academic-publications.bib"
  
+ 
+## las fotos de la galeria
+deben ser dejadas en la carpeta /assets/media/album/demo
