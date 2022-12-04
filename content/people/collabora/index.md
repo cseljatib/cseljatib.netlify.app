@@ -29,7 +29,12 @@ title: Research collaborators
 * *[Hailemariam Temesgen](http://fmbl.forestry.oregonstate.edu)*, Professor of Forest Biometrics, Oregon State University, Corvallis, USA.
 * *Lauri Mehtätalo*, Professor of Forest Biometrics at the Universty of Eastern Finland, Joenssu, Finland.
 
+## some pictures
 
+{{< gallery album="colegas" >}}
+
+
+<!--- 
 With Rodrigo and Andres in Tantauco (2016)
 
 ![](/images/fellows.jpg)
@@ -49,7 +54,6 @@ With Aaron in southern Chile  (2017)
 With Hailemariam's group in Corvallis (2016)
 ![](/images/osu_biometrics.jpg)
 
-<!--- 
 * *[Dylan Craven](https://dylancraven.com)*, Associate Professor of Macroecology, Universidad Mayor, Santiago.
 
 (see details here `http://simuladorpellin.com`)
