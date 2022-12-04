@@ -42,5 +42,10 @@ para generar los .md de cada cita, se debe correr el archivo "bibtex2_academic2.
  se basa en tener en la misma carpeta al archivo BibTeX "academic-publications.bib"
  
  
-## las fotos de la galeria
+## Las fotos de la galeria
 deben ser dejadas en la carpeta /assets/media/album/demo
+
+Para agregarle un watermark, he probado varias cosas, pero nada es muy automatico y flexible, una buena es desde el terminal en linux, y
+
+convert pana2drone.jpg -gravity SouthEast -pointsize 16 -font TinyUnicode-Medium -fill "#fffdc3" -annotate +10+10 "Christian Salas-Eljatib" pana2drone_cse.jpg
+
