@@ -43,7 +43,7 @@ para generar los .md de cada cita, se debe correr el archivo "bibtex2_academic2.
  
  
 ## Las fotos de la galeria
-deben ser dejadas en la carpeta /assets/media/album/demo
+Deben ser dejadas en la carpeta "/assets/media/album/demo". Ojo que tambien cree una galeria de fotos para mis colegas, y esa carpeta esta en la ruta "/assets/media/album/colegas"
 
 Para agregarle un watermark, he probado varias cosas, pero nada es muy automatico y flexible, una buena es desde el terminal en linux, y
 

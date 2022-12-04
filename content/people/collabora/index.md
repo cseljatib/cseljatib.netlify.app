@@ -29,7 +29,7 @@ title: Research collaborators
 * *[Hailemariam Temesgen](http://fmbl.forestry.oregonstate.edu)*, Professor of Forest Biometrics, Oregon State University, Corvallis, USA.
 * *Lauri Mehtätalo*, Professor of Forest Biometrics at the Universty of Eastern Finland, Joenssu, Finland.
 
-## some pictures
+## Pictures
 
 {{< gallery album="colegas" >}}
 
