@@ -7,6 +7,7 @@ publication = "Forest, 8(9) 329. https://doi.org/10.3390/f8090329"
 publication_short = "Forest, 8(9) 329. https://doi.org/10.3390/f8090329"
 abstract = "(Abstract not available)"
 abstract_short = ""
+url_source = "https://www.mdpi.com/1999-4907/8/9/329/pdf?version=1504734458"
 url_code = ""
 image_preview = ""
 selected = false

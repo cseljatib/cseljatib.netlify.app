@@ -7,6 +7,7 @@ publication = "Forests, 11 401. https://doi.org/10.3390/f11040401"
 publication_short = "Forests, 11 401. https://doi.org/10.3390/f11040401"
 abstract = "(Abstract not available)"
 abstract_short = ""
+url_source = "https://www.mdpi.com/1999-4907/11/4/401/pdf?version=1586244245"
 url_code = ""
 image_preview = ""
 selected = false
