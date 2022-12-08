@@ -3,7 +3,7 @@
 # Documentation: https://wowchemy.com/docs/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-# Appearance
+# Appearance #minimal
 
 appearance:
   theme_day: minimal
