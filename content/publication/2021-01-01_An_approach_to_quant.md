@@ -1,5 +1,5 @@
 +++
-title = "An approach to quantify climate-productivity relationships: an example from a widespread   Nothofagus forest"
+title = "An approach to quantify climate-productivity relationships: an example from a widespread  Nothofagus forest"
 date = "2021-01-01"
 authors = ["C. Salas-Eljatib"]
 publication_types = ["2"]

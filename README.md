@@ -14,6 +14,8 @@ y para detener, y partir de cero, con
 blogdown::stop_server()
 
 ## Hugo
+- 📚 [View the **documentation**](https://wowchemy.com/docs/hugo-tutorials)
+
 Ojo que este web esta basado en HUGO, y como tal no esta soportado por github webpages. Solo Jelly templates estan soportadas,como por ejemplo el web que ya tengo en el repositorio cseljatib.github.io.
 
 como alternativa uno debe usar algo asi como Netlify
