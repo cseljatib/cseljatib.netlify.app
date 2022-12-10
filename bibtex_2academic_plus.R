@@ -20,8 +20,7 @@ bibtex_2academic <- function(bibfile,
     data
   }
 
-    ##acaaaaaaaaaa agregue keywords
-  mypubs <-fncols(mypubs, c("journal", "type","abstract", "annotation", "editor", "booktitle", "volume", "number", "pages", "address", "institution", "publisher", "doi", "isbn", "url", "year", "month",'keywords'))
+  mypubs <-fncols(mypubs, c("journal", "abstract", "annotation", "editor", "booktitle", "volume", "number", "pages", "address", "institution", "publisher", "doi", "isbn", "url", "year", "month"))
 
   mypubs <- mypubs  %>%
       mutate(mainref = journal)
@@ -261,15 +260,19 @@ bibtex_2academic <- function(bibfile,
 
 # Running the function for publications
 
-#my_bibfile <- "content/publication/academic-publications.bib"
-#out_fold   <- "content/publication"
-my_bibfile <- "academic-publications.bib"
-out_fold   <- #"content/publication"
-  paste(getwd(),"content/publication",sep="/")
-
+my_bibfile <- "content/publication/academic-publications.bib"
+out_fold   <- "content/publication"
 bibtex_2academic(bibfile  = my_bibfile,
                   outfold   = out_fold,
                   abstract  = TRUE,
                   overwrite = TRUE)
 
 
+#this is for including my presentations collection together with my publications in the same page for the sake of simplicity
+
+my_bibfile <- "content/publication/academic-presentations.bib"
+out_fold   <- "content/publication"
+bibtex_2academic(bibfile  = my_bibfile,
+                 outfold   = out_fold,
+                 abstract  = TRUE,
+                 overwrite = TRUE)
