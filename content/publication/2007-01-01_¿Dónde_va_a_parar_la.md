@@ -8,6 +8,7 @@ publication_short = "Bosque Nativo, 40 10--13."
 abstract = "(Abstract not available)"
 abstract_short = ""
 url_source = "https://www.researchgate.net/publication/281758834_Donde_va_a_parar_la_investigacion_forestal_chilena_de_excelencia_Pasado_presente_y_futuro"
+url_pdf = "/myPubs/2007InvExc_bnativo.pdf"
 url_code = ""
 image_preview = ""
 selected = false
