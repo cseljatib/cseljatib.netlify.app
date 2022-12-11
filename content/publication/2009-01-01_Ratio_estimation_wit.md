@@ -8,6 +8,7 @@ publication_short = "Biometrics, 65(2) : 590--598. https://doi.org/10.1111/j.154
 abstract = "(Abstract not available)"
 abstract_short = ""
 url_source = "https://www.researchgate.net/publication/23226158_Ratio_Estimation_with_Measurement_Error_in_the_Auxiliary_Variate"
+url_pdf = "/myPubs/2009ratioEstimatorsME_GregoireSalas_Biometrics.pdf"
 url_code = ""
 image_preview = ""
 selected = false
