@@ -12,7 +12,6 @@ url_code = ""
 image_preview = ""
 selected = false
 projects = []
-url_pdf = ""
 url_preprint = ""
 url_dataset = ""
 url_project = ""
