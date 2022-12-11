@@ -8,6 +8,7 @@ publication_short = "Bosque, 27(1) : 52--56. https://doi.org/10.4067/S0717-92002
 abstract = "(Abstract not available)"
 abstract_short = ""
 url_source = "https://www.researchgate.net/publication/297710179_Damages_to_wooden_houses_caused_by_xylophagus_Coleoptera_IX_Region_Chile"
+url_pdf = "/myPubs/2006xylofagos_RebolledoSalas_Bosque.pdf"
 url_code = ""
 image_preview = ""
 selected = false

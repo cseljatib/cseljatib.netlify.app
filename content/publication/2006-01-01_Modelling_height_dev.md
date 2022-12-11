@@ -8,6 +8,7 @@ publication_short = "Forest Ecology and Management, 229(1-3) : 1--6. https://doi
 abstract = "We used stem-analysis data from 60 to 100 years-old second-growth stands, and single-point observations in 260-460 years-old trees, to study and model height development of Nothofagus obliqua ('roble'). The data covers a much wider range of ages than previous work on this species. A stochastic differential equation approach facilitated the estimation and comparison of alternative model variants based on the Richards equation. A number of methodological issues in the application of stem-analysis techniques were examined. It was found that breast-height-age can improve the reliability of site quality assessment and growth projections, compared to the total or stump age currently used. Best results were obtained with a polymorphic model fitted to the stem-analysis observations, conditioning the asymptote to be compatible with the old-growth tree measurements."
 abstract_short = ""
 url_source = "https://www.researchgate.net/publication/222820540_Modelling_height_development_of_mature_Nothofagus_obliqua"
+url_pdf = "/myPubs/2006robleheight_Foreco.pdf"
 url_code = ""
 image_preview = ""
 selected = false

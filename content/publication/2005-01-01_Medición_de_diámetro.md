@@ -8,6 +8,7 @@ publication_short = "Bosque, 26(2) : 81--90. https://doi.org/10.4067/S0717-92002
 abstract = "(Abstract not available)"
 abstract_short = ""
 url_source = "https://www.researchgate.net/publication/250372068_Medicion_de_diametros_fustales_con_relascopio_y_forcipula_finlandesa_efectos_en_la_estimacion_de_volumen"
+url_pdf = "/myPubs/2005relascope_Bosque.pdf"
 url_code = ""
 image_preview = ""
 selected = false
