@@ -205,7 +205,6 @@ mypubs
       write("[header]", fileConn, append = T)
       write("image = \"\"", fileConn, append = T)
       write("caption = \"\"", fileConn, append = T)
-
       
       write("+++", fileConn, append = T)
 
