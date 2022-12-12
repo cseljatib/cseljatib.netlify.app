@@ -1,6 +1,8 @@
 # The function: bibtex_2academic2
 # original version from: https://jc-castillo.com/post/zotero-academic/
-# new version, tuned for simpler bibTeX references
+# new version, tuned for simpler bibTeX references and or
+# details that are more suitable to me.
+# Christian Salas-Eljatib
 bibtex_2academic2 <- function(bibfile,
                              outfold,
                              abstract = FALSE,
