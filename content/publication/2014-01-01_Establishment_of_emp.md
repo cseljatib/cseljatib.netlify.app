@@ -7,6 +7,7 @@ publication = "Journal of Soil Science and Plant Nutrition, 14(3) : 670--675. ht
 publication_short = "Journal of Soil Science and Plant Nutrition, 14(3) : 670--675. https://doi.org/10.4067/S0718-95162014005000053"
 abstract = "(Abstract not available)"
 abstract_short = ""
+url_pdf = "/myPubs/2014contenidoHumedad_JSoilCsNutrition.pdf"
 url_code = ""
 image_preview = ""
 selected = false
