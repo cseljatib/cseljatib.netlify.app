@@ -8,6 +8,7 @@ publication_short = "Bosque, 41(3) : 209--212. https://doi.org/10.4067/S0717-920
 abstract = "(Abstract not available)"
 abstract_short = ""
 url_source = "https://www.researchgate.net/publication/346010289_Un_llamado_a_la_activacion_real_de_la_Sociedad_Chilena_de_Ciencias_Forestales"
+url_pdf = "/myPubs/2020socChCsForestales_bosque.pdf"
 url_code = ""
 image_preview = ""
 selected = false

@@ -7,6 +7,7 @@ publication = "Frontiers in Forests and Global Change 965599. https://doi.org/10
 publication_short = "Frontiers in Forests and Global Change 965599. https://doi.org/10.3389/ffgc.2022.965599"
 abstract = "(Abstract not available)"
 abstract_short = ""
+url_pdf = "/myPubs/2022prospectSilvi_frontiers.pdf"
 url_code = ""
 image_preview = ""
 selected = false

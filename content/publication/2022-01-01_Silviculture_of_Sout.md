@@ -7,6 +7,7 @@ publication = "New Zealand Journal of Forestry Science, 52: 2. https://doi.org/1
 publication_short = "New Zealand Journal of Forestry Science, 52: 2. https://doi.org/10.33494/nzjfs522022x173x"
 abstract = "(Abstract not available)"
 abstract_short = ""
+url_pdf = "/myPubs/2022silvicsNative_NZJFS.pdf"
 url_code = ""
 image_preview = ""
 selected = false

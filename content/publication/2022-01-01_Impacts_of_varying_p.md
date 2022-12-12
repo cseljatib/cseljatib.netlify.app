@@ -7,6 +7,7 @@ publication = "Forest Ecology and Management, 524: 120519. https://doi.org/10.10
 publication_short = "Forest Ecology and Management, 524: 120519. https://doi.org/10.1016/j.foreco.2022.120519"
 abstract = "(Abstract not available)"
 abstract_short = ""
+url_pdf = "/myPubs/2022precipitationLenga_foreco.pdf"
 url_code = ""
 image_preview = ""
 selected = false

@@ -7,6 +7,7 @@ publication = "Applied Vegetation Science, 23(2) : 210--222. https://doi.org/10.
 publication_short = "Applied Vegetation Science, 23(2) : 210--222. https://doi.org/10.1111/avsc.12479"
 abstract = "(Abstract not available)"
 abstract_short = ""
+url_pdf = "/myPubs/2020_0initialResponseUnderstorey_AndresEtal_AppVegSc.pdf"
 url_code = ""
 image_preview = ""
 selected = false

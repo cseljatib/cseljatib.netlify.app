@@ -7,6 +7,7 @@ publication = "Environmental Research Letters, 15:  121003. https://doi.org/10.1
 publication_short = "Environmental Research Letters, 15:  121003. https://doi.org/10.1088/1748-9326/abcac7"
 abstract = "(Abstract not available)"
 abstract_short = ""
+url_pdf = "/myPubs/2020firesAmazonia_envResLett.pdf"
 url_code = ""
 image_preview = ""
 selected = false
