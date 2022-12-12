@@ -7,6 +7,7 @@ publication = "Canadian Journal of Forest Research, 46(4) : 461--469. https://do
 publication_short = "Canadian Journal of Forest Research, 46(4) : 461--469. https://doi.org/10.1139/cjfr-2015-0384"
 abstract = "(Abstract not available)"
 abstract_short = ""
+url_pdf = "/myPubs/2016_0largeTreeLidar_cjfr.pdf"
 url_code = ""
 image_preview = ""
 selected = false

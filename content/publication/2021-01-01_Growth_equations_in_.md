@@ -8,6 +8,7 @@ publication_short = "Current Forestry Reports, 7: 230--244. https://doi.org/10.1
 abstract = "(Abstract not available)"
 abstract_short = ""
 url_source = "https://www.researchgate.net/publication/357163700_Growth_Equations_in_Forest_Research_Mathematical_Basis_and_Model_Similarities"
+url_pdf = "/myPubs/2021growthEq_currForReports.pdf"
 url_code = ""
 image_preview = ""
 selected = false

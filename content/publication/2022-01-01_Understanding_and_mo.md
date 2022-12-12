@@ -7,6 +7,7 @@ publication = "Forest Ecology and Management, 529: 120652. https://doi.org/10.10
 publication_short = "Forest Ecology and Management, 529: 120652. https://doi.org/10.1016/j.foreco.2022.120652"
 abstract = "Notice that the year of publication is actually 2023"
 abstract_short = ""
+url_pdf = "/myPubs/2023elliticClouds_foreco.pdf"
 url_code = ""
 image_preview = ""
 selected = false

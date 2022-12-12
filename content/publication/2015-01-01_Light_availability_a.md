@@ -7,6 +7,7 @@ publication = "Canadian Journal of Forest Research, 45 998--1005. https://doi.or
 publication_short = "Canadian Journal of Forest Research, 45 998--1005. https://doi.org/10.1139/cjfr-2014-0353"
 abstract = "(Abstract not available)"
 abstract_short = ""
+url_pdf = "/myPubs/2015light availability soilCompactation_conDaniel_cjfr.pdf"
 url_code = ""
 image_preview = ""
 selected = false
