@@ -7,6 +7,7 @@ publication = "Bosque, 40(2) : 235--240. https://doi.org/10.4067/S0717-920020190
 publication_short = "Bosque, 40(2) : 235--240. https://doi.org/10.4067/S0717-92002019000200235"
 abstract = "(Abstract not available)"
 abstract_short = ""
+url_pdf = "/myPubs/2019_0indBosqueAdulto_DiegoBosque.pdf"
 url_code = ""
 image_preview = ""
 selected = false

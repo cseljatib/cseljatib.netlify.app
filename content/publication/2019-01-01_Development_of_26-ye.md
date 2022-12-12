@@ -7,6 +7,7 @@ publication = "Forest Ecology and Management, 432:  686--693. https://doi.org/10
 publication_short = "Forest Ecology and Management, 432:  686--693. https://doi.org/10.1016/j.foreco.2018.10.004"
 abstract = "(Abstract not available)"
 abstract_short = ""
+url_pdf = "/myPubs/2019_0cortaRegeneracion_donosoSalas_foreco.pdf"
 url_code = ""
 image_preview = ""
 selected = false
