@@ -7,6 +7,7 @@ publication = "Plant Ecology & Diversity, 11(2) : 205--215. https://doi.org/10.1
 publication_short = "Plant Ecology & Diversity, 11(2) : 205--215. https://doi.org/10.1080/17550874.2018.1444109"
 abstract = "(Abstract not available)"
 abstract_short = ""
+url_pdf = "/myPubs/2018_0weedsVargas_etal.pdf"
 url_code = ""
 image_preview = ""
 selected = false

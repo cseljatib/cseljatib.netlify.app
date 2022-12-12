@@ -7,6 +7,7 @@ publication = "Applied Soil Ecology, 131 99--106. https://doi.org/10.1016/j.apso
 publication_short = "Applied Soil Ecology, 131 99--106. https://doi.org/10.1016/j.apsoil.2018.08.010"
 abstract = "(Abstract not available)"
 abstract_short = ""
+url_pdf = "/myPubs/2018fuegoSueloAraucaria_andres.pdf"
 url_code = ""
 image_preview = ""
 selected = false

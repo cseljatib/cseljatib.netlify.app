@@ -7,6 +7,7 @@ publication = "Forest Ecology and Management, 390 147--156. https://doi.org/10.1
 publication_short = "Forest Ecology and Management, 390 147--156. https://doi.org/10.1016/j.foreco.2017.01.030"
 abstract = "(Abstract not available)"
 abstract_short = ""
+url_pdf = "/myPubs/2017_0simultaneousFitVietnam_foreco_Kralicek_etal.pdf"
 url_code = ""
 image_preview = ""
 selected = false
