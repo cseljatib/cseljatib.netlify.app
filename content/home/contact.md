@@ -37,7 +37,7 @@ content:
   coordinates:
     latitude: '-33.44456567223664'
     longitude: '-70.66397113073741'
-  directions: near "Los Leones" subway station.
+  directions: Near "Los Leones" subway station.
 #  office_hours:
 #    - 'Monday 10:00 to 13:00'
 #    - 'Wednesday 09:00 to 10:00'
@@ -52,6 +52,21 @@ content:
 #      name: Zoom Me
 #      link: 'https://zoom.com'
 
+# design:
+#   columns: '2'
 design:
-  columns: '2'
+  background:
+    # Name of image in `assets/media/`.
+    image: matt-mcnulty-nyc-2nd-ave.jpg
+    # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+    image_darken: 0.7
+    #  Options are `cover` (default), `contain`, or `actual` size.
+    image_size: cover
+    # Options include `left`, `center` (default), or `right`.
+    image_position: center
+    # Use a fun parallax-like fixed background effect on desktop? true/false
+    image_parallax: true
+    # Text color (true=light, false=dark, or remove for the dynamic theme color).
+    text_color_light: true
+  
 ---
