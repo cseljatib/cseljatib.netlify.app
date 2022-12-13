@@ -100,13 +100,20 @@ mypubs
   # about a publication
   create_md <- function(x) {
 
-    # define a date and create filename by appending date and start of title
-    if (!is.na(x[["year"]])) {
-      x[["date"]] <- paste0(x[["year"]], "-01-01")
-    } else {
-      x[["date"]] <- "2999-01-01"
-    }
+#   # define a date and create filename by appending date and start of title
+    # if (!is.na(x[["year"]])) {
+    #   x[["date"]] <- paste0(x[["year"]], "-01-01")
+    # } else {
+    #   x[["date"]] <- "2999-01-01"
+    # }
 
+    # define a date and create filename by appending date and start of title
+    if (!is.na(x[["date"]])) {
+      x[["date"]] <- paste0(x[["date"]])
+    } else {
+      x[["date"]] <- paste0(x[["year"]], "-07-25")
+    }
+    
     # if (!is.na(x[["year"]])) {
     #   x[["date"]] <- paste0(x[["year"]])
     # } else {
