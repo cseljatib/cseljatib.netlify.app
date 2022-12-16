@@ -1,6 +1,6 @@
 +++
 title = "Analysing changes in spatial point patterns: a proposal using data from a forest thinning experiment"
-date = "2022-12-16"
+date = "2022-12-10"
 authors = ["C. Salas-Eljatib", "J. Riquelme", "P. J. Donoso", "D. Ponce", "D. P. Soto"]
 publication_types = ["2"]
 publication = "Forest Ecosystems, 9: 100081. https://doi.org/10.1016/j.fecs.2022.100081"
