@@ -4,8 +4,7 @@ image:
 #  caption: 'Image credit: [**Christian Salas**](https://eljatib.com)'
   placement: 2
 math: true
-title: Reportaje: Bosques en Peligro
-#excerpt: "Entrevista en canal de televisión Mega"
+title: Reportaje Bosques en Peligro
 tags:
 - Forest ecology
 - Climate change
