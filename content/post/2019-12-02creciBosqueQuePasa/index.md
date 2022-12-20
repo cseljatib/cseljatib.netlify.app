@@ -12,7 +12,11 @@ tags:
 - Bosque nativo
 #authors:
 #- admin
-url_source: "https://www.latercera.com/que-pasa/noticia/se-puede-anticipar-como-crecera-un-bosque/917695/"
+links:
+- #icon: twitterr
+  #icon_pack: fab
+  name: Link a noticia
+  url: https://www.latercera.com/que-pasa/noticia/se-puede-anticipar-como-crecera-un-bosque/917695/
 ---
 
 > *Reportaje: ¿Se puede anticipar cómo crecerá un bosque?, en semanario "Qué Pasa" del diario La Tercera* 
