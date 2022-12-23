@@ -5,6 +5,9 @@ education:
   - course: PhD in Biometrics
     institution: Yale University
     year: 2011
+  - course: M.Phill in Biometrics
+    institution: Yale University
+    year: 2009    
   - course: MSc in Statistics
     institution: University of Idaho
     year: 2006
@@ -17,7 +20,9 @@ highlight_name: true
 interests:
 - Biometrics
 - Forest ecology
-- Applied statistics
+- Statistics
+- Differential equations
+- Sampling
 last_name: Salas-Eljatib
 organizations:
 - name: Universidad Mayor
