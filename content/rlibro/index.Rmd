@@ -31,6 +31,7 @@ date()
 <style>H1{color:DarkRed;}</style>
 <style>H2{color:DarkGreen;}</style>
 
+
 --------
 
 
@@ -121,6 +122,7 @@ El paquete contiene varios set de datos (dataframe) disponibles. Las caracterist
 + [mycontrast.R](/rlibro/mycontrast.R)
 + [snaspe09.dbf](/rlibro/snaspe09.dbf)
 + [ufcData.csv](/rlibro/ufcData.csv)
++ [2020-03-30-CasosConfirmados.csv](/rlibro/2020-03-30-CasosConfirmados.csv)
 
 ## Gráficos avanzados {#scri}
 En los siguientes enlances estan disponibles los scripts para reproducir las figuras de la sección 6.3 "*Algunos otros gráficos más complejos*" del libro. Por cualquier duda no dude en escribirme.

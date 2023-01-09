@@ -34,7 +34,7 @@ Cualquier error, comentario o sugerencia, no dude en contactarme [vía e-mail](m
 ¿Te pareció interesante o útil? Considera compartirlo 🙌
 
 <!--- 
-+ [Ajuste de modelo de altura-diametro](/statstuff/datosEspa.html)
++ slrModAltura.Rmd (en mi carpeta de Rejemplos)
 
 #### Te parecio interesante o util? Considera compartirlo 🙌
 
