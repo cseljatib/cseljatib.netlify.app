@@ -11,7 +11,7 @@ tags:
 - Forest management
 - Silviculture
 - Principal investigator
-title: A growth simulator for natural forest
+title: A growth simulator for natural forests
 ---
 
 > *A quantitative tool for decision-support in forest management of native forest.*
