@@ -7,6 +7,7 @@ publication = " Fondo de Investigacion del Bosque Nativo: Santiago, Chile. 69 p.
 publication_short = " Fondo de Investigacion del Bosque Nativo: Santiago, Chile. 69 p."
 abstract = "(Abstract not available)"
 abstract_short = ""
+url_pdf = "/myPubs/2019Libro_Modelos_Volumen_Crecimiento_Siempreverde.pdf"
 url_code = ""
 image_preview = ""
 selected = false
