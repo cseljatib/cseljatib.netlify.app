@@ -13,7 +13,6 @@ selected = false
 projects = []
 url_preprint = ""
 url_dataset = ""
-url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""

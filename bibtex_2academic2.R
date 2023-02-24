@@ -192,6 +192,8 @@ mypubs
       if (!is.na(x[["url"]]))   write(paste0("url_source = \"", x[["url"]], "\""), fileConn, append = T)
       if (!is.na(x[["keywords"]]))   write(paste0("tags = [\"", x[["keywords"]], "\"]"), fileConn, append = T)
       if (!is.na(x[["url_pdf"]]))   write(paste0("url_pdf = \"", x[["url_pdf"]], "\""), fileConn, append = T)
+##acaaa: la siguiente linea es mia
+      if (!is.na(x[["url_project"]]))   write(paste0("url_project = \"", x[["url_project"]], "\""), fileConn, append = T)
       
       # other possible fields are kept empty. They can be customized later by
       # editing the created md
@@ -205,7 +207,7 @@ mypubs
       #write("url_pdf = \"\"", fileConn, append = T)
       write("url_preprint = \"\"", fileConn, append = T)
       write("url_dataset = \"\"", fileConn, append = T)
-      write("url_project = \"\"", fileConn, append = T)
+#      write("url_project = \"\"", fileConn, append = T)
       write("url_slides = \"\"", fileConn, append = T)
       write("url_video = \"\"", fileConn, append = T)
       write("url_poster = \"\"", fileConn, append = T)
