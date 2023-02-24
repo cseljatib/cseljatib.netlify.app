@@ -1,3 +1,5 @@
+##ojo este modifique el nombre de capitulos de libro
+#on feb22, 2023
 # Navigation
 
 - id: toggle_navigation
@@ -61,7 +63,7 @@
   translation: Preprint
 
 - id: btn_pdf
-  translation: PDF
+  translation: Document ###PDF acaaa: esto lo cambie yo
 
 - id: btn_cite
   translation: Cite
@@ -85,7 +87,7 @@
   translation: Poster
 
 - id: btn_source
-  translation: Source Document
+  translation: Related website ###acaaa: esto lo cambie yo "Source Document""
 
 - id: btn_copy
   translation: Copy
@@ -193,7 +195,7 @@
   translation: Book
 
 - id: pub_book_section
-  translation: Book section
+  translation: Book chapter
 
 - id: pub_thesis
   translation: Thesis
@@ -201,6 +203,9 @@
 - id: pub_patent
   translation: Patent
 
+- id: pub_misc
+  translation: Miscellaneous
+  
 # Project details
 
 - id: open_project_site

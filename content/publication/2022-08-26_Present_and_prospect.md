@@ -18,6 +18,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
+url_conference = ""
 math = true
 highlight = true
 [header]

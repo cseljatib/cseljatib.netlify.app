@@ -1,7 +1,7 @@
 +++
 title = "Interactions of elevation, aspect, and slope in models of forest species composition and productivity"
 date = "2007-03-01"
-authors = ["Albert R. Stage", "C. Salas"]
+authors = ["A. R. Stage", "C. Salas"]
 publication_types = ["2"]
 publication = "Forest Science, 53(4) : 486--492. https://doi.org/10.1093/forestscience/53.4.486"
 publication_short = "Forest Science, 53(4) : 486--492. https://doi.org/10.1093/forestscience/53.4.486"
@@ -19,6 +19,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
+url_conference = ""
 math = true
 highlight = true
 [header]

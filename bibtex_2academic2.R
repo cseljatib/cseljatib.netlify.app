@@ -93,9 +93,12 @@ mypubs
                                  bibtype == "Book" ~ "5",
                                  bibtype == "InCollection" ~ "6",
                                  bibtype == "InBook" ~ "6",
-                                 bibtype == "Misc" ~ "0",
+                                 bibtype == "Misc" ~ "9", 
                                  TRUE ~ "0"))
 
+  #el numero 9 tiene que corresponder a la posicion respectiva en el archivo
+  #".../modules/wowchemy/v5/data/publication_types.toml"
+  
   # create a function which populates the md template based on the info
   # about a publication
   create_md <- function(x) {
@@ -206,7 +209,8 @@ mypubs
       write("url_slides = \"\"", fileConn, append = T)
       write("url_video = \"\"", fileConn, append = T)
       write("url_poster = \"\"", fileConn, append = T)
-
+      write("url_conference = \"\"", fileConn, append = T)
+      
       #other stuff
       write("math = true", fileConn, append = T)
       write("highlight = true", fileConn, append = T)
