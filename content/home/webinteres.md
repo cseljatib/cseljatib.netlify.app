@@ -40,7 +40,6 @@ design:
 + [Simulador de bosque nativo: Pellín](http://simuladorpellin.com)
 + [Sociedad Chilena de Ciencias Forestales](http://socifor.cl)
 + [My collection of syntaxes and related details for Linux](/myLinuxHelp/myLinuxHelp.html)
-+ [Center for Ecosystem Modeling and Monitoring](https://cem.umayor.cl/) (CEM)
 + [Bosque](https://www.revistabosque.org/index.php/bosque/index)  (The Chilean Journal of Forest Science)
 + [The R project](https://www.r-project.org/)
 + [Libro introductorio a R](https://eljatib.com/rlibro)
