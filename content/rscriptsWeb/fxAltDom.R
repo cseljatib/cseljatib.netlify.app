@@ -1,3 +1,7 @@
+## Script: fxAltDom.R                       /
+## Sobre:  funciones para calculo de altura dominante./
+#------------------------------------------------------------/ 
+## Este script provienen del Prof. Oscar Garcia.
 ##########################################################
 ##       R functions for top height calculations        ##
 ##########################################################

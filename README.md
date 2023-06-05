@@ -9,6 +9,9 @@ library(blogdown)
 
 blogdown::serve_site()
 
+luego debo abrir el archivo bibtex_2academic2.R, y correrlo como source() para
+asi actualizar la bibliografia.
+
 y para detener, y partir de cero, con
 
 blogdown::stop_server()

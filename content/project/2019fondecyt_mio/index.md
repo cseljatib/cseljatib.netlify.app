@@ -6,7 +6,7 @@ image:
   focal_point: Smart
 summary: FONDECYT project for forecasting growth of mixed-species forests.
 tags:
-- Current
+- Past
 - Modelling
 - Forest ecology
 - Principal investigator
