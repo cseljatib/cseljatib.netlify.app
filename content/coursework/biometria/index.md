@@ -1,5 +1,5 @@
 ---
-date: "2022-11-29"
+date: "2023-06-28"
 image:
   caption: 'Image credit: [**Christian Salas**](https://eljatib.com)'
   placement: 2
@@ -17,16 +17,16 @@ summary: Se ejemplifican algunos modelos y análisis de importancia en biometrí
 > *Se ejemplifican algunos modelos y análisis de importancia en biometría forestal.* 
 
 
-# Ajuste de un modelo de altura-diámetro
+# [Ajuste de un modelo de altura-diámetro](slrModAltura.html)
 Los modelos de altura-diámetro son claves para el estudio
-de la alometría y caracterización de bosques. [En este ejemplo se explica como ajustar un modelo lineal simple de altura-diámetro.](slrModAltura.html)
+de la alometría y caracterización de bosques. En este ejemplo se explica como ajustar un modelo lineal simple de altura-diámetro.
 
-# Cálculo de la altura dominante
+# [Estimación de la altura dominante](calcHdom.html)
 La altura dominante es una variable de estado de rodal de amplio
-uso en ciencias forestales. [Acá se ejemplifica su cálculo tradicional y un estimador moderno.](calcHdom.html)
+uso en ciencias forestales. Acá se ejemplifica su estimación tradicional y un estimador moderno.
 
-# Ajuste de un modelo no-lineal de efectos mixtos
-Ejemplo que muestra como ajustar este tipo de modelos, pero  especificando una [función específica como el componente determinístico del modelo estadístico.](ajuNlme.html)
+# [Ajuste de un modelo no-lineal de efectos mixtos](ajuNlme.html)
+Ejemplo que muestra como ajustar este tipo de modelos, pero  especificando una función específica como el componente determinístico del modelo estadístico.
 
 ### Comentarios/sugerencias?
 Cualquier error, comentario o sugerencia, no dude en contactarme [vía e-mail](mailto:cseljatib@gmail.com), mi correo es cseljatib@gmail.com. 
