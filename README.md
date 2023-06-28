@@ -9,6 +9,8 @@ library(blogdown)
 
 blogdown::serve_site()
 
+primero editar el archivo con mis publicaciones "academic-publications.bib"
+
 luego debo abrir el archivo bibtex_2academic2.R, y correrlo como source() para
 asi actualizar la bibliografia.
 
@@ -22,6 +24,7 @@ blogdown::stop_server()
 ## Hugo
 - 📚 [View the **documentation**](https://wowchemy.com/docs/hugo-tutorials)
 
+https://github.com/wowchemy/starter-hugo-academic/tree/ec7d4d55f3b931dcace7d39fd9d221ef83bf87df
 
 - [configurando el background de paginas](https://wowchemy.com/docs/getting-started/page-builder/)
 
@@ -60,3 +63,4 @@ Para agregarle un watermark, he probado varias cosas, pero nada es muy automatic
 
 convert pana2drone.jpg -gravity SouthEast -pointsize 16 -font TinyUnicode-Medium -fill "#fffdc3" -annotate +10+10 "Christian Salas-Eljatib" pana2drone_cse.jpg
 
+## Sobre los ejemplos de R y coursework

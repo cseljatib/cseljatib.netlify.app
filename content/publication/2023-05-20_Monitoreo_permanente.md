@@ -1,7 +1,7 @@
 +++
 title = "Monitoreo permanente de bosques naturales en las áreas silvestres protegidas de Chile: una necesidad urgente"
 date = "2023-05-20"
-authors = ["C. Salas-Eljatib", "R. Vargas-Gaeta", "D. P. Soto", "P. J. Donoso"]
+authors = ["C. Salas-Eljatib", "R. Vargas-Gaete", "D. P. Soto", "P. J. Donoso"]
 publication_types = ["2"]
 publication = "Bosque, 44 : 3-7. https://doi.org/10.4067/S0717-92002023000100003"
 publication_short = "Bosque, 44 : 3-7. https://doi.org/10.4067/S0717-92002023000100003"

@@ -12,7 +12,7 @@
 <meta name="author" content="Christian Salas-Eljatib, Ph.D." />
 
 
-<title>Cálculo de la altura dominante</title>
+<title>Estimación de la altura dominante</title>
 
 <script>// Pandoc 2.9 adds attributes on both header and div. We remove the former (to
 // be compatible with the behavior of Pandoc < 2.8).
@@ -371,7 +371,7 @@ display: none;
 
 
 
-<h1 class="title toc-ignore">Cálculo de la altura dominante</h1>
+<h1 class="title toc-ignore">Estimación de la altura dominante</h1>
 <h4 class="author">Christian Salas-Eljatib, Ph.D.</h4>
 <h4 class="date">Email: <a href="mailto:cseljatib@gmail.com" class="email">cseljatib@gmail.com</a> | Web: <a href="https://eljatib.com" class="uri">https://eljatib.com</a></h4>
 
@@ -380,7 +380,7 @@ display: none;
 
 <style>H1{color:DarkRed;}</style>
 <style>H2{color:DarkGreen;}</style>
-<p><font size="2"> Última actualización de este sitio: 15 mayo, 2023
+<p><font size="2"> Última actualización de este sitio: 27 junio, 2023
 </font></p>
 <p><span style="color:blue">————————</span></p>
 <div id="contexto" class="section level2">
@@ -388,9 +388,8 @@ display: none;
 <p>La altura dominante es una variable crucial en ecología forestal y
 para toma de decisiones de manejo <span class="citation">(<a href="#ref-salas21" role="doc-biblioref">Salas-Eljatib,
 2021a</a>)</span>. Se define como la altura media de los 100 árboles de
-mayor diámetro en 1 hectárea, sin embargo en la práctica se calcula en
-base a parcelas de muestreo de diferentes superficies <span class="citation">(<a href="#ref-garcia98" role="doc-biblioref">García,
-1998</a>)</span>.</p>
+mayor diámetro en 1 hectárea, sin embargo en la práctica se estima en
+base a parcelas de muestreo de diferentes superficies <span class="citation">(<a href="#ref-rennolls78" role="doc-biblioref">Rennolls, 1978</a>)</span>.</p>
 </div>
 <div id="datos" class="section level2">
 <h2>Datos</h2>
@@ -406,7 +405,7 @@ Chile.</p>
 &gt; df &lt;- eucaplot2</code></pre>
 <p>Revisemos los datos</p>
 <pre class="r"><code>&gt; head(df) #primeras seis filas</code></pre>
-<pre><code>   dap sanidad forma dominancia htot
+<pre><code>   dap sanidad forma dominancia atot
 1 28.0       1     1          2   27
 2 35.5       1     1          1   31
 3 34.0       1     2          1   31
@@ -424,7 +423,7 @@ str()}\)</span></p>
  $ sanidad   : int  1 1 1 1 1 1 1 1 1 1 ...
  $ forma     : int  1 1 2 2 2 1 1 1 2 2 ...
  $ dominancia: int  2 1 1 1 2 2 2 1 2 1 ...
- $ htot      : int  27 31 31 35 27 26 27 30 27 33 ...</code></pre>
+ $ atot      : int  27 31 31 35 27 26 27 30 27 33 ...</code></pre>
 </div>
 <div id="estimando-la-altura-dominante" class="section level2">
 <h2>Estimando la altura dominante</h2>
@@ -441,9 +440,9 @@ representarían a los 100 respectivos en 1 ha.</p>
 <p>Esta forma de calcular la altura dominante, podemos realizar en R
 <span class="citation">(<a href="#ref-Rcite" role="doc-biblioref">R Core
 Team, 2022</a>)</span> como</p>
-<pre class="r"><code>&gt; sort(df$htot,decreasing = T)[1:5]</code></pre>
+<pre class="r"><code>&gt; sort(df$atot,decreasing = T)[1:5]</code></pre>
 <pre><code>[1] 35 35 33 31 31</code></pre>
-<pre class="r"><code>&gt; mean(sort(df$htot,decreasing = T)[1:5])</code></pre>
+<pre class="r"><code>&gt; mean(sort(df$atot,decreasing = T)[1:5])</code></pre>
 <pre><code>[1] 33</code></pre>
 <p>Por lo tanto, la altura dominante, mediante el estimador tradicional
 es 33 metros.</p>
@@ -462,7 +461,7 @@ denominado estimador-<span class="math inline">\(U\)</span> de <span class="cita
 <p>De esta forma la altura dominante calculada mediante el
 estimador-<span class="math inline">\(U\)</span> se obtiene con</p>
 <pre class="r"><code>&gt; source(&quot;fxAltDom.R&quot;)
-&gt; TopHeight(sort(df$htot), 100 * A)</code></pre>
+&gt; TopHeight(sort(df$atot), 100 * A)</code></pre>
 <pre><code>[1] 32.426</code></pre>
 <p>Por lo tanto, la altura dominante, mediante este estimador
 alternativo es 32.426 metros.</p>
