@@ -1,4 +1,5 @@
 # Mi sitio web
+ojo, desde carpeta de cseljatib.netlify.app
 
 ## Como funciona esto?
 para compilar esta web, proceder como sigue
