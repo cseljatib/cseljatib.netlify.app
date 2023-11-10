@@ -16,7 +16,7 @@ luego debo abrir el archivo bibtex_2academic2.R, y correrlo como source() para
 asi actualizar la bibliografia.
 
 luego debo actualizar esto en github, con tal de que esta carpeta se actualice en mi
-cuenta de gitbub, y despues ir a netflix.com, y ahi hacer el "deploy"
+cuenta de gitbub, y despues ir a netlify.com, y ahi hacer el "deploy"
 
 y para detener, y partir de cero, con
 
