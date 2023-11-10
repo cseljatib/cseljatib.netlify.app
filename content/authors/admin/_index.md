@@ -14,7 +14,7 @@ education:
   - course: BSc in Forest Engineering
     institution: Universidad de La Frontera
     year: 2008
-email: "cseljatib@gmail.com"
+email: "christian.salas@uchile.cl"
 first_name: Christian
 highlight_name: true
 interests:
@@ -25,9 +25,9 @@ interests:
 - Sampling
 last_name: Salas-Eljatib
 organizations:
-- name: Universidad Mayor
-  url: https://www.cem.umayor.cl/
-role: Full Professor of Biometrics
+- name: Universidad de Chile
+  url: https://forestal.uchile.cl
+role: Full Professor of Forest Biometrics
 social:
 - icon: envelope
   icon_pack: fas
@@ -59,7 +59,7 @@ highlight_name: true
 ---
 
 
-I am a Full Professor of Biometrics at the [Centre of Ecosystem Modelling and Monitoring (CEM)](https://www.cem.umayor.cl/) at the [Universidad Mayor](https://www.umayor.cl/), in Santiago, Chile. His research interests include biometrics, applied statistics and ecological modelling. I lead the Biometrics group, which develops mathematical and statistical models for forecasting forest ecosystem features, allometry, and sampling.
+I am a Full Professor of Forest Biometrics and Modelling at the [Department of Forest Management and Environment](https://forestal.uchile.cl/facultad/departamentos/gestion-forestal-y-su-medio-ambiente) of the [Faculty of Forest Science and Nature Conservation](https://forestal.uchile.cl) at the [Universidad de Chile](https://uchile.cl/), in Santiago, Chile. My research interests include biometrics, applied statistics and ecological modelling. I lead the Forest Biometrics Lab, which develops mathematical and statistical models for forecasting forest ecosystem features, allometry, and sampling.
 
 
 <!--- 
