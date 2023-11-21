@@ -29,7 +29,7 @@ experience:
     location: Santiago, Chile
     date_start: '2023-10-01'
     date_end: ''
-    description: Departamento de Gestion Forestal y su Medio Ambiente #|2-
+    description: Departamento de Gestión Forestal y su Medio Ambiente #|2-
         # Responsibilities include:
         # 
         # * Analysing

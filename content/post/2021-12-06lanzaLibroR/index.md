@@ -25,7 +25,7 @@ links:
 ---
 
 
-> *A mediados de noviembre se ha publicado el libro "Análisis de datos con el programa estadístico R: una introducción aplicada", de Christian Salas-Eljatib. El libro pretende ser un texto de consulta para aquellos usuarios interesados desde el nivel más básico en análisis de datos, hasta aquellos que deben explorar datos, y ajustar modelos estadísticos lineales*
+> *A mediados de noviembre se ha publicado el libro "Análisis de datos con el programa estadístico R: una introducción aplicada", de Christian Salas-Eljatib. El libro pretende ser un texto de consulta para aquellos usuarios interesados desde el nivel más básico en análisis de datos, hasta aquellos que deben explorar datos, y ajustar modelos estadísticos lineales.*
 
 <sub> Posteado: 8 de diciembre, 2021</sub>
 

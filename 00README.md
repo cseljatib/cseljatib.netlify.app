@@ -12,7 +12,10 @@ blogdown::serve_site()
 
 escribir desde carpeta lo q entraron a la fuerza
 
-luego aca, estan los logos
+lo primero que se ve de la pagina es el inicio, lo cual se modifica en
+/home/christian/Dropbox/GitHub/cseljatib.netlify.app/content/author/admin/_index.md
+
+luego aca, en la siguiente ruta estan los logos
 /home/christian/Dropbox/GitHub/cseljatib.netlify.app/assets/media/icons
 
 primero editar el archivo con mis publicaciones "academic-publications.bib"
