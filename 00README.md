@@ -10,6 +10,11 @@ library(blogdown)
 
 blogdown::serve_site()
 
+escribir desde carpeta lo q entraron a la fuerza
+
+luego aca, estan los logos
+/home/christian/Dropbox/GitHub/cseljatib.netlify.app/assets/media/icons
+
 primero editar el archivo con mis publicaciones "academic-publications.bib"
 
 luego debo abrir el archivo bibtex_2academic2.R, y correrlo como source() para

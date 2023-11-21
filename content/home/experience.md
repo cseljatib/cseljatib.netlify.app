@@ -22,37 +22,19 @@ subtitle: Academic experience
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Full Professor
-    company: Universidad Mayor
-    company_url: 'https://cem.umayor.cl'
-    company_logo: org-umayor
+  - title: Professor
+    company: Universidad de Chile
+    company_url: 'http://forestal.uchile.cl'
+    company_logo: logoUchileCol  
     location: Santiago, Chile
-    date_start: '2018-11-10'
+    date_start: '2023-10-01'
     date_end: ''
-    description: Centre for Ecosystem Modelling and Monitoring #|2-
+    description: Departamento de Gestion Forestal y su Medio Ambiente #|2-
         # Responsibilities include:
         # 
         # * Analysing
         # * Modelling
         # * Deploying
-
-  # - title: Associate Professor
-  #   company: Universidad de La Frontera
-  #   company_url: 'https://www.ufro.cl'
-  #   company_logo: org-ufro
-  #   location: Temuco, Chile
-  #   date_start: '2018-08-01'
-  #   date_end: ''
-  #   description: (part-time) Vicerrectoria de Investigacion y Postgrado
-  #   
-  # - title: Full Professor
-  #   company: Universidad de Chile
-  #   company_url: 'http://forestal.uchile.cl'
-  #   company_logo: org-uchile
-  #   location: Santiago, Chile
-  #   date_start: '2020-07-01'
-  #   date_end: ''
-  #   description: (part-time) Departamento de Silvicultura y Conservacion de La Naturaleza
 
   - title: Adjunct Faculty
     company: University of Maine
@@ -62,6 +44,33 @@ experience:
     date_start: '2017-07-01'
     date_end: ''
     description: School of Forest Resources
+    
+  - title: Associate Professor
+    company: Universidad de La Frontera
+    company_url: 'https://www.ufro.cl'
+    company_logo: org-ufro
+    location: Temuco, Chile
+    date_start: '2018-08-01'
+    date_end: ''
+    description: (part-time) Vicerrectoria de Investigacion y Postgrado
+    
+  - title: Professor
+    company: Universidad Mayor
+    company_url: 'https://cem.umayor.cl'
+    company_logo: org-umayor
+    location: Santiago, Chile
+    date_start: '2018-08-01'
+    date_end: '2023-09-30'
+    description: Centre for Ecosystem Modelling and Monitoring
+
+  - title: Full Professor
+    company: Universidad de Chile
+    company_url: 'http://forestal.uchile.cl'
+    company_logo: logoUchileCol
+    location: Santiago, Chile
+    date_start: '2018-06-01'
+    date_end: '2023-07-30'
+    description: (part-time) Departamento de Silvicultura y Conservacion de La Naturaleza
 
   - title: Associate Professor
     company: Universidad de La Frontera
