@@ -15,7 +15,7 @@ tags:
 url_video: "https://www.youtube.com/embed/ajZvZ6mbipw"
 ---
 
-> *Entrevista sobre Simulación de Bosques Nativos. Emisión en el canal de televisión Mega, dentro de la sección MundoPlus* 
+> *Entrevista sobre Simulación de Bosques Nativos. Emisión en el canal de televisión Mega, dentro de la sección MundoPlus.* 
 
 
 <sub> Posteado: 2 de diciembre, 2019</sub>
