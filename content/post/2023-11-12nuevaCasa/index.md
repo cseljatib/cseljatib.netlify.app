@@ -6,7 +6,7 @@ image:
   placement: 2
 math: true
 title: Nueva casa de estudios
-excerpt: "Análisis de datos con el programa estadístico R: una introducción aplicada"
+excerpt: "Integrandome a una nueva casa de estudios"
 tags:
 - University  
 - Research
@@ -20,7 +20,7 @@ links:
   url: https://forestal.uchile.cl/noticias/211064/christian-salas-eljatib-nuevo-profesor-jornada-completa-de-la-fcfcn
 - icon: twitter
   icon_pack: fab
-  name: Mencion en Twitter
+  name: Twitter de la Facultad
   url: https://x.com/IForestalUChile?s=20  
 ---
 
