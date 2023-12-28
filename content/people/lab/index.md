@@ -4,13 +4,13 @@ external_link: ""
 image:
 # caption: Photo by [**Christian Salas-Eljatib**](https://eljatib.com)
   focal_point: Smart
-summary: Students and researchers currently working with me.
+summary: Students, research assistants, and researchers currently working with me.
 tags:
 - Lab
 title: My lab
 ---
 
-> *Current researchers and students directly working with me*
+> *Current researchers, research assistants, and students currently working with me.*
 
 ## Research assistant
 |   |   |   | 
