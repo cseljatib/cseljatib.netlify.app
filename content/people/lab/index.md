@@ -12,11 +12,18 @@ title: My lab
 
 > *Current researchers and students directly working with me*
 
+## Research assistant
+|   |   |   | 
+|---|---|---|
+| *Nicolas Campos*  | B.S. in Forest Engineering   |  ![](/images/nicoCampos.png) | 
 
+
+<!--- 
 ## Researchers
 |   |   |   | 
 |---|---|---|
-| *Joaquín Riquelme*  |Natural Resources Engineer, M.S.   |  ![](/images/joaquin_2.jpg) | 
+| *Nicolas Campos*  |Forest Engineering   |  ![](/images/joaquin_2.jpg) | 
+-->
 
 --------
 
@@ -24,10 +31,11 @@ title: My lab
 
 |   |   |   |
 |---|---|---|
-|*Danniela Espinoza*  | B.S. in Forest Engineering, Universidad de Chile (Santiago, Chile)   |   |
-|*Antonia Astorga*  | B.S. in Biology, Universidad de Chile (Santiago, Chile)   |   |
+|*Rocío Reinoso*  | B.S. in Forest Engineering, Universidad de Chile (Santiago, Chile)   |   |
+   |   |
 
 <!--- 
+|*Antonia Astorga*  | B.S. in Biology, Universidad de Chile (Santiago, Chile)
 ![](/images/grupoEnRuca.jpg)
 
 (see details here `http://simuladorpellin.com`)

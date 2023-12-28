@@ -139,6 +139,7 @@ de La Frontera.
 
 |   |   |   |
 |---|---|---|
+|*Danniela Espinoza*  | B.S. in Forest Engineering, Universidad de Chile (Santiago, Chile) **2022**   |   |
 |*Nicolas Rodriguez*  |  B.S. in Geology, Universidad Mayor (Santiago, Chile). **2019**.   | ![](/images/nicoR_2.jpg)    |
 |*Nicolas Pino*  |  B.S. in Mathematical Engineering, Universidad de La Frontera (Temuco, Chile). **2017**.   | ![](/images/nicoP_2.jpg)    |
 
