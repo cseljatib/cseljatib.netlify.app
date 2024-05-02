@@ -1,6 +1,8 @@
 # Mi sitio web
 ojo, desde carpeta de cseljatib.netlify.app
 
+blogdown::install_hugo()
+
 ## Como funciona esto?
 para compilar esta web, proceder como sigue
 1. abrir archivo proyecto
