@@ -1,7 +1,31 @@
 # Mi sitio web
 ojo, desde carpeta de cseljatib.netlify.app
 
-blogdown::install_hugo()
+remotes::install_github('rstudio/blogdown')
+
+blogdown::check_site()
+
+esto no es necesario
+> blogdown::install_hugo()
+
+o 
+
+%%% > blogdown::install_hugo("0.97.3")
+blogdown::install_hugo("0.104.3")
+
+blogdown::config_Rprofile()
+
+blogdown::clean_duplicates(preview = FALSE)
+blogdown::clean_duplicates(preview = FALSE)
+
+blogdown::edit_draft(c(
+  "content/privacy.md",
+  "content/terms.md"
+  ))
+  
+blogdown::build_site(build_rmd = 'newfile')
+
+blogdown::build_site()
 
 ## Como funciona esto?
 para compilar esta web, proceder como sigue

@@ -51,11 +51,11 @@ superuser: true
 # Display name
 title: Christian Salas-Eljatib
 # Full name (for SEO)
-first_name: Christian
-last_name: Salas-Eljatib
+# first_name: Christian
+# last_name: Salas-Eljatib
 
-# Highlight the author in author lists? (true/false)
-highlight_name: true
+## Highlight the author in author lists? (true/false)
+# highlight_name: true
 ---
 
 
