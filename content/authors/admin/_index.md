@@ -27,7 +27,7 @@ last_name: Salas-Eljatib
 organizations:
 - name: Universidad de Chile
   url: https://forestal.uchile.cl
-role: Full Professor of Forest Biometrics
+role: Professor of Forest Biometrics and Modelling
 social:
 - icon: envelope
   icon_pack: fas
