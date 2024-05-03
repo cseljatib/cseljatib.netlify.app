@@ -11,8 +11,9 @@ esto no es necesario
 
 o 
 
-%%% > blogdown::install_hugo("0.97.3")
-blogdown::install_hugo("0.104.3")
+%%% blogdown::install_hugo("0.97.3")
+%%% blogdown::install_hugo("0.104.3")
+blogdown::install_hugo("0.123.8")
 
 blogdown::config_Rprofile()
 
