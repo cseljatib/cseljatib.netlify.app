@@ -4,6 +4,7 @@ ojo, desde carpeta de cseljatib.netlify.app
 remotes::install_github('rstudio/blogdown')
 
 blogdown::check_site()
+blogdown::build_site(build_rmd = "newfile")
 
 esto no es necesario
 > blogdown::install_hugo()
