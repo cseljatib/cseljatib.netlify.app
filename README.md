@@ -1,4 +1,3 @@
-# ==============
 # Mi sitio web
 # ==============
 
@@ -28,42 +27,39 @@ Para compilar esta web, proceder como sigue:
 luego aca, en la siguiente ruta estan los logos */home/christian/Dropbox/GitHub/cseljatib.netlify.app/assets/media/icons*
 
 ## Sobre las citas bibliograficas
-Primero editar el archivo con mis publicaciones "*academic-publications.bib*", la cual se puede realizar en cualquier editor, pero tambien en Rstudio.
+- Primero editar el archivo con mis publicaciones "*academic-publications.bib*", la cual se puede realizar en cualquier editor, pero tambien en Rstudio.
 
-Este archivo puede tener el formato tipo LaTeX, es decir como BibTeX.
+- Este archivo puede tener el formato tipo LaTeX, es decir como BibTeX.
 
-Luego debo abrir el archivo *bibtex_2academic2.R*, y correrlo como source() para asi generar la bibliografia, en formato Mark-Down. Estos archivos, los cuales son uno por cada entrada, tienen extension .md y quedaran en el folder *~/content/publication*
+- Luego debo abrir el archivo *bibtex_2academic2.R*, y correrlo como source() para asi generar la bibliografia, en formato Mark-Down. Estos archivos, los cuales son uno por cada entrada, tienen extension .md y quedaran en el folder *~/content/publication*
 
-## Conectando el web producido aca en el PC hacia el servidor
+## Conectando el web producido hacia el servidor
 
-El repositorio *github/cseljatib.netlify.app* debe ser actualizado  en github. Para eso puedo abrir el app GitHub desktop, con tal de que esta carpeta se actualice en mi cuenta de gitbub, mediante el push-up al repositorio respectivo.
+- El repositorio *github/cseljatib.netlify.app* debe ser actualizado  en github. Para eso puedo abrir el app GitHub desktop, con tal de que esta carpeta se actualice en mi cuenta de gitbub, mediante el push-up al repositorio respectivo.
 
-Posteriormente, hay que ingresar  a *netlify.com*, logeandome con mi cuenta de *github.com*, y ahi seleccionar el repositorio *cseljatib.netlify.app* y ahi seleccionar la opcion "deploy".
+- Posteriormente, hay que ingresar  a *netlify.com*, logeandome con mi cuenta de *github.com*, y ahi seleccionar el repositorio *cseljatib.netlify.app* y ahi seleccionar la opcion "deploy".
 
+## Mas detalles sobre lo de blogdown
 
-y para detener, y partir de cero, con
+- Para detener, y partir de cero, con
+> blogdown::stop_server()
 
-blogdown::stop_server()
+- En caso de problemas, o chequear, 
+> blogdown::check_site()
 
+> blogdown::build_site(build_rmd = "newfile")
 
+- Para instalar
+> remotes::install_github('rstudio/blogdown')
 
-## en caso de problemas
-blogdown::check_site()
+## Mas detalles sobre lo de hugo
 
++ blogdown::install_hugo()
++ blogdown::install_hugo("0.97.3")
++ blogdown::install_hugo("0.104.3")
++ blogdown::install_hugo("0.132.2")
++ blogdown::install_hugo("0.119.0")
 
-### y beyond
-remotes::install_github('rstudio/blogdown')
-
-blogdown::check_site()
-blogdown::build_site(build_rmd = "newfile")
-
-## Esto no es necesario
-## blogdown::install_hugo()
-
-blogdown::install_hugo("0.97.3")
-### blogdown::install_hugo("0.104.3")
-### blogdown::install_hugo("0.132.2")
-#0.119.0
 blogdown::config_Rprofile()
 
 blogdown::clean_duplicates(preview = FALSE)
