@@ -8,6 +8,7 @@ Para compilar esta web, proceder como sigue:
  + En la consola de R escribir
  
 > library(blogdown)
+
 > blogdown::serve_site()
 
 ## Para editar la web
@@ -16,8 +17,8 @@ Para compilar esta web, proceder como sigue:
 
 + los principales detalles de cada seccion de la pagina web se encuentran en la carpeta */content/home*, en los archivos
 
-1. people.md
-2. experiencie.md
+ +1 people.md
+ +2 experiencie.md
 
 luego aca, en la siguiente ruta estan los logos */home/christian/Dropbox/GitHub/cseljatib.netlify.app/assets/media/icons*
 
