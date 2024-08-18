@@ -1,5 +1,6 @@
 # Mi sitio web
-ojo, desde carpeta de cseljatib.netlify.app
+
+Este archivo se puede abrir desde la carpeta de *github/cseljatib.netlify.app*
 
 ## Como funciona esto?
 para compilar esta web, proceder como sigue
@@ -12,19 +13,23 @@ blogdown::serve_site()
 
 escribir desde carpeta lo q entraron a la fuerza
 
-lo primero que se ve de la pagina es el inicio, lo cual se modifica en
-/home/christian/Dropbox/GitHub/cseljatib.netlify.app/content/author/admin/_index.md
+lo primero que se ve de la pagina es el inicio, lo cual se modifica en */home/christian/Dropbox/GitHub/cseljatib.netlify.app/content/author/admin/_index.md*
 
-luego aca, en la siguiente ruta estan los logos
-/home/christian/Dropbox/GitHub/cseljatib.netlify.app/assets/media/icons
+luego aca, en la siguiente ruta estan los logos */home/christian/Dropbox/GitHub/cseljatib.netlify.app/assets/media/icons*
 
-primero editar el archivo con mis publicaciones "academic-publications.bib"
+### sobre citas bibliograficas
+Primero editar el archivo con mis publicaciones "*academic-publications.bib*", la cual se puede realizar en cualquier editor, pero tambien en Rstudio.
 
-luego debo abrir el archivo bibtex_2academic2.R, y correrlo como source() para
-asi actualizar la bibliografia.
+Este archivo puede tener el formato tipo LaTeX, es decir como BibTeX.
 
-luego debo actualizar esto en github, con tal de que esta carpeta se actualice en mi
-cuenta de gitbub, y despues ir a netlify.com, y ahi hacer el "deploy"
+Luego debo abrir el archivo *bibtex_2academic2.R*, y correrlo como source() para asi generar la bibliografia, en formato Mark-Down. Estos archivos, los cuales son uno por cada entrada, tienen extension .md y quedaran en el folder *~/content/publication*
+
+## Conectando el web producido aca en el PC hacia el servidor
+
+El repositorio *github/cseljatib.netlify.app* debe ser actualizado  en github. Para eso puedo abrir el app GitHub desktop, con tal de que esta carpeta se actualice en mi cuenta de gitbub, mediante el push-up al repositorio respectivo.
+
+Posteriormente, hay que ingresar  a *netlify.com*, logeandome con mi cuenta de *github.com*, y ahi seleccionar el repositorio *cseljatib.netlify.app* y ahi seleccionar la opcion "deploy".
+
 
 y para detener, y partir de cero, con
 
