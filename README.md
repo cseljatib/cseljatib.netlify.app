@@ -1,4 +1,6 @@
+# ==============
 # Mi sitio web
+# ==============
 
 Este archivo se puede abrir desde la carpeta de *github/cseljatib.netlify.app*
 
@@ -13,16 +15,19 @@ Para compilar esta web, proceder como sigue:
 
 ## Para editar la web
 
-+ lo primero que se ve de la pagina es el inicio, lo cual se modifica en */home/christian/Dropbox/GitHub/cseljatib.netlify.app/content/author/admin/_index.md*
+- Lo primero que se ve de la pagina es el inicio, lo cual se modifica en */home/christian/Dropbox/GitHub/cseljatib.netlify.app/content/author/admin/_index.md*
 
-+ los principales detalles de cada seccion de la pagina web se encuentran en la carpeta */content/home*, en los archivos
+- Los principales detalles de cada seccion de la pagina web se encuentran en la carpeta */content/home*, en los archivos
 
- +1 people.md
- +2 experiencie.md
-
+ 1. people.md
+ 2. experiencie.md
+ 3. publications.md
+ 4. contact.md
+ 5. *etc*
+ 
 luego aca, en la siguiente ruta estan los logos */home/christian/Dropbox/GitHub/cseljatib.netlify.app/assets/media/icons*
 
-### sobre citas bibliograficas
+## Sobre las citas bibliograficas
 Primero editar el archivo con mis publicaciones "*academic-publications.bib*", la cual se puede realizar en cualquier editor, pero tambien en Rstudio.
 
 Este archivo puede tener el formato tipo LaTeX, es decir como BibTeX.
