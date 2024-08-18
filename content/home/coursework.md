@@ -10,7 +10,7 @@ headless: true
 weight: 7
 
 title: Coursework
-subtitle: Depending on their main topic, this section offers some material I often use to accompany my teaching duties.
+subtitle: This section offers some material covering topics I often cover or use to accompany my teaching. Main disciplines segregate the topics.
 
 content:
   # Filter on criteria
