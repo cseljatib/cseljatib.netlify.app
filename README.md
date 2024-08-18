@@ -2,18 +2,22 @@
 
 Este archivo se puede abrir desde la carpeta de *github/cseljatib.netlify.app*
 
-## Como funciona esto?
-para compilar esta web, proceder como sigue
-1. abrir archivo proyecto
-2. en la consola escribir
+## Compilando este sitio web
+Para compilar esta web, proceder como sigue:
+ + Abrir archivo proyecto *.Rroj* en **Rstudio**
+ + En la consola de R escribir
+ 
+> library(blogdown)
+> blogdown::serve_site()
 
-library(blogdown)
+## Para editar la web
 
-blogdown::serve_site()
++ lo primero que se ve de la pagina es el inicio, lo cual se modifica en */home/christian/Dropbox/GitHub/cseljatib.netlify.app/content/author/admin/_index.md*
 
-escribir desde carpeta lo q entraron a la fuerza
++ los principales detalles de cada seccion de la pagina web se encuentran en la carpeta */content/home*, en los archivos
 
-lo primero que se ve de la pagina es el inicio, lo cual se modifica en */home/christian/Dropbox/GitHub/cseljatib.netlify.app/content/author/admin/_index.md*
+1. people.md
+2. experiencie.md
 
 luego aca, en la siguiente ruta estan los logos */home/christian/Dropbox/GitHub/cseljatib.netlify.app/assets/media/icons*
 
@@ -100,16 +104,5 @@ una alternativa diferente es no solo usando dominios, como en el link anterior, 
 https://levelup.gitconnected.com/netlify-custom-domains-8b4cc5fddb5d
 
 
-## Sobre bibliografia
-para generar los .md de cada cita, se debe correr el archivo "bibtex2_academic2.R", el cual
- se basa en tener en la misma carpeta al archivo BibTeX "academic-publications.bib"
- 
- 
-## Las fotos de la galeria
-Deben ser dejadas en la carpeta "/assets/media/album/demo". Ojo que tambien cree una galeria de fotos para mis colegas, y esa carpeta esta en la ruta "/assets/media/album/colegas"
-
-Para agregarle un watermark, he probado varias cosas, pero nada es muy automatico y flexible, una buena es desde el terminal en linux, y
-
-convert pana2drone.jpg -gravity SouthEast -pointsize 16 -font TinyUnicode-Medium -fill "#fffdc3" -annotate +10+10 "Christian Salas-Eljatib" pana2drone_cse.jpg
 
 ## Sobre los ejemplos de R y coursework
