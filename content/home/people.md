@@ -10,7 +10,7 @@ headless: true
 weight: 5 
 
 title: People
-subtitle: This section lists current and former people who are either part of my research group or my research endeavours.
+subtitle: Current and former individuals who are either part of my research or my endeavours.
 
 content:
   # Page type to display. E.g. project.

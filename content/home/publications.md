@@ -14,7 +14,7 @@ weight: 2
 #weight: 3 antes la deje en 90
 
 title: Publications
-subtitle: 'Papers, chapters, book, reports, etc, all of these sort of things'
+subtitle: 'Articles, chapters, books, conference papers, and all these sorts of things'
 
 content:
   # Filter on criteria
