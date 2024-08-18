@@ -14,7 +14,9 @@ bibtex_2academic2 <- function(bibfile,
   # Import the bibtex file and convert to data.frame
   mypubs   <- ReadBib(bibfile, check = "warn", .Encoding = "UTF-8") %>%
     as.data.frame()
-
+names(mypubs)
+mypubs[1:10,c("bibtype","type")]
+tail(mypubs[,c("bibtype","type")])
   #define custom function to add columns to data frame if they do not exist
   add_cols <- function(df, cols) {
     add <- cols[!cols %in% names(df)]
@@ -29,7 +31,10 @@ bibtex_2academic2 <- function(bibfile,
   #add three columns if they don't already exist
   mypubs <- add_cols(mypubs, c("url","doi","isbn",'abstract','annotation','editor','keywords','booktitle','address',"institution","publisher"))
 mypubs
-# mypubs$type <- mypubs$bibtype
+unique(mypubs$bibtype)
+unique(mypubs$type)
+mypubs[1:10,c("bibtype","type")]
+ #mypubs$type <- mypubs$bibtype
  
   mypubs$abstract <- mypubs$abstract %>% replace_na('(Abstract not available)') #otherwise it appears "NA" in post
 ##  mypubs$annotation <- mypubs$annotation %>% replace_na('image_preview = ""') #otherwise
@@ -80,6 +85,21 @@ mypubs
   # assign "categories" to the different types of publications
   mypubs   <- mypubs %>%
     dplyr::mutate(
+      # pubtype = dplyr::case_when(bibtype == "Article" ~ "Article",
+      #                            bibtype == "Article in Press" ~ "Article in Press",
+      #                            bibtype == "InProceedings" ~ "InProceedings",
+      #                            bibtype == "Proceedings" ~ "Proceedings",
+      #                            bibtype == "Conference" ~ "Conference",
+      #                            bibtype == "Conference Paper" ~ "Conference Paper",
+      #                            bibtype == "MastersThesis" ~ "MastersThesis",
+      #                            bibtype == "PhdThesis" ~ "PhdThesis",
+      #                            bibtype == "Manual" ~ "Manual",
+      #                            bibtype == "TechReport" ~ "TechReport",
+      #                            bibtype == "Book" ~ "Book",
+      #                            bibtype == "InCollection" ~ "InCollection",
+      #                            bibtype == "InBook" ~ "InBook",
+      #                            bibtype == "Misc" ~ "Misc", 
+      #                            TRUE ~ "MiscB"))
       pubtype = dplyr::case_when(bibtype == "Article" ~ "2",
                                  bibtype == "Article in Press" ~ "2",
                                  bibtype == "InProceedings" ~ "6",
@@ -93,11 +113,15 @@ mypubs
                                  bibtype == "Book" ~ "5",
                                  bibtype == "InCollection" ~ "6",
                                  bibtype == "InBook" ~ "6",
-                                 bibtype == "Misc" ~ "9", 
+                                 bibtype == "Misc" ~ "9",
                                  TRUE ~ "0"))
 
+  mypubs[1:10,c("bibtype","pubtype","type")]
+  tail(mypubs[,c("bibtype","pubtype","type")])
+  sort(unique(mypubs$pubtype))
   #el numero 9 tiene que corresponder a la posicion respectiva en el archivo
   #".../modules/wowchemy/v5/data/publication_types.toml"
+  ##mypubs$pubtype <- mypubs$bibtype
   
   # create a function which populates the md template based on the info
   # about a publication
@@ -142,9 +166,13 @@ mypubs
       auth_hugo <- stringi::stri_trans_general(auth_hugo, "latin-ascii")
       write(paste0("authors = [\"", auth_hugo,"\"]"), fileConn, append = T)
 
+      
       # Publication type. Legend:
       # 0 = Uncategorized, 1 = Conference paper, 2 = Journal article
       # 3 = Manuscript, 4 = Report, 5 = Book,  6 = Book section
+      # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+      # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+      # 7 = Thesis; 8 = Patent      
       write(paste0("publication_types = [\"", x[["pubtype"]],"\"]"),
             fileConn, append = T)
 

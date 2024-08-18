@@ -36,11 +36,11 @@ tags:
 ------------------------------------------------------------------------
 
 <font size="2">
-Última actualización de este sitio: 02 mayo, 2024 </font>
+Última actualización de este sitio: 17 August, 2024 </font>
 
 ## Adquirir
 
-- Versión impresa: En el siguiente [**link**](https://tienda.zigzag.cl/9789566086109-analisis-de-datos-con-el-programa-estadistico-r.html) se puede realizar la compra del libro a través de la librería Zig-Zag.
+- Versión impresa: Fue producida por la libreria ZigZag, sin embargo, ya no existen disponible copias ahi. No obstante, es posible encontrarlo en sitios web de buscadores de libro. Por ejemplo en [**buscalibre.cl**](https://www.buscalibre.cl/libro-analisis-de-datos-con-el-programa-estadistico-r/9789566086109/p/53775485) se puede realizar la compra del libro.
 - Versión epub: Disponible en [**Amazon**](https://www.amazon.com/An%C3%A1lisis-datos-programa-estad%C3%ADstico-introducci%C3%B3n-ebook/dp/B09LRHNGPL/ref=sr_1_1?keywords=Christian+Salas+Eljatib&qid=1637176913&qsid=134-6265285-4112915&s=books&sr=1-1&sres=B09LRHNGPL&srpt=ABIS_BOOK), [**GooglePlay**](https://play.google.com/store/books/details/Christian_Salas_Eljatib_An%C3%A1lisis_de_datos_con_el_p?id=15dOEAAAQBAJ&hl=es_CL&gl=US) y en [**Libros Patagonia**](https://www.librospatagonia.com/library/search/Christian%20Salas%20Eljatib).
 
 ## Instalando R
@@ -203,7 +203,7 @@ salas06 /myPubs/2006xylofagos_RebolledoSalas_Bosque.pdf
 &#10;+ [**¿Por qué R?**](/rlibro/01porQueR.pdf)
 &#10;Una característica clave del paquete **datana** es que 
 &#10;
-```r
+``` r
 > library(datana)
 > head(pspLlancahue) #primeras seis filas
 ```
@@ -216,7 +216,7 @@ salas06 /myPubs/2006xylofagos_RebolledoSalas_Bosque.pdf
 5      B116       Ot   5    25.9   127.0      AV
 6      B239       Ot   5     5.4     5.6      AV
 ```
-&#10;```r
+&#10;``` r
 > nrow(df) #numero de filas de la dataframe
 ```
 &#10;```

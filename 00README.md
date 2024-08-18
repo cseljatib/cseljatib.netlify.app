@@ -1,33 +1,5 @@
-# Mi sitio web
+## Mi sitio web
 ojo, desde carpeta de cseljatib.netlify.app
-
-remotes::install_github('rstudio/blogdown')
-
-blogdown::check_site()
-blogdown::build_site(build_rmd = "newfile")
-
-esto no es necesario
-> blogdown::install_hugo()
-
-o 
-
-%%% blogdown::install_hugo("0.97.3")
-%%% blogdown::install_hugo("0.104.3")
-blogdown::install_hugo("0.123.8")
-
-blogdown::config_Rprofile()
-
-blogdown::clean_duplicates(preview = FALSE)
-blogdown::clean_duplicates(preview = FALSE)
-
-blogdown::edit_draft(c(
-  "content/privacy.md",
-  "content/terms.md"
-  ))
-  
-blogdown::build_site(build_rmd = 'newfile')
-
-blogdown::build_site()
 
 ## Como funciona esto?
 para compilar esta web, proceder como sigue
@@ -57,6 +29,40 @@ cuenta de gitbub, y despues ir a netlify.com, y ahi hacer el "deploy"
 y para detener, y partir de cero, con
 
 blogdown::stop_server()
+
+
+
+## en caso de problemas
+blogdown::check_site()
+
+
+### y beyond
+remotes::install_github('rstudio/blogdown')
+
+blogdown::check_site()
+blogdown::build_site(build_rmd = "newfile")
+
+## Esto no es necesario
+## blogdown::install_hugo()
+
+blogdown::install_hugo("0.97.3")
+### blogdown::install_hugo("0.104.3")
+### blogdown::install_hugo("0.132.2")
+#0.119.0
+blogdown::config_Rprofile()
+
+blogdown::clean_duplicates(preview = FALSE)
+blogdown::clean_duplicates(preview = FALSE)
+
+blogdown::edit_draft(c(
+  "content/privacy.md",
+  "content/terms.md"
+  ))
+  
+blogdown::build_site(build_rmd = 'newfile')
+
+blogdown::build_site()
+
 
 ## Hugo
 - 📚 [View the **documentation**](https://wowchemy.com/docs/hugo-tutorials)
