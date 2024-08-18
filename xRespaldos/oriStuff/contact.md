@@ -9,7 +9,7 @@ headless: true
 weight: 11
 
 title: Contact
-subtitle: Information regarding my email and location. In case of  appointment, please do it by Google Calendar inviting me to my email.
+subtitle:
 
 content:
   # Automatically link email and phone or display as text?
@@ -25,29 +25,28 @@ content:
   #    captcha: true
 
   # Contact details (edit or remove options as required)
-  email: christian.salas@uchile.cl
+  email: cseljatib@gmail.com
   #phone: 888 888 88 88
   address:
-    street: Av. Santa Rosa 11315
-    city: La Pintana
-    region: Santiago
-    postcode: '(Chile)'
+   # street: 450 Serra Mall
+    city: Santiago, Chile
+  #  region: CA
+  #  postcode: '94305'
     country: Chile
     country_code: CL
- # Choose a map provider in `params.yaml` to show a map from these coordinates
   coordinates:
-    latitude: '-33.5696275'
-    longitude: '-70.6319216'
-  directions: Enter Building 1 and take the stairs to Office 13 on the second floor.
-  office_hours:
-    - 'Monday 10:00 to 13:00'
+    latitude: '-33.44456567223664'
+    longitude: '-70.66397113073741'
+  directions: Near "Los Leones" subway station.
+#  office_hours:
+#    - 'Monday 10:00 to 13:00'
 #    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendar.google.com/'
-#  contact_links:
-#    - icon: twitter
-#      icon_pack: fab
-#      name: DM Me
-#      link: 'https://twitter.com/cseljatib'
+#  appointment_url: 'https://calendly.com'
+  contact_links:
+    - icon: twitter
+      icon_pack: fab
+      name: DM Me
+      link: 'https://twitter.com/cseljatib'
 #    - icon: video
 #      icon_pack: fas
 #      name: Zoom Me
