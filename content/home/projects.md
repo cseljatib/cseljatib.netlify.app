@@ -11,7 +11,7 @@ headless: true
 weight: 4
 
 title: Projects
-subtitle: ''
+subtitle: Research projects involvement
 
 content:
   # Page type to display. E.g. project.

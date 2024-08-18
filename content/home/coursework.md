@@ -10,7 +10,7 @@ headless: true
 weight: 7
 
 title: Coursework
-subtitle:
+subtitle: Depending on their main topic, this section offers some material I often use to accompany my teaching duties.
 
 content:
   # Filter on criteria
