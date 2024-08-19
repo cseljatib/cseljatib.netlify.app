@@ -12,6 +12,8 @@ Para compilar esta web, proceder como sigue:
 
 > blogdown::serve_site()
 
+> blogdown::stop_server()
+
 ## Para editar la web
 ### Editar pagina inicio
 - Lo primero que se ve de la pagina es el inicio, lo cual se modifica en */home/christian/Dropbox/GitHub/cseljatib.netlify.app/content/author/admin/_index.md*

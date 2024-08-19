@@ -1,6 +1,6 @@
 # The function: bibtex_2academic2
 # original version from: https://jc-castillo.com/post/zotero-academic/
-# new version, tuned for simpler bibTeX references and or
+# new version, tuned for my BibTeX references and or
 # details that are more suitable to me.
 # Christian Salas-Eljatib
 bibtex_2academic2 <- function(bibfile,
@@ -11,7 +11,9 @@ bibtex_2academic2 <- function(bibfile,
   if (!require("pacman")) install.packages("pacman")
   pacman::p_load(RefManageR, dplyr, stringr, anytime, tidyr, stringi)
 
-  # Import the bibtex file and convert to data.frame
+  #mypubs   <- ReadBib("academic-publications.bib", check = "warn", .Encoding = "UTF-8") %>%
+  #  as.data.frame()  
+#### Import the bibtex file and convert to data.frame
   mypubs   <- ReadBib(bibfile, check = "warn", .Encoding = "UTF-8") %>%
     as.data.frame()
 names(mypubs)
@@ -98,7 +100,7 @@ mypubs[1:10,c("bibtype","type")]
       #                            bibtype == "Book" ~ "Book",
       #                            bibtype == "InCollection" ~ "InCollection",
       #                            bibtype == "InBook" ~ "InBook",
-      #                            bibtype == "Misc" ~ "Misc", 
+      #                            bibtype == "Misc" ~ "Misc",
       #                            TRUE ~ "MiscB"))
       pubtype = dplyr::case_when(bibtype == "Article" ~ "2",
                                  bibtype == "Article in Press" ~ "2",
@@ -119,6 +121,7 @@ mypubs[1:10,c("bibtype","type")]
   mypubs[1:10,c("bibtype","pubtype","type")]
   tail(mypubs[,c("bibtype","pubtype","type")])
   sort(unique(mypubs$pubtype))
+  sort(unique(mypubs$bibtype))
   #el numero 9 tiene que corresponder a la posicion respectiva en el archivo
   #".../modules/wowchemy/v5/data/publication_types.toml"
   ##mypubs$pubtype <- mypubs$bibtype

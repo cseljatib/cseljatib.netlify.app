@@ -1,7 +1,7 @@
 +++
 title = "The global biogeography of tree leaf form and habit"
 date = "2023-10-23"
-authors = ["H. Ma", "T. W. Crowther", "L. Mo", "D. S. Maynard", "S. S. Renner", "J. {van den Hoogen}", "Y. Zou", "J. Liang", "S. de-Miguel", "G. J. Nabuurs", "P. B. Reich others", "C. Salas-Eljatib", "{et al}"]
+authors = ["H. Ma", "T. W. Crowther", "L. Mo", "D. S. Maynard", "S. S. Renner", "J. {van den Hoogen}", "Y. Zou", "J. Liang", "S. de-Miguel", "G. J. Nabuurs", "P. B. Reich", "{other}", "C. Salas-Eljatib", "{et al}"]
 publication_types = ["2"]
 publication = "Nature Plants, 9 : 1795--1809. https://doi.org/10.1038/s41477-023-01543-5"
 publication_short = "Nature Plants, 9 : 1795--1809. https://doi.org/10.1038/s41477-023-01543-5"
