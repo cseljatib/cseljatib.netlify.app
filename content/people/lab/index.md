@@ -10,7 +10,7 @@ tags:
 title: My lab
 ---
 
-> * Students, research assistants, and researchers currently working with me.*
+> Students, research assistants, and researchers currently working with me.
 
 ## Research assistant
 |   |   |   | 
