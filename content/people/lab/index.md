@@ -10,7 +10,7 @@ tags:
 title: My lab
 ---
 
-> *Current researchers, research assistants, and students currently working with me.*
+> * Students, research assistants, and researchers currently working with me.*
 
 ## Research assistant
 |   |   |   | 
@@ -27,12 +27,21 @@ title: My lab
 
 --------
 
+## Undergraduate thesis students
+
+|   |   |   |
+|---|---|---|
+|*Rocío Reinoso*  | B.S. in Forest Engineering, Universidad de Chile (Santiago, Chile)   | ![](/images/rocioReinoso.png)  |
+|*Víctor Pacheco*  | B.S. in Forest Engineering, Universidad de Chile (Santiago, Chile)   | ![](/images/victorPacheco.png)  |
+   |   |
+
 ## Students
 
 |   |   |   |
 |---|---|---|
-|*Rocío Reinoso*  | B.S. in Forest Engineering, Universidad de Chile (Santiago, Chile)   |   |
+|*Marcos Marivil*  | B.S. in Forest Engineering, Universidad de Chile (Santiago, Chile)   | ![](/images/mathBiology.jpg)  |
    |   |
+
 
 <!--- 
 |*Antonia Astorga*  | B.S. in Biology, Universidad de Chile (Santiago, Chile)

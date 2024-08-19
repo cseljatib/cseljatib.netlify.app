@@ -12,7 +12,16 @@ Para compilar esta web, proceder como sigue:
 
 > blogdown::serve_site()
 
+Para deterner el browser y partir de nuevo
+
 > blogdown::stop_server()
+
+Para revisar potenciales problemas mediante
+> blogdown::build_site()
+
+y si hay algun problema con "go", instalar en el terminal de linux
+
+$ sudo apt install golang-go
 
 ## Para editar la web
 ### Editar pagina inicio
